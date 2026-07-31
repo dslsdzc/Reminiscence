@@ -115,3 +115,15 @@
 **已排除 11**：Comforts Modernized/Controlling/CookingForBlockheads/CraftTweaker2/CraftingTweaks/CreativeCore/Cucumber（重复条目）· CraftTweaker Sixik Utils（无 1.12.2，仅 1.16.5+）· Condition Overload（无法核实）· Craftify（Essential 前置存疑+停更+与 Net Music 重叠）· Crafting Tweaks 原版（保留 Unofficial 分支——Cleanroom 版支持 Avaritia/Extended Crafting 工作台）
 
 **兼容注意**：CompatSkills × 巫术学已知冲突（mcmod 有教程方案）· Corpse Complex × Gravestone 功能重叠（二选一或共存实测）· Crash Assistant 口碑分化（57% 认为不稳定）· Congrega Mystica（TC6 附属，正面）
+
+## Batch-08 核查发现（第 979-1126 行，49 个）
+
+**已排除 5**：Epic Fight/Epic Knights（无 1.12.2，仅 1.16.5+）· Enchantment Level Language Patch（Forge 最低 1.13）· Dynamic View（1.20+）· **Enigmatica 2: Expert - E2E（整合包成品混入，非模组）**
+
+**EnderIO 家族分支决策（重大）**：官方 EnderIO（Unlicense）vs **EnderIO CEu**（MIT，TeamDimensional，含 AE2/Mek/OC/RS 导管适配）——不可同装，建议保留 CEu（更适配 1.12.2 LTS）；EnderCore vs EnderCore CEu 同理
+
+**重叠注意**：EmberRootZoo ↔ 余烬复刻（生物重复，可配置关闭）· Endorium ↔ Fancy End/Stygian End（末地改造重叠）
+
+**批量纠偏**：Wizardry 自定义许可（整合包可用）· EnderIO CEu MIT · Dynamic Surroundings/Dynamos/EnderTweaker MIT
+
+**风险标注 17**：许可未知类（EBlib/Endorium/Engineer's Decor/Enhanced P2P 等）+ ARR 类（Entangled/Environmental 系）+ Enhanced Audio（资源包，移入 resourcepacks）

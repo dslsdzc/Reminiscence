@@ -296,7 +296,6 @@ Durability Tooltip
 Dynamic Dynamos
 Dynamic Surroundings
 Dynamic View
-Dynamic View and Simulation Distances
 Dynamistics
 EBlib
 Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More)
@@ -308,7 +307,6 @@ EmberRoot Zoo
 EmbersRekindled-1.13-hotfix2
 Emojiful
 Enchantment Descriptions
-Enchantment Level Language Patch
 Ender Core CEu
 Ender IO
 Ender IO Endergy
@@ -329,14 +327,11 @@ Engineer's Decor
 Engineer's Doors
 Enhanced Audio (Sound Pack)
 Enhanced P2P
-Enigmatica 2: Expert - E2E
 Entangled
 Entity Culling
 Entity NaN Health Fix
 Environmental Materials
 Environmental Tech
-Epic Fight
-Epic Knights: Shields Armor and Weapons
 EpicSiegeMod-13.167
 Equipment Compare
 Equivalent Integrations
