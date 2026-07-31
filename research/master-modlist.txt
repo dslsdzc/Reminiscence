@@ -698,7 +698,6 @@ Magic Bees
 Magic Feather
 Magiculture Integrations
 Magneticraft_1.12-2.8.2-dev
-Mahou Tsukai
 Main Menu Scale
 Malek's Infinity Gauntlet
 ManaVisualizer-r1.0-1
