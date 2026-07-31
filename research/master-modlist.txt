@@ -699,15 +699,12 @@ Natura
 Natura Legacy
 Nature's Compass
 Neat
-Neat 1.4-17
 Neeve's AE2: Extended Life Additions
 Net Music
 Nether API
 NetherEX
-NetherEx
 NetherPortalFix
 Netherending Ores
-Netherending-Ores
 Nimble (Forge)
 No Block Break Particles
 No Cave Ambience
