@@ -1061,7 +1061,6 @@ Vampires Need Umbrellas
 Vampirism
 Vampirism Integrations
 VanillaFix
-VanillaFix-1.0.10-99
 VanillaIcecreamFix
 Variegated
 Vaultopic - Early Inventory Management

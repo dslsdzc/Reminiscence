@@ -301,3 +301,15 @@
 **许可**：CoFH Thermal 系 6 条 DBaJ（禁整体再分发，仅可官方链接——风险标注）· 车万女仆双许可（代码 MIT+资产 CC BY-NC-SA 非商用——🔒 确认）· Twilight Forest = LGPL-2.1 · Spice of Life = Unlicense · The Midnight/Tough As Nails/Trash Cans ARR
 
 **功能重叠**：Tinker I/O ↔ Smeltery IO · Thermal Logistics ↔ Logistics Pipes（精神续作）· ToroHealth ↔ Neat
+
+## Batch-25 核查发现（第 3163-3284 行，44 个）——最后一组
+
+**去重**：VanillaFix-1.0.10-99（同模同版）· Villager Market × NBT Fix（修复版替代原版）· Tweaked Excavation vs Ore Excavation
+
+**前置缺失**：Trinity 需 ICBM build 74+（包内无 ICBM——补装或排除）
+
+**高风险**：Valkyrien Skies（1.12.2 仅 alpha 且停更——实测后定）
+
+**配置冲突**：VintageFix/VanillaFix × StellarCore（已知）· Unloader 单维度 bug（暮色/Tropicraft 须黑名单）
+
+**需授权**：Treasure2（已更名 STONEBORN 品牌）/ValkyrieLib/Vaultopic ARR
