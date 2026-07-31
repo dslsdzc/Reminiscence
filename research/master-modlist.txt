@@ -503,28 +503,22 @@ Integrated NBT
 Integrated Terminals
 Integrated Tunnels
 Integration Foregoing
-IntegrationForegoing
 InvMove
 Inventory Bogo Sorter
 Inventory HUD+
 Inventory Tweaks
-Inventory Tweaks [1.12 only]
-InventoryHUD+
-InventoryTweaks-1.63
 Invisible Armor Model
 Invisible Item Frames
 Iron Backpacks
 Iron Chests
 Iron Jetpacks
 It's The Little Things
-Item Borders [Neo/Forge]
 Item Collectors
 Item Filters
 Item Highlighter
 Item Scroller
 Item Stages Plus
 ItemPhysic
-ItemPhysic_Full_1.4.28_mc1.12.2
 ItemZoom
 IvToolkit
 JAOPCA
@@ -545,7 +539,6 @@ Just Enough Characters
 Just Enough Dimensions
 Just Enough Drags
 Just Enough Energistics
-Just Enough Energistics (JEE)
 Just Enough HarvestCraft
 Just Enough Items
 Just Enough Items (JEI)

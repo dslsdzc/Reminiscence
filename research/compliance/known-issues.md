@@ -163,3 +163,15 @@
 **兼容实测**：Gendustry × Forestry CE · Gas Conduits × EnderIO CEu/Mekanism CE
 
 **许可证**：Gendustry = MMPL v1.0.1 · Gas Conduits = Unlicense · Grimoire of Gaia = 代码 CC0/美术 ARR · Headcrumbs = ARR · GunpowderLib 自定义（整合包明示可用）
+
+## Batch-13 核查发现（第 1616-1730 行，50 条目）
+
+**已排除 7**：IntegrationForegoing/Inventory Tweaks 变体/InventoryHUD+ 重复/InventoryTweaks 变体/ItemPhysic 变体/JEE（重复或变体）· Item Borders（1.20+，无 1.12.2）
+
+**二选一待定**：Inventory BogoSorter × Inventory Tweaks · Iron Backpacks × Traveler's Backpack · Iron Jetpacks × Simply Jetpacks 2 · Just Enough Calculation × Just Enough Drags · JEC × HECh（联动 batch-11）· itlt × Custom Window Title
+
+**前置补入**：Item Stages Plus 缺 ItemStages 前置（须补入）
+
+**TSV 误匹配纠正**：Integrated Dynamics = MIT · InvMove = LGPL-3.0 · IvToolkit 未标注（作者弃坑）
+
+**构建期实测**：Just Enough Energistics × AE2UEL · JEI Bees × Forestry CE
