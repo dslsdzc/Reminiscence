@@ -242,5 +242,6 @@ reminiscence-core (C)
 
 ## 12. 数据产物（本次会话产出）
 
-- `research/`：e2ee-MODS.md / dj2-MODLIST.md / po3-mods.txt / master-modlist.txt / 各分类提取文件
-- `modlist.md`：1154 模组主清单（分类 + 定制标记 + 许可证状态结构）
+- `research/`：e2ee-MODS.md（E2E-Extended 428）/ dj2-MODLIST.md（DJ2 224）/ po3-mods.txt（PO3 269）/ novaeng-names.txt（新星工程 220，Cleanroom 实测兼容参考）/ gc-nirvana-mods.txt / master-modlist.txt（合并池）/ 各分类提取文件
+- `modlist.md`：**最终收录清单 v3 = 1338 条**（分类 + 定制标记 + 许可证状态 + 风险标记 🔒）
+- 参考包：贪婪 GreedyCraft 467（mcmod 页抓取）/ 新星工程（本地 zip：manifest.json + modlist.html + 242 模组）/ PO3 / E2E / DJ2
