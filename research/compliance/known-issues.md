@@ -261,3 +261,13 @@
 **GitHub 许可实证**：Roguelike Dungeons GPL-3.0 · Schematica MIT · Scannable MIT · Save My Stronghold LGPL-3.0 · Scalar LGPL-2.1 · Shut Up Model Loader MIT（含 Good-not-Evil 条款）
 
 **分类修正**：Reskillable→生存技能 · Silent Gear→工具武器 · 结构三件套→世界生成
+
+## Batch-20 核查发现（第 2499-2638 行，48 条）
+
+**已删 5 重复**：Quark-r1.6-178/RandomPatches/RandomThings 版本/RebornCore/RedstoneArsenal（变体与重复）
+
+**二选一 3 组**：Quark 官方 vs RotN Edition（同 modid 分叉）· Random Things vs Quantum Things（mcmod 明示续作关系——留 Quantum Things）· Quick Leaf Decay vs Fast Leaf Decay（功能相同）
+
+**风险标注**：RLMixins（ARR）· Rats: RatN Edition（缺基础 Rats 前置——须补入）· Reliquary（开源 vs ARR 渠道矛盾）
+
+**本批全 48 条 1.12.2 支持确认**（无版本不符）——前置链：QMD→NC Overhauled+NCO Legacy Lib ✓ · Redstone Arsenal→TE5+CoFH Core ✓

@@ -805,7 +805,6 @@ Quantum Things
 QuantumStorage
 Quark
 Quark Oddities
-Quark-r1.6-178
 Quark: RotN Edition
 Quick Leaf Decay
 RFTools
@@ -820,8 +819,6 @@ Random PSIdeas
 Random Things
 RandomComplement
 RandomPatches
-RandomPatches (Forge)
-RandomThings-MC1.12.2-4.2.7.3
 RandomTweaker
 RandomTweaks
 Rapid Optimization
@@ -835,7 +832,6 @@ Real First Person
 Realistic Terrain Generation Unofficial
 Realistic Torches
 Reborn Core
-RebornCore
 Recipe Stages
 Recipes for All
 Recurrent Complex
@@ -844,7 +840,6 @@ Redstone Arsenal
 Redstone Flux API
 Redstone Paste
 Redstone Repository Revolved
-RedstoneArsenal
 Reliquary
 ReplayMod
 Requious Frakto
