@@ -1,5 +1,4 @@
 (Bee's) Serified Font
-/dank/null
 3D Sugar Cane
 3D crops Revamped
 A Lib
@@ -31,7 +30,6 @@ Additional Structures
 Additions Mod
 Advanced Alchemical Furnace
 Advanced Backups
-Advanced Fishing
 Advanced Generators
 Advanced Rocketry
 Advanced Rocketry - Reworked
@@ -181,7 +179,6 @@ Botania Needs These Things
 Botania Tweaks
 Botanic Additions
 Botanic Bonsai
-Bountiful
 Bountiful Baubles
 Brandon's Core
 Brandons Core
@@ -209,7 +206,6 @@ CensoredASM
 Ceramics
 Chameleon
 Champions
-Chance Cubes
 ChanceCubes
 Charm
 ChatFlow
@@ -312,7 +308,6 @@ Customizable Player Models
 Cyclic
 Cyclops Core
 CyclopsCore
-DankNull
 Dark Utilities
 DarkUtils
 DarknessLib
@@ -364,7 +359,6 @@ EmberRoot Zoo
 EmbersRekindled-1.13-hotfix2
 Emojicord
 Emojiful
-Enchanting Plus
 Enchantment Descriptions
 Enchantment Level Language Patch
 Ender Core CEu
@@ -586,7 +580,6 @@ IntegrationForegoing
 InvMove
 Inventory Bogo Sorter
 Inventory HUD+
-Inventory Pets
 Inventory Tweaks
 Inventory Tweaks [1.12 only]
 InventoryHUD+
@@ -840,8 +833,6 @@ OMLib
 Obscure Tooltips
 OldJavaWarning
 Omniwand
-One Key Miner
-OneBlock
 OneConfig
 OneKeyMiner
 Open Modular Passive Defense
@@ -911,7 +902,6 @@ Potion Core
 Potion Descriptions
 Potion Descriptions (Forge)
 Precision Mining
-Prefab
 Pretty Beaches
 Progressive Bosses
 ProgressiveBosses-1.5.4-mc1.12.x
@@ -1045,7 +1035,6 @@ Smart Particles
 Smeltery IO
 Smooth Font
 SmoothFont-mc1.12.2-2.0
-Snad
 Snow! Real Magic
 Solar Flux Reborn
 Sonar Core
@@ -1135,7 +1124,6 @@ ThermalInnovation
 ThermalLogistics
 TickCentral
 Tiered Tooltips
-Time Control
 Tinker I/O
 Tinker's JEI
 Tinker's Planner Antique
@@ -1185,7 +1173,6 @@ Tweaked Petroleum
 Tweaked Petroleum: Gas Addon
 Tweakeroo
 Tweakers Construct
-Twerk Sim 2K16
 Twilight Forest Fixes (Doors & Misc)
 U Team Core
 Uber Conduit Probe
@@ -1288,10 +1275,8 @@ base
 baubley-heart-canisters
 bdlib-1.14.3.12-mc1.12.2
 blockcraftery
-bonsaitrees-1.1.4-b170
 brokenwings-2.1.1
 compacter-1.3.0.3-mc1.12.2
-dank/null
 diethopper-1.1
 exnihilocreatio
 extrautils2
