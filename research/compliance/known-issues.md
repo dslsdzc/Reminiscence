@@ -57,3 +57,17 @@
 **评论级风险**：Ambient Environment（与 Better Biome Transitions 不兼容）· Artisan Worktables（无序配方崩端 BUG）· Armourer's Workshop（动画冲突）· Apotheosis（极端附魔破坏平衡——平衡引擎接管点）· Astral Sorcery（Optifine 天空问题）· Ancient Spellcraft（前置链深：EB Wizardry+MixinBooter+Baubles）
 
 **许可证**：ArtemisLib/Antique Armory GPL-3.0（CC 包可收录，注明即可）· Aroma 系闭源自定义条款（允许整合包分发）· Ancient Spellcraft 无 LICENSE（风险标注）
+
+## Batch-01 核查发现（第 25-149 行，50 个）
+
+**已排除 6**：AE2 Network Visualiser（停更闭源仅官方AE2）· Actually Subtractions（仅1.20.1）· ActuallyAdditions（重复条目）· **Advanced Rocketry（官方页明示与星系维度ID冲突/世界生成错误/氧气不通用——与核心星系直接冲突）** · AkashicTome-1.2-12（重复）· Alfheim（仅1.7.10）
+
+**待实测 1**：Advanced Rocketry - Reworked（继承 AR 维度体系，与星系潜在冲突未声明——实测后定，冲突则随排除）
+
+**AE2 家族版本矩阵（构建知识）**：以 AE2UEL 为核心——AE2 Stuff 须 Unofficial 分支；AE2 Fluid Crafting 用原版非 Rework；AE2WTLib 需 p455w0rd patch 防崩溃；WFT/WIT 与 AE2UEL 内置无线终端重复可裁剪
+
+**资源包混入 mods 清单**：Serified Font、3D crops（3D Sugar Cane 等 3D 系）为资源包——应放 resourcepacks 目录非 mods
+
+**无法核实 3 个（待人工核对 jar 来源）**：3D Sugar Cane · Advanced Alchemical Furnace · Alternative Rain Sounds
+
+**神秘时代联动注意**：AbyssalCraft Integration 的 TC6 联动引入永久扭曲负面机制；前置须 AC 稳定版

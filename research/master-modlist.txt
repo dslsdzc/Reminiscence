@@ -5,7 +5,6 @@ A Lib
 AE Additions - ExtraCells2 Fork
 AE2 Crafting Tree - Legacy
 AE2 Fluid Crafting
-AE2 Network Visualiser
 AE2 Stuff
 AE2 Unofficial Extended Life
 AE2 Wireless Fluid Terminal
@@ -20,8 +19,6 @@ AbyssalCraft Integration
 Actually Additions
 Actually Additions V2 Coffee Edition
 Actually Baubles
-Actually Subtractions
-ActuallyAdditions
 Additional Banners
 Additional Compression
 Additional Enchanted Miner
@@ -31,7 +28,6 @@ Additions Mod
 Advanced Alchemical Furnace
 Advanced Backups
 Advanced Generators
-Advanced Rocketry
 Advanced Rocketry - Reworked
 Advanced Tweakery
 Advent Of Ascension
@@ -41,9 +37,7 @@ Age of Weapons - Reforged
 Ageing Spawners
 AgriCraft
 Akashic Tome
-AkashicTome-1.2-12
 Alchemistry
-Alfheim
 Alfheim Lighting Engine
 Alternate Current
 Alternative Rain Sounds
