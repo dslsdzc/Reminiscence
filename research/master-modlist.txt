@@ -741,7 +741,6 @@ Mob Spawner Control
 Mob Stages
 Mob Sunscreen
 MobGrindingUtils-0.3.13
-Mod Name Tooltip
 ModTweaker
 Modern Warfare Cubed
 Modpack Configuration Checker
