@@ -1,0 +1,21 @@
+name: leak-scan
+on: [push, pull_request]
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Scan docs for internal implementation details
+        run: |
+          # 泄露防护：公开仓文档不得含内部实现细节关键词
+          # 内部类名/JNI 签名/钩子类名/内网地址/密钥格式——命中即失败
+          set +e
+          grep -rniE "mixin-targets|core-signing|GPG_SIGNING|10\.66\.0\.|rc_graph_submit.*impl|RegisterNatives" \
+            docs/ docs-dev/ pack/ 2>/dev/null | grep -v "leak-scan.yml" > /tmp/leak.txt
+          if [ -s /tmp/leak.txt ]; then
+            echo "❌ 泄露扫描命中："
+            cat /tmp/leak.txt
+            exit 1
+          fi
+          echo "✅ 泄露扫描通过"
