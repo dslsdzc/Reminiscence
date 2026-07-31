@@ -251,3 +251,13 @@
 **许可更正**：Ore Excavation = ARR（Modrinth 官方标 ARR，GitHub 无 LICENSE）· OMPD = GPL-3.0 · Overloaded Armor Bar = Apache-2.0
 
 **未证实 7（待人工核对）**：NuclearCraft Reactor Builder · Optifine Check · Optimization · Ore Excavation Integration · Ore Visual Detector · Overloaded · （同批）
+
+## Batch-21 核查发现（第 2642-2775 行，48 个）
+
+**已排除/去重**：Revolt of the Mobs（仅 1.19.4，无 1.12.2，半成品仅牛马两级）· Resource Loader/Ruins/Shoulder Surfing（留 Reloaded）/Silent Lib/Forgelin 变体去重
+
+**许可高危 10（风险标注）**：STONEBORN UI Overhaul/Sakura/SRP/Scavenge/Serene Seasons（GitHub 明确 ARR）/Resource Loader/Restricted Portals/Rex's Structures/Server.Properties（无 LICENSE 默认 ARR）/SignPicture（停更+图片加载 bug）
+
+**GitHub 许可实证**：Roguelike Dungeons GPL-3.0 · Schematica MIT · Scannable MIT · Save My Stronghold LGPL-3.0 · Scalar LGPL-2.1 · Shut Up Model Loader MIT（含 Good-not-Evil 条款）
+
+**分类修正**：Reskillable→生存技能 · Silent Gear→工具武器 · 结构三件套→世界生成
