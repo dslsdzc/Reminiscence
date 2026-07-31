@@ -71,3 +71,11 @@
 - [配置类：星图模糊线索表](spec-examples/example-01-config.md)
 - [脚本类：奇点配方注入](spec-examples/example-02-crafttweaker.md)
 - [模组 patch 类：能量转换插件适配](spec-examples/example-03-modpatch.md)
+
+## 6. 贡献声明（DCO，方案 C）
+
+项目采用 CC BY-NC-ND 4.0（源码全公开）。任何贡献（代码/文档/配置）提交即视为接受项目许可证（inbound=outbound）。
+
+- 每个提交须含 `Signed-off-by: <姓名> <邮箱>` 行（`git commit -s` 自动添加）
+- 签名声明：本提交由我创作，我有权按其许可发布
+- 不签名的提交将被拒绝
