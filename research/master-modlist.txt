@@ -1,6 +1,3 @@
-(Bee's) Serified Font
-3D Sugar Cane
-3D crops Revamped
 A Lib
 AE Additions - ExtraCells2 Fork
 AE2 Crafting Tree - Legacy
@@ -174,7 +171,6 @@ Building Gadgets
 CB Multipart
 CC: Tweaked
 CTM
-CTR VCR
 Cake Chomps
 CalcMod
 Calm Down Zombie Guy
@@ -325,7 +321,6 @@ Endorium (Forge)
 EnergeticSheep
 Engineer's Decor
 Engineer's Doors
-Enhanced Audio (Sound Pack)
 Enhanced P2P
 Entangled
 Entity Culling
@@ -368,7 +363,6 @@ FTB Utilities
 Fancy End | End Aesthetic Overhaul
 Fancy Outlines
 FancyMenu
-Fantasy 3D Weapons CIT
 Farming for Blockheads
 Fast Furnace
 Fast Leaf Decay
@@ -407,7 +401,6 @@ Fossils and Archeology: Revival
 Framed Compacting Drawers
 Friendly Fire
 Fugue
-Full Brightness
 Fusion (Connected Textures)
 Future MC
 Galacticraft Legacy
@@ -424,9 +417,6 @@ Get It Together, Drops!
 Give Me Back My HP
 Global GameRules
 Global XP
-Glowing
-Glowing Ores! - Borderful Edition
-Glowy Nether Portals
 Gnetum
 GottschCore
 Grappling Hook Mod
@@ -453,7 +443,6 @@ Hole Filler Mod
 Homing Exp Orbs
 Hooked
 Horse Tweaks
-Human Era: Villagers & Illagers X Fresh Animations
 Hunger Overhaul
 HungerTweaker
 HuntingDimension
@@ -882,7 +871,6 @@ ServerObserver
 Shadowfacts' Forgelin
 Shoulder Surfing Reloaded
 Shut Up, Model Loader!
-SideShieldTexturePack
 SignPicture
 Silent Gear
 Silent Lib
