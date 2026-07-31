@@ -271,3 +271,13 @@
 **风险标注**：RLMixins（ARR）· Rats: RatN Edition（缺基础 Rats 前置——须补入）· Reliquary（开源 vs ARR 渠道矛盾）
 
 **本批全 48 条 1.12.2 支持确认**（无版本不符）——前置链：QMD→NC Overhauled+NCO Legacy Lib ✓ · Redstone Arsenal→TE5+CoFH Core ✓
+
+## Batch-23 核查发现（第 2916-3010 行，37 行）
+
+**已排除 2**：TCT Core（闭源 ARR、黑票 60%、包内无依赖方）· Thaumic Additions 原版（仅至 1.10.2 半成品——1.12.2 用 Reconstructed 条目）
+
+**同 modid 二选一**：Thaumic Energistics vs Extended Life（留 UEL——MIT、2026-07 活跃、适配包内 AE2UEL）· Thaumic Information 包含 Thaumic JEI 全部功能（二选一）· TConstruct/TESLA 文件名级重复
+
+**神秘时代生态许可乐观**：Augmentation/Fix/Research Patcher/TCIS/TE-UEL/ThaumicAPI/Wonders 全部宽松（MIT/LGPL/GPL）+ 多处活跃更新——TC6 生态线健康
+
+**风险**：Thaumcraft（Azanor ARR，惯例允许整合包）· Techguns（无 LICENSE，兼容评价仅 45%）· TT20（PolyForm Shield 限非商用）

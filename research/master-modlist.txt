@@ -940,7 +940,6 @@ SuperMartijn642's Core Lib
 Surge
 SwingThroughGrass
 TATW
-TCT Core
 TConstruct
 TESLA
 TOP Addons
@@ -959,7 +958,6 @@ Thaumcraft Aspect Creator
 Thaumcraft Fix
 Thaumcraft Inventory Scanning
 Thaumcraft Research Patcher
-Thaumic Additions
 Thaumic Additions: Reconstructed
 Thaumic Augmentation
 Thaumic Computers
