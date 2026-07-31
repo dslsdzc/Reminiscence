@@ -676,7 +676,6 @@ MorphOverlay
 Morpheus
 Mouse Tweaks
 Mouse Tweaks Unofficial
-MouseTweaks-2.10-mc1.12.2
 Mowzie's Mobs
 MrCrayfish's Furniture Mod
 MrTJPCore
@@ -692,7 +691,6 @@ Mystical Agriculture
 Mystical Agriculture Tiered Crystals
 Mystical Creations
 Mystical World
-MysticalAgradditions
 MysticalLib
 NBT-API
 NCO Java Legacy Lib
@@ -719,7 +717,6 @@ No Night Vision Flashing
 No Pumpkin Blur
 NoExpensive
 NoFog-1.12.2b3
-NoMobSpawningOnTrees-1.2.2-mc1.12.2
 NoMoreRecipeConflict
 NoRecipeBook
 NoiseThreader

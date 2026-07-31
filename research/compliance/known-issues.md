@@ -207,3 +207,15 @@
 **待核对**：Mechanics - Crafting Ways（任何渠道无法确认身份）
 
 **亮点**：Lumenized 国创 1.12.2 专属（LGPL-3.0）· Lootr 有 1.12.2（0.6.2）· LootBags 自定义许可（整合包可用须署名）
+
+## Batch-17 核查发现（第 2100-2227 行，51 条）
+
+**最高风险**：Music Player（mcmod 警告：国内网络环境未进主菜单前可能崩溃——核实版本或改用 Net Music）· Music Triggers（无法连接 Twitch 崩溃，国内网络注意）
+
+**已删 6 重复**：MouseTweaks 版本条目/MysticalAgradditions/Neat 版本/NetherEx 版本/Netherending-Ores 版本/NoMobSpawningOnTrees 版本
+
+**二选一**：Natura vs Natura Legacy
+
+**许可证亮点**：MrCrayfish 家具 = GPL-3.0（非 ARR）· Mowzie's Mobs 自定义 · Natura 代码 CC0+资源 CC-BY-3.0 · NetherPortalFix 自定义（仓库活跃）
+
+**无法验证（待核对）**：Mouse Tweaks Unofficial（误名重复？）· My Precious Tool · No Night Vision Flashing
