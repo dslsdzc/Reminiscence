@@ -291,3 +291,13 @@
 **配置冲突**：StellarCore（实为 1.12.2 Mixin 性能修复）与包内 CensoredASM/VintageFix 有 README 明确配置冲突——构建期处理
 
 **许可澄清**：Storage Drawers+Extras = MIT · SkyLandsForge = Apache-2.0 · SimpleSponge 自定义 JMML（明确允许整合包，仅限官方原版）· Soot MIT · Sound Reloader Unlicense · SpatialCompat 与 AE2UEL 兼容需实测
+
+## Batch-24 核查发现（第 3014-3159 行，64 个）
+
+**已排除**：**The Abyss II（仅 1.16.4-1.20.2，无 1.12.2）——命运行星"恐惧星"对应模组失效，待替换方案**
+
+**同 modid 硬冲突**：The One Probe vs TOP CE（留 CE，功能超集 fork）· Tinkers' Antique vs Tinkers' Construct（官方 fork——保留原版）· Thermal 系 5 组连字符变体
+
+**许可**：CoFH Thermal 系 6 条 DBaJ（禁整体再分发，仅可官方链接——风险标注）· 车万女仆双许可（代码 MIT+资产 CC BY-NC-SA 非商用——🔒 确认）· Twilight Forest = LGPL-2.1 · Spice of Life = Unlicense · The Midnight/Tough As Nails/Trash Cans ARR
+
+**功能重叠**：Tinker I/O ↔ Smeltery IO · Thermal Logistics ↔ Logistics Pipes（精神续作）· ToroHealth ↔ Neat
