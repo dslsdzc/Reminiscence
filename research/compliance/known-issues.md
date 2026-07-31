@@ -91,3 +91,9 @@
 **批量表误匹配校正（重要）**：Charm/Chisel/Chisels & Bits 的批量许可证匹配均为**误匹配**（匹配到同名不同模组）——真实许可是 ARR；CoFH 系是自定义许可（"Don't Be a Jerk"）——CoFH 全家许可需单独确认
 
 **待补 mcmod 评论核验 17 项**（WebSearch 额度耗尽时标未知）：Chococraft/ChiseledAdditions/CensoredASM 等——额度恢复后补查
+
+## Batch-03 核查发现（第 281-441 行，50 个）
+
+**已排除 4**：Barebones Bossbars（查无资料）· Better 3D Beds/Better Dogs（资源包，移入 resourcepacks）· Better Gendustry（查无条目 + 与 Gendustry 功能重叠）
+
+**评论级关键**：Avaritia Tweaks 半成品实证（Botania 花未实现/忘写魔力代码——与 Complement fork 二选一保留 Complement）· Avaritiaddons 与 EIO 接口卡服（TPS 下降）· **BiblioCraft × Botania 不兼容**（本包含 Botania——实测或换 1.12.2 fork "Reshelved"）· **Better Battle Towers × RLTweaker 配置互斥**（本包含 RLTweaker2——配置 397 须落实）· BetterWaterSplashPotions 1.12.2 未证实 · Baubles 批量许可误匹配（本体未标协议，建议 Baubles-LTS 分支）
