@@ -418,7 +418,6 @@ Game Stages
 GardenOfGlass
 Gas Conduits
 GeckoLib
-Geckolib
 Gendustry
 Gendustry JEI Addon
 Get It Together, Drops!
@@ -445,12 +444,10 @@ HT's TreeChop
 Had Enough Characters
 Had Enough Items
 Hammer Lib
-HammerCore
 HammerLib
 Hardcore Hearts
 Harder Branch Mining
 Headcrumbs
-Hesperus
 Hit Indication
 Hole Filler Mod
 Homing Exp Orbs

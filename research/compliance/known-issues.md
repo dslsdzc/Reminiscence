@@ -151,3 +151,15 @@
 **无法核实 4（待人工核对 jar）**：Find My Items And Fluids · FindMeAnyDurability · Finite Gas · Forked Proxy
 
 **资源包**：Full Brightness（移入 resourcepacks）
+
+## Batch-11 核查发现（第 1374-1500 行，42 个）
+
+**已排除**：Geckolib/HammerCore（重复条目）· Hesperus（作者明示用包内 Alfheim Lighting Engine 替代）· HammerLib 三连条目去重
+
+**资源包混入（4）**：Glowing/Glowing Ores!/Glowy Nether Portals/Human Era（移入 resourcepacks）
+
+**二选一**：JEI × HEI 物品管理器（连带 JECh/HECh）· 抓钩（Grappling Hook × Hooked）· 墓碑（Gravestone × Corpse Complex）· Hesperus × Alfheim（已定 Alfheim）
+
+**兼容实测**：Gendustry × Forestry CE · Gas Conduits × EnderIO CEu/Mekanism CE
+
+**许可证**：Gendustry = MMPL v1.0.1 · Gas Conduits = Unlicense · Grimoire of Gaia = 代码 CC0/美术 ARR · Headcrumbs = ARR · GunpowderLib 自定义（整合包明示可用）
