@@ -29,8 +29,7 @@
 | [04-characters.md](04-characters.md) | 角色体系：53+1 / 注册表+适配器 / 调度 / AI 双模 / 信任+成长 |
 | [05-moat.md](05-moat.md) | 护城河（方案 C）：CC BY-NC-ND / EULA / 指纹 / 强依赖 / 文档体系 |
 | [06-techstack.md](06-techstack.md) | 技术栈 / 内存策略（三杠杆）/ 产物出站 |
-| [2026-07-31-reg-window-design.md](2026-07-31-reg-window-design.md) | 注册窗口技术方案（机密，发布时公开）|
-| [2026-07-31-deployment-plan.md](2026-07-31-deployment-plan.md) | 部署方案（已简化为 GitHub 私有仓方案，此文档为可选进阶参考）|
+| [2026-07-31-reg-window-design.md](2026-07-31-reg-window-design.md) | 注册窗口技术方案 |
 
 ## 外部产物
 

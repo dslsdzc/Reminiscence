@@ -15,17 +15,11 @@
 - **技术**：强依赖（拆核心=机制消失）· 软校验（哈希不符 → 提示"非官方修改版" + 机制降级）· 渠道指纹（HMAC(渠道名, 私密盐)——各渠道独立构建，搬运可溯源）· 完整性校验
 - **流程**：双执行者模型（内部会话/外部执行者——见 spec-workflow）· 开发期私有仓 + CI 泄露扫描 · 发布检查清单（compliance → 冒烟 → 签名 → 指纹）
 
-## 私有代码托管（开发期）
+## 开发期管理（方案 C）
 
-```
-GitHub 私有仓（Reminiscence-Core）
-  ├─ 访问控制：仅包作者（+ 合作者代码交付制——合作者不接触 GitHub）
-  ├─ 构建：GitHub Actions 自托管 runner（本机）
-  ├─ 签名：GPG 私钥存 Actions Secrets
-  └─ 备份：GitHub 多副本 + 定期加密导出
-```
-
-方案 C 下私有仓仅用于"发布前保密"——发布时转公开。
+- 开发期：GitHub 私有仓（Reminiscence-Core）保存未发布内容——发布时转公开
+- 构建：GitHub Actions 自托管 runner（本机）· 签名私钥存 Actions Secrets · GitHub 多副本备份
+- 物理部署机制（WireGuard/Gitea/内网）已删除——方案 C 不需要
 
 ## 文档体系
 
