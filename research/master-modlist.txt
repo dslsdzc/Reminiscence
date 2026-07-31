@@ -903,7 +903,6 @@ Slashblade Murasame
 Sledgehammer
 Small Held Items
 Small Shield & Totem
-Smaller Totem
 Smart Particles
 Smeltery IO
 Smooth Font
@@ -911,9 +910,7 @@ SmoothFont-mc1.12.2-2.0
 Snow! Real Magic
 Solar Flux Reborn
 Sonar Core
-Sonomagy
 Soot-1.6
-Sound Physics
 Sound Reloader
 Spartan Shields
 Spartan Weaponry

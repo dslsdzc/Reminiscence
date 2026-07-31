@@ -281,3 +281,13 @@
 **神秘时代生态许可乐观**：Augmentation/Fix/Research Patcher/TCIS/TE-UEL/ThaumicAPI/Wonders 全部宽松（MIT/LGPL/GPL）+ 多处活跃更新——TC6 生态线健康
 
 **风险**：Thaumcraft（Azanor ARR，惯例允许整合包）· Techguns（无 LICENSE，兼容评价仅 45%）· TT20（PolyForm Shield 限非商用）
+
+## Batch-22 核查发现（第 2779-2912 行，44 个）
+
+**已排除 3**：Smaller Totem（与 Small Shield & Totem 重复且 ARR）· Sonomagy（音效资源包非模组——resourcepacks）· Sound Physics（许可不明+与籁 Remixin 同族——留籁）
+
+**风险标注 4**：Simple Storage Network（Modrinth ARR 无 GitHub 仓库）· Solar Flux Reborn（ARR）· Spice of Life（与 Carrot Edition LGPL-2.1 二选一留后者）· Stellar Fluid Conduits（无 LICENSE）
+
+**配置冲突**：StellarCore（实为 1.12.2 Mixin 性能修复）与包内 CensoredASM/VintageFix 有 README 明确配置冲突——构建期处理
+
+**许可澄清**：Storage Drawers+Extras = MIT · SkyLandsForge = Apache-2.0 · SimpleSponge 自定义 JMML（明确允许整合包，仅限官方原版）· Soot MIT · Sound Reloader Unlicense · SpatialCompat 与 AE2UEL 兼容需实测
