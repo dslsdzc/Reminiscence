@@ -274,7 +274,8 @@ GitHub 私有仓（Reminiscence-Core：C 引擎/Mixin/注册窗口/AI 集成）
 - **分级混淆**：核心算法函数全量混淆；每 tick 高频热路径轻混淆（CFF 影响分支预测，性能损失 10-30%）——混淆后回归 TPS 基线测试
 - Java 侧只留薄桥接（JNI 调用壳）+ ProGuard 混淆：反编译可得调用序列，拿不到算法
   - 混淆分层：引擎实现类全量混淆（重命名 + 可选字符串加密）；**Mixin 钩子类不混淆**（字符串引用/refmap 断链风险，且钩子只是 JNI 调用壳）；JNI native 声明不混淆（进阶：RegisterNatives 动态注册后可混淆方法名）；公开 API/ABI 契约名保持（rc_* 系列）
-  - 工具链：ProGuard（免费基础）→ 字符串加密需 Allatori/自研 → 商业最强 ZKM（流混淆+加壳，备选）
+  - 工具链（开源免费路线）：ProGuard（重命名/裁剪基底）→ **SB27-Obfuscator**（MC 社区知名，AES 字符串加密+流程混淆）或 **jar-obfuscator**（轻量 CLI）/ **dProtect**（ProGuard 扩展，字符串+流混淆+MBA）→ 商业最强 ZKM（备选，不优先）
+  - 选型基准：[JavaObfuscatorTest](https://github.com/huzpsb/JavaObfuscatorTest) 评测破解成本后再定；完整清单参考 ZygoteCode/Java-Obfuscators-List
   - **强制验证**：混淆后 CI 启动冒烟（Cleanroom 加载 + mixin 应用 + 引擎自测 + TPS 基线）——不通过 = 构建失败
 - **敏感信息零进产物**：密钥/内网地址/API key 绝不进二进制（CI `strings` 扫描拦截）；签名私钥只存 Actions Secrets
 - 出境物 = 签名二进制（完整性校验 + 防投毒）；源码 = 私有仓不出境
