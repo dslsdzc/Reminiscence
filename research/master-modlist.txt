@@ -595,14 +595,11 @@ Lumenized
 LunatriusCore
 MCA
 MCMultiPart
-MCMultiPart-2.5.3
 ME Capability Adapter
 MEDIEVAL CRAFT
 MJRLegends Lib
-MJRLegendsLib
 MPUtils
 MTLib
-MTLib-3.0.6
 MTS/Immersive Vehicles - New Cars
 MaLiLib
 Macaw's Lights and Lamps

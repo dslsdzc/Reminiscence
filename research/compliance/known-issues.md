@@ -195,3 +195,15 @@
 **待人工核实 14**（CF 小模组许可无法证实）：JEMagiculture/JEPetroleum/JEReactors/Just Sleep/KaratGarden/Keeping Inventory/Large Ore Deposits/Lava Waders/LightningCraft 等
 
 **版本注意**：Legendary Tooltips 1.12.2 需换原版文件（Neo/Forge 版无 1.12.2）
+
+## Batch-15 核查发现（第 1859-1980 行，41 条）
+
+**已删 3**：MCMultiPart-2.5.3/MJRLegendsLib/MTLib-3.0.6（变体与重复）
+
+**二选一**：LootTableTweaker × LootTweaker（同为战利品魔改）· Loot Overhaul 与战利品机制重叠（ARR+停更，倾向排除）
+
+**风险标注**：Magneticraft（1.12.2 社区 dev 半成品）· MEDIEVAL CRAFT（需未收录前置"Medieval Craft Weapons"——须补入或排除）· Low On Fire（身份无法交叉验证）
+
+**待核对**：Mechanics - Crafting Ways（任何渠道无法确认身份）
+
+**亮点**：Lumenized 国创 1.12.2 专属（LGPL-3.0）· Lootr 有 1.12.2（0.6.2）· LootBags 自定义许可（整合包可用须署名）
