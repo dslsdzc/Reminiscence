@@ -1099,7 +1099,9 @@ Thaumic Tinkerer
 Thaumic Wonders
 ThaumicAPI
 ThaumicTweaker
+The Abyss II
 The Aether
+The Betweenlands
 The Erebus
 The Hordes
 The Impossible Library
