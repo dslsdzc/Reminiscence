@@ -109,3 +109,9 @@
 **维度 ID 构建期必查**：DivineRPG 8 维度 · Dimensional Doors 4 维度 · Defiled Lands 1 维度
 
 **批量误匹配校正**：Cyclic 实为 MIT（GitHub 核实）· Default Options/Ding/DivineRPG 批量匹配不可信
+
+## Batch-06 核查发现（第 725-845 行，43 个）
+
+**已排除 11**：Comforts Modernized/Controlling/CookingForBlockheads/CraftTweaker2/CraftingTweaks/CreativeCore/Cucumber（重复条目）· CraftTweaker Sixik Utils（无 1.12.2，仅 1.16.5+）· Condition Overload（无法核实）· Craftify（Essential 前置存疑+停更+与 Net Music 重叠）· Crafting Tweaks 原版（保留 Unofficial 分支——Cleanroom 版支持 Avaritia/Extended Crafting 工作台）
+
+**兼容注意**：CompatSkills × 巫术学已知冲突（mcmod 有教程方案）· Corpse Complex × Gravestone 功能重叠（二选一或共存实测）· Crash Assistant 口碑分化（57% 认为不稳定）· Congrega Mystica（TC6 附属，正面）

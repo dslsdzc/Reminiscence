@@ -221,13 +221,11 @@ Colytra
 Colytra (Fabric/Forge/Quilt)
 Combined Potions
 Comforts
-Comforts Modernized
 Comics Bubbles Chat
 Common Capabilities
 Compact Machines
 Compact Solars
 CompatSkills
-Condition Overload
 ConfigAnytime
 Congrega Mystica
 Connected Glass
@@ -238,11 +236,9 @@ Construct's Armory
 ContentTweaker
 ContentTweaker Registry Orderer
 Controlling
-Controlling-3.0.8
 Converting Industrial Wires
 Cookie Core
 Cooking for Blockheads
-CookingForBlockheads_1.12.2-6.5.0
 CoroUtil
 Corpse Complex
 Cosmetic Armor Reworked
@@ -250,18 +246,11 @@ CraftPresence
 CraftStudio API
 CraftTweaker
 CraftTweaker Integration
-CraftTweaker Sixik Utils
-CraftTweaker2
-Craftify
-Crafting Tweaks
 Crafting Tweaks Unofficial
-CraftingTweaks_1.12.2-8.1.9
 Crash Assistant
 CreativeCore
-CreativeCore_v1.9.90_mc1.12.2
 Ctrl Q
 Cucumber
-Cucumber Library
 Culinary Construct
 Cursed Fog
 Curvy Pipes
