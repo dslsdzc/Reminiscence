@@ -346,13 +346,11 @@ Ex Nihilo: Creatio
 Excalibur
 Expanded Equivalence
 Expanded Events
-ExpandedEquivalence
 Extended Crafting
 Extended Crafting Terminals for Applied Energistics 2
 Extended Crafting: Nomifactory Edition
 Extended illumina (3D lantern and torch)
 ExtendedAE
-ExtendedCrafting
 Extra Bit Manipulation
 Extra CPUs
 Extra Trees
@@ -361,19 +359,12 @@ ExtraBotany
 ExtraCells2
 ExtraPlanets
 Extreme Reactors
-ExtremeReactors
 Eye of Dragons
 FPS Reducer
 FTB Backups
-FTB Backups (Forge)
 FTB Library
-FTB Library (Forge) (Legacy)
 FTB Project EX
 FTB Utilities
-FTB Utilities (Forge)
-FTBBackups-1.1.0.1
-FTBLib-5.4.7.0
-FTBUtilities-5.4.0.124
 Fancy End | End Aesthetic Overhaul
 Fancy Outlines
 FancyMenu

@@ -127,3 +127,15 @@
 **批量纠偏**：Wizardry 自定义许可（整合包可用）· EnderIO CEu MIT · Dynamic Surroundings/Dynamos/EnderTweaker MIT
 
 **风险标注 17**：许可未知类（EBlib/Endorium/Engineer's Decor/Enhanced P2P 等）+ ARR 类（Entangled/Environmental 系）+ Enhanced Audio（资源包，移入 resourcepacks）
+
+## Batch-09 核查发现（第 1130-1238 行，45 个）
+
+**已排除 9**（全部重复条目）：ExpandedEquivalence/ExtendedCrafting/ExtremeReactors/FTB Backups/FTB Library/FTB Utilities 及版本文件名变体
+
+**兼容待实测**：ExtraPlanets 依赖 Galacticraft 4 系——与包内 Galacticraft-Legacy 兼容需实测（新增大量行星维度，维度 ID 必核对）；AE2UEL 生态（ExtendedAE/Extra CPUs/ExtraCells2/ECT-AE2）一次性实测
+
+**许可证更正**：FTB 系 ARR（FTB Ltd 2025）· Ex Compressum/Farming for Blockheads ARR 但有官方整合包许可页 · ExtraCells2 = MIT
+
+**高风险**：FTB Project EX（官方明示 WIP，物品右击可崩溃——风险标注）· Expanded Equivalence（稳定评价 40%）· Fantasy 3D Weapons CIT（依赖 OptiFine）
+
+**功能重复二选一待定**：Extended Crafting vs Nomifactory fork · Extra Trees vs Binnie's Mods · FTB Backups vs AromaBackup · Fast Leaf Decay vs Quick Leaf Decay
