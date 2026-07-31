@@ -227,3 +227,17 @@
 **许可纠偏**：Modular Machinery = GPL-3.0（GitHub 实锤）· Minecraft Forge = LGPL-2.1 · More Electric Tools = LR8Soft 中文自定义协议（禁派生再分发——风险标注）· Moar Tinkers 实为 Moar TCon（ARR）
 
 **亮点**：MekanismOres MIT（GitHub build.gradle 实证）· Mixmetica LGPL-3.0 · Mob Sunscreen MIT · MicdoodleCore 随 GC Legacy = MIT
+
+## Batch-19 核查发现（第 2362-2495 行，50 条）
+
+**已删/排除 8**：Patchouli-1.0-20/Potion Descriptions/ProgressiveBosses 变体/ProjectIntelligence（重复）· PolySprint/PolyTime/PolyWeather（Polyfrost 1.8.9 时代模组，无 1.12.2）· Pick Up Notifier（Fuzs 1.16+，无 1.12.2）
+
+**重大安全发现**：PlusTiC 作者 Landmaster 在 8.0.0.1 植入恶意踢人代码遭 CF 封禁——包内 7.1.6.1 为事发前版本（可用），但与 xXx_MoreToolMats_xXx（同 MODID 非官方分支）**必须二选一**
+
+**版权**：Pixelmon 保持 🔒 风险标记（智能体建议排除——待用户决策）· Parasites: Reloaded（ARR）与 SRP 玩法重复二选一
+
+**二选一**：Phosphor vs Alfheim（作者自荐 Alfheim——Phosphor 官方无 1.12.2，包内为社区分支 GPL-3.0）· Patchouli vs ROFL Edition
+
+**高风险**：Performant 闭源口碑两极（红黑 19:19，72% 认为不稳定）
+
+**待核对 3**：Pointer · Portable Drill for IE · Patchouli Books

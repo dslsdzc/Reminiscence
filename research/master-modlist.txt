@@ -767,7 +767,6 @@ Passable Leaves
 Patchouli
 Patchouli Books
 Patchouli ROFL Edition
-Patchouli-1.0-20
 Performant
 Perspective Mod Redux
 Phosphor (Forge)
@@ -784,25 +783,19 @@ PlusTiC
 Pointer
 PolyBlur
 PolyPatcher
-PolySprint
-PolyTime
-PolyWeather
 Portable Drill for Immersive Engineering
 Possibly (Actually) Baubles
 Potion Core
 Potion Descriptions
-Potion Descriptions (Forge)
 Precision Mining
 Pretty Beaches
 Progressive Bosses
-ProgressiveBosses-1.5.4-mc1.12.x
 Project Intelligence
 Project Red - Core
 Project Red - Integration
 Project: Vibrant Journeys
 ProjectE
 ProjectEX-1.2.0.39
-ProjectIntelligence
 ProjectRed
 Proportional Destruction Particles
 Psi
