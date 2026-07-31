@@ -263,7 +263,7 @@ ConfigAnytime
 Congrega Mystica
 Connected Glass
 ConnectedTexturesMod
-Conquest Reforged
+Conquest Reforged 🔒
 Console Filter
 Construct's Armory
 ContentTweaker
@@ -357,6 +357,7 @@ Electroblob's Wizardry
 ElevatorMod
 EmberRoot Zoo
 EmbersRekindled-1.13-hotfix2
+Emojicord
 Emojiful
 Enchantment Descriptions
 Enchantment Level Language Patch
@@ -607,6 +608,7 @@ JEI Area Fixer
 JEI Bees
 JEI Integration
 JEI Utilities
+JEI Villagers
 JER Ore Integration
 JSON Paintings
 Joy of Painting
@@ -676,6 +678,7 @@ LootBags
 LootTableTweaker
 LootTweaker
 Lootr (Forge & NeoForge)
+Lord Craft 2.10.1
 Lost Cities
 Low On Fire
 Lumenized
@@ -879,7 +882,7 @@ Perspective Mod Redux
 Phosphor (Forge)
 Pick Up Notifier [Forge &amp; Fabric]
 Ping
-Pixelmon
+Pixelmon 🔒
 Placebo
 PlaneFix
 Planet Progression
@@ -1096,9 +1099,7 @@ Thaumic Tinkerer
 Thaumic Wonders
 ThaumicAPI
 ThaumicTweaker
-The Abyss II
 The Aether
-The Betweenlands
 The Erebus
 The Hordes
 The Impossible Library
@@ -1154,7 +1155,7 @@ ToroHealth Damage Indicators
 Totemic
 TouchController
 Tough As Nails
-Touhou Little Maid
+Touhou Little Maid 🔒
 Translocators
 Transparent GUI and HUD
 Trash Cans
