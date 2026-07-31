@@ -313,3 +313,15 @@
 **配置冲突**：VintageFix/VanillaFix × StellarCore（已知）· Unloader 单维度 bug（暮色/Tropicraft 须黑名单）
 
 **需授权**：Treasure2（已更名 STONEBORN 品牌）/ValkyrieLib/Vaultopic ARR
+
+## 二选一决策执行（用户拍板，2026-07-31）
+
+**HEI 为主 + JEI 兼容桥**：HEI（Cleanroom 官方，开源可改）替代 JEI 本体；JEI 生态附属（JER/JETIF/JEHC/JECh 等）保留——自研"HEI-JEI 兼容桥"（JEI API → HEI 转发，定制机制任务）；JEI 本体暂留（兼容桥验证失败回退），构建期验证后删
+
+**已删（被排除方）**：Fixeroo · Grappling Hook Mod · Corpse Complex · LootTableTweaker · ReAuth · OneKeyMiner · Random Things · Quick Leaf Decay · Thaumic JEI · Iron Backpacks · Iron Jetpacks · itlt · Smeltery IO · Fusion
+
+**融合保留（B 组）**：CC: Tweaked + OpenComputers（联动定制）· Custom Starter Gear + Initial Inventory（共存）
+
+**Quark 选 RotN Edition**（1.12.2 分支适配）——同 modid 冲突需构建期处理（二选一装）
+
+**待定**：Natura vs Natura Legacy（同一模组两版本，难选）· Patchouli vs ROFL（优势信息待补）

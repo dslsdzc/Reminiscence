@@ -236,7 +236,6 @@ Converting Industrial Wires
 Cookie Core
 Cooking for Blockheads
 CoroUtil
-Corpse Complex
 Cosmetic Armor Reworked
 CraftPresence
 CraftStudio API
@@ -380,7 +379,6 @@ Finite Water
 Firmalife
 FirstAid
 Fix Experience Bug
-Fixeroo
 Flare (Spark for 1.12.2)
 Flat Colored Blocks - For Forge
 Flopper
@@ -401,7 +399,6 @@ Fossils and Archeology: Revival
 Framed Compacting Drawers
 Friendly Fire
 Fugue
-Fusion (Connected Textures)
 Future MC
 Galacticraft Legacy
 Galacticraft Tweaker
@@ -419,7 +416,6 @@ Global GameRules
 Global XP
 Gnetum
 GottschCore
-Grappling Hook Mod
 Gravestone mod
 Grid
 Grimoire of Gaia
@@ -493,9 +489,7 @@ Inventory HUD+
 Inventory Tweaks
 Invisible Armor Model
 Invisible Item Frames
-Iron Backpacks
 Iron Chests
-Iron Jetpacks
 It's The Little Things
 Item Collectors
 Item Filters
@@ -575,7 +569,6 @@ Logistics Pipes
 Loot Capacitor Tooltips
 Loot Overhaul
 LootBags
-LootTableTweaker
 LootTweaker
 Lootr (Forge & NeoForge)
 Lost Cities
@@ -713,7 +706,6 @@ Obscure Tooltips
 OldJavaWarning
 Omniwand
 OneConfig
-OneKeyMiner
 Open Modular Passive Defense
 Open Modular Turrets
 Open Terrain Generator (OTG)
@@ -795,7 +787,6 @@ QuantumStorage
 Quark
 Quark Oddities
 Quark: RotN Edition
-Quick Leaf Decay
 RFTools
 RFTools Control
 RFTools Dimension Tweaker
@@ -805,7 +796,6 @@ RGB Chat
 RLMixins
 RLTweaker2
 Random PSIdeas
-Random Things
 RandomComplement
 RandomPatches
 RandomTweaker
@@ -815,7 +805,6 @@ Rare Ice
 Rather Enough Immersive Multiblocks
 Rats: RatN Edition
 Raw Input
-ReAuth
 Reach Fix
 Real First Person
 Realistic Terrain Generation Unofficial
@@ -892,7 +881,6 @@ Sledgehammer
 Small Held Items
 Small Shield & Totem
 Smart Particles
-Smeltery IO
 Smooth Font
 SmoothFont-mc1.12.2-2.0
 Snow! Real Magic
@@ -949,7 +937,6 @@ Thaumic Computers
 Thaumic Energistics
 Thaumic Energistics Extended Life
 Thaumic Information
-Thaumic JEI
 Thaumic Speedup
 Thaumic Tinkerer
 Thaumic Wonders
