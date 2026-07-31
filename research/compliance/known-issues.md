@@ -45,3 +45,15 @@
 
 - 问题：与 JEI 功能重复（JEI 物品详情已显示模组归属）
 - 处理：已排除（modlist v10）
+
+## Batch-02 核查发现（第 150-277 行，50 个）
+
+**匠魂分支互斥（高优先级）**：Antique Armory 需 Tinkers' Antique、Armory Expansion 需原版 TiCon+Construct's Armory——两分支不可共存，全包须统一（用原版匠魂线则删 Antique Armory）
+
+**维度 ID 配置**：Aroma 挖矿维度可配置，须避开星系（-27~-32）与暮色森林（ID 7）；阿图姆固定 ID 17——构建期维度 ID 分配表必须核查
+
+**重复条目（12 条→6 组）**：AppleCore×2 / AppleSkin×2 / Aqua Acrobatics×2 等——modlist 版本残留，统一去重
+
+**评论级风险**：Ambient Environment（与 Better Biome Transitions 不兼容）· Artisan Worktables（无序配方崩端 BUG）· Armourer's Workshop（动画冲突）· Apotheosis（极端附魔破坏平衡——平衡引擎接管点）· Astral Sorcery（Optifine 天空问题）· Ancient Spellcraft（前置链深：EB Wizardry+MixinBooter+Baubles）
+
+**许可证**：ArtemisLib/Antique Armory GPL-3.0（CC 包可收录，注明即可）· Aroma 系闭源自定义条款（允许整合包分发）· Ancient Spellcraft 无 LICENSE（风险标注）
