@@ -557,15 +557,12 @@ Key Binding Patch
 Keybind Unconflict
 Keyboard Wizard
 KleeSlabs
-KleeSlabs_1.12.2-5.4.12
 Knowledge Sharer
 Konkrete
-Konkrete [Forge/NeoForge]
 Ksyxis
 LLibrary
 LagGoggles
 Lapis Stays
-Lapis Stays in the Enchanting Table
 Large Ore Deposits
 Lava Waders Bauble
 Lazy AE2

@@ -183,3 +183,15 @@
 **口碑警示**：Hunger Overhaul 红票 67%（难度大改）· IC2 Patcher 红票 80%（二进制补丁，官方提示备份存档）· IGIExteneded 依赖停更 IGI+LunatriusCore · **InfinityLib 包内无消费方（孤立库——可删）**
 
 **构建期实测**：Immersive Cables × AE2UEL 线缆兼容 · Hwyla+TOP+Wawla（Waila 系共存组合）
+
+## Batch-14 核查发现（第 1734-1855 行，47 条）
+
+**去重 7**：JEI/JER/JETIF/KleeSlabs/Konkrete/Lapis Stays/JEP 系变体与重复行
+
+**KAMI: Reborn 澄清**：Thaumcraft 6 附属（移植 Thaumic Tinkerer 的 KAMI 终局内容，非外挂客户端）——与包内 Thaumic Tinkerer 内容重叠，二选一评估
+
+**许可证**：JER = CoFH "Don't Be a Jerk" 非商用（可收录注明）· KleeSlabs = ARR（模组包需走许可页授权）· LittleTiles = LGPL-3.0 · LibVulpes = ARR（AR-Reworked 前置配套核对）· KAMI Reborn = ARR
+
+**待人工核实 14**（CF 小模组许可无法证实）：JEMagiculture/JEPetroleum/JEReactors/Just Sleep/KaratGarden/Keeping Inventory/Large Ore Deposits/Lava Waders/LightningCraft 等
+
+**版本注意**：Legendary Tooltips 1.12.2 需换原版文件（Neo/Forge 版无 1.12.2）
