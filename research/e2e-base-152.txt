@@ -1,0 +1,152 @@
+Forestry
+CoFH Core
+Thermal Expansion
+Gendustry
+BdLib
+Redstone Arsenal
+Mantle
+Biomes O' Plenty
+ModTweaker
+Pam's HarvestCraft
+Thermal Foundation
+OpenComputers
+Draconic Evolution
+Advanced Generators
+Thaumcraft
+Storage Drawers
+Compact Machines
+AppleCore
+IvToolkit
+RFTools
+Blood Magic 
+AE2 Stuff
+Extra Utilities
+Schematica
+LunatriusCore
+Botania
+Custom Backgrounds
+Custom Main Menu
+Resource Loader
+Baubles
+Thermal Dynamics
+The Twilight Forest
+BiblioCraft
+Bookshelf
+Iron Chests
+Compact Solars
+Guide-API
+Animus
+Chameleon
+Brandon's Core
+Cooking for Blockheads
+Immersive Engineering
+Cyclops Core
+McJtyLib
+Chisel
+Integrated Dynamics
+ContentTweaker
+FTB Utilities (Forge)
+FTB Library (Forge) (Legacy)
+Cosmetic Armor Reworked
+ReAuth
+Better Builder's Wands
+CraftTweaker
+Cyclic
+Sonar Core
+Just Enough Resources (JER)
+RFTools Dimensions
+Psi
+Astral Sorcery
+KleeSlabs
+Ex Compressum
+Dark Utilities
+Clay Bucket
+Industrial Craft
+LLibrary
+More Overlays
+UniDict
+Ender Storage 1.8.+
+Environmental Tech
+ValkyrieLib
+ToroHealth Damage Indicators
+Mystical Agriculture
+B.A.S.E
+Common Capabilities
+Flux Networks
+JEI Bees
+Plethora Peripherals
+AutoRegLib
+Akashic Tome
+RFTools Control
+Ore Excavation
+Tinkers' Tool Leveling
+Integrated Tunnels
+Nature's Compass
+WanionLib
+MTLib
+Tesla Core Lib
+p455w0rd's Library
+LootTweaker
+Rustic
+Mystical Agradditions
+In Control!
+LootTableTweaker
+Farming for Blockheads
+Tomb Many Graves 2
+Just Enough Pattern Banners
+Ice and Fire: Dragons
+Industrial Foregoing
+Scannable
+JAOPCA
+ConnectedTexturesMod
+Just Enough HarvestCraft (JEHC)
+Immersive Petroleum
+Redstone Flux
+CoFH World
+Cucumber Library
+/dank/null
+Tinkers' Complement
+EmberRoot Zoo
+Carry On
+Ex Nihilo: Creatio
+Netherending Ores
+WrapUp
+Spice of Life: Carrot Edition
+ArchitectureCraft - TridentMC Version
+Integration Foregoing
+FPS Reducer
+ArmoreableMobs
+ME Capability Adapter
+CC: Tweaked
+LagGoggles
+Placebo
+Pretty Beaches
+Engineer's Doors
+Horse Tweaks
+Just Enough Petroleum
+OldJavaWarning
+Broken Wings
+Thaumic Computers
+MemoryTester
+Building Gadgets
+Simple Trophies
+Demagnetize
+Gendustry JEI Addon
+Just Enough Throwing In Fluids (JETIF)
+Ender IO Endergy
+Anger Management
+Project Intelligence
+PackagedAuto
+IC2 Tweaker
+Armor Toughness Bar
+Overloaded Armor Bar
+FTB Backups (Forge)
+Loot Capacitor Tooltips
+PlaneFix
+GunpowderLib
+Immersive Technology
+Super Sound Muffler: Revived
+Framed Compacting Drawers
+xXx_MoreToolMats_xXx (a PlusTiC fork without the evil, and apparently some new bugs idk)
+Integrated NBT
+IC2 Patcher

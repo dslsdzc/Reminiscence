@@ -1,0 +1,226 @@
+AbyssalCraft
+AbyssalCraft Integration
+Actually Additions
+AE2 Network Visualiser
+AE2 Unofficial Extended Life
+AgriCraft
+Akashic Tome
+Alchemistry
+Alfheim
+A Lib
+AppleSkin
+Astral Sorcery
+Atum 2: Return to the Sands
+AutoRegLib
+AutoRun
+Avaritia 1.1x
+Avaritiaddons
+Bad Mobs
+B.A.S.E
+Basic Nether Ores
+Baubles
+Baubley Heart Canisters
+Better Advancements
+Better Builder's Wands
+BetterNether
+Better Questing
+Better Questing - Standard Expansion
+Better Questing Tweaker
+Bewitchment (Legacy)
+BiblioCraft
+Bigger Crafting Tables
+BiomeTweaker
+Blood Magic: Alchemical Wizardry
+BnBGamingCore
+BNBGamingLib
+Bookshelf
+Botania CEU
+Brandon's Core
+Building Gadgets
+CB Multipart
+Chameleon
+ChAoS_UnItY_
+Chisel
+Chisels & Bits
+Clumps
+CodeChicken Lib 1.8.+
+CoFH Core
+CoFH World
+Common Capabilities
+ConfigAnytime
+ConnectedTexturesMod
+ContentTweaker
+Crafting Tweaks
+CraftTweaker
+Crash Assistant
+Cucumber Library
+Custom Main Menu
+Cyclops Core
+/dank/null
+Default Options
+Demagnetize
+Divine Journey 2 Addons
+DivineRPG (Official)
+Draconic Additions
+Draconic Evolution
+EnderCore
+Ender IO
+Ender IO Endergy
+Ender Modpack Tweaks
+Ender Storage 1.8.+
+Ender Tweaker
+Ender Utilities
+Enhanced P2P
+EvilCraft
+Extended Crafting: Nomifactory Edition
+ExtraCells2 - SamLam140330's Fork
+Extra CPUs
+Extra Utilities
+Extreme Reactors
+FermiumASM
+FermiumBooter
+fonnymunkey
+Forgelin-Continuous
+Framed Compacting Drawers
+FTB Backups
+FTB Library
+FTB Utilities
+Galacticraft Legacy
+Galacticraft Tweaker
+Gas Conduits
+GroovyScript
+Guide-API
+Guidebook
+Hammer Lib
+Hwyla
+Immersive Engineering
+Industrial Foregoing
+InfinityLib
+Initial Inventory
+Integrated Derivative
+Integrated Dynamics
+Integrated NBT
+Integrated Tunnels
+invadermonky
+Inventory Tweaks
+InWorldCrafting
+Iron Chests
+IvToolkit
+JEI Utilities
+JourneyMap
+Just Enough Calculation
+Just Enough Items
+Just Enough Reactors
+Just Enough Resources
+Just Enough Throwing In Fluids
+Knowledge Sharer
+LagGoggles
+LightningCraft
+LootTweaker
+Mantle
+McJtyLib
+MCMultiPart
+Mekanism
+MixinBooter
+MJRLegends Lib
+MmmMmmMmmMmm
+Moar Tinkers
+Mob Grinding Utils
+ModTweaker
+Modular Diversity
+Modular Machinery
+Modular Magic
+More Overlays
+MoreTweaker
+Morpheus
+MorphOverlay
+Mouse Tweaks Unofficial
+MrTJPCore
+MTLib
+MystAgrad Cloche Compat
+Mystical Agradditions
+Mystical Agriculture
+MysticalLib
+Mystical World
+Natura Legacy
+Nature's Compass
+NoiseThreader
+NotEnoughIDs
+OAuth
+Omniwand
+OpenBlocks Reopened
+Ore Excavation
+p455w0rd's Library
+PackagedAuto
+Patchouli
+PlaneFix
+Planet Progression
+ProjectE
+Project Intelligence
+Project Red - Core
+Project Red - Integration
+QuantumFlux
+Quark: RotN Edition
+Reborn Core
+Recurrent Complex
+Red Core
+Redstone Flux
+Requious Frakto
+Resource Loader
+Restricted Portals
+RFTools
+RFTools Dimensions
+Roots
+Ruins (Structure Spawning System)
+SerializationIsBad
+Simple Trophies
+Simple Void World
+Simply Backpacks
+Simply Jetpacks 2
+Solar Flux Reborn
+spark
+Spartan Shields
+Storage Drawers
+Super Sound Muffler: Revived
+Tesla Core Lib
+Thaumcraft
+Thaumcraft Fix
+Thaumic Augmentation
+Thaumic Energistics Extended Life
+Thaumic Inventory Scanning
+Thaumic JEI
+The Aether
+The Erebus
+Thermal Dynamics
+Thermal Expansion
+Thermal Foundation
+The Twilight Forest - Deforestation Edition
+TickCentral
+Tinkers' Addons
+Tinkers' Aether: DMAN Edition
+Tinkers Construct
+Tinker's JEI
+Tips
+TipTheScales
+Tomb Many Graves 2
+Tool Progression
+Torchmaster
+Totemic
+Traverse Reforged
+Triumph
+Tweakers Construct
+Uber Conduit Probe
+Underground Biomes
+UniDict
+Universal Tweaks
+ValkyrieLib
+VintageFix
+Waila Harvestability
+WanionLib
+Wasaila
+Wawla - What Are We Looking At
+Wireless Redstone CBE
+xXx_MoreToolMats_xXx
+YUNG's Better Caves
+Zen Utils
+ZeroCore 2

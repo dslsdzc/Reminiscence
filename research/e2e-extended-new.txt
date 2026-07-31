@@ -1,0 +1,276 @@
+The Spice of Life
+MineMenu
+Ping
+Hunger Overhaul
+MmmMmmMmmMmm (Target Dummy)
+BiomeTweaker
+Custom Loading Screen
+BNBGamingLib
+Thaumic Additions: Reconstructed
+Triumph
+IC2 Crop-Breeding Plugin
+Colossal Chests
+Mod Name Tooltip
+Just Enough Calculation
+Potion Core
+Silent Lib (silentlib)
+HammerLib
+Scaling Health
+Enchantment Descriptions
+Twerk Sim 2K16
+Console Filter
+More Default Options
+Just Enough Dimensions
+Additional Compression
+Void Island Control
+CreativeCore
+LittleTiles
+RandomTweaks
+Village Names
+Keyboard Wizard
+Xaero's Minimap
+Open Terrain Generator (OTG)
+Game Stages
+OC Sensors
+Ore Excavation Integration
+U Team Core
+BnBGamingCore
+JAOPCACustom
+Bedrock Ores
+Tweakers Construct
+Immersive Cables
+Athenaeum
+Dropt
+Tinkers Extras
+Smooth Font
+Endorium (Forge)
+Terracart Reloaded
+OpenComputers Drivers for Tinkers Construct
+Integrated Crafting
+FTB Quests (NeoForge)
+Flopper
+Thermal Innovation
+Server Tab Info
+Armory Expansion
+Cases
+Botania Tweaks
+Integrated Terminals
+CraftPresence
+Biome Border Viewer
+Tree Tweaker
+Floralchemy
+Mystical Agriculture Tiered Crystals
+Proportional Destruction Particles
+Redstone Repository Revolved
+Quark Oddities
+Cathedral
+Useful Railroads
+Cherished Worlds
+Too Many Efficiency Losses
+Item Filters
+Bring Me The Rings!
+Grid
+Nimble (Forge)
+InWorldCrafting
+Avaritia IO
+ThermalLogistics
+ArtemisLib
+Engineer's Decor
+Immersive Posts
+Sonomagy
+Xaero's World Map
+ID Squeezer Tweak
+Zen Toolforge
+Sledgehammer
+BetterWaterSplashPotions
+Thaumic Augmentation
+ScalingGUIs
+Gambling Style Archived
+Traveler's Backpack
+AE2 Network Visualiser
+Aqua Acrobatics Forge
+LibNine
+Lazy AE2
+Vaultopic - Early Inventory Management
+Let Me Sleep
+PackagedExCrafting
+Mechanics - Crafting Ways
+OpenScreens
+Smeltery IO
+Tinkers' Modifier Modifier
+FindMeAnyDurability
+NuclearCraft: Overhauled
+Psio
+YUNG's Better Caves (Forge/NeoForge)
+Condition Overload
+Trinity
+Cloche Profit Peripheral
+Mystical Creations
+Minor Integrations and Additions (MIA)
+Lootr (Forge & NeoForge)
+Harder Branch Mining
+QMD
+A Dark Mode
+Dynamic View and Simulation Distances
+Converting Industrial Wires
+TickCentral
+You Dropped This
+Tinkers' Evolution
+NoExpensive
+YUNG's Better Mineshafts (Forge/NeoForge)
+RFTools Dimension Tweaker
+Extended Crafting: Nomifactory Edition
+Mekanism Community Edition
+Zen Utils
+Fluid Drawers
+Potion Descriptions (Forge)
+Particle Culling
+Portable Drill for Immersive Engineering
+Better Gendustry
+Quark: RotN Edition
+BilingualName
+MixinBooter
+NuclearCraft Reactor Builder
+Tinkers' Addons(Fork) with Mod Support
+Eye of Dragons
+PSICaster
+Thaumcraft Research Patcher
+Precision Mining
+Rats: RatN Edition
+Hole Filler Mod
+Better Biome Blend
+Malek's Infinity Gauntlet
+Just Enough Drags
+IFPatcher
+Forgelin-Continuous
+Chibi
+Mouse Tweaks Unofficial
+Atlas Lib
+Uber Conduit Probe
+Blood Smeltery
+Fluidlogged API
+ContentTweaker Registry Orderer
+AE Additions - ExtraCells2 Fork
+Item Borders Neo/Forge
+RandomTweaker
+Better Animals Plus Plus
+Villager Trade Tables - Emerald Edition
+Reach Fix
+Had Enough Items
+AE2 Unofficial Extended Life
+AssetMover
+Villager Market - NBT Fix
+JEI Utilities
+ModularUI
+Roughly Enough IDs
+Inventory Bogo Sorter
+Crafting Tweaks Unofficial
+Fixeroo
+Pointer
+File Director
+Tweaked Petroleum
+Baubley Elytra
+Tweaked Petroleum: Gas Addon
+Tweaked Excavation
+Tweaked Lib
+Forked Proxy
+Packet Fixer
+Flare (Spark for 1.12.2)
+Universal Tweaks
+RLMixins
+My Precious Tool
+Obscure Tooltips
+Thaumcraft Aspect Creator
+RLTweaker2
+Deep Mob Evolution
+Advanced Tweakery
+PackagedAstral
+Mekanism Community Edition: Generators
+Warp Apocalypse
+Advancement Locator
+PackagedDraconic
+Deep Blood Evolution
+Thaumic Energistics Extended Life
+ConfigAnytime
+VintageFix
+Red Core
+Enhanced P2P
+Neeve's AE2: Extended Life Additions
+The One Probe Community Edition
+VisualOres
+Alfheim Lighting Engine
+Omniwand
+Zume
+Key Binding Patch
+Finite Gas
+Just Enough Magiculture
+籁/Sound Physics Remixin
+Advanced Alchemical Furnace
+FermiumBooter
+Villager Contracts
+Fugue
+XU2-Patcher
+Advanced Rocketry - Reworked
+NCO Java Legacy Lib
+ARLib
+UniLib
+StellarCore
+Magiculture Integrations
+Integrated Derivative
+Twilight Forest Fixes (Doors & Misc)
+Thaumcraft Fix
+Rather Enough Immersive Multiblocks
+MiniEffects-Legacy Extended Life
+JEI Area Fixer
+Fluid Interaction Tweaker
+TopAllDependents
+AE2 Crafting Tree - Legacy
+Backpack Display
+Patchouli Books
+Backpack Opener
+Curvy Pipes
+NoiseThreader
+Crash Assistant
+Extended Crafting Terminals for Applied Energistics 2
+OME Tweaks
+Avaritia 1.1x Unofficial Extended Life
+Keybind Unconflict
+RandomComplement
+AnotherTips
+Cleanroom Relauncher
+Gnetum
+Ender's Modpack Tweaks
+Lumenized
+Scalar Legacy
+QBitHop
+Tinkers' Antique
+VisualClaiming
+Roid's Tweaker
+Thaumic Wonders Unofficial
+CodeChicken Lib CRE
+MorphOverlay
+Armored Arms
+ZNet
+LemonSkin (AppleSkin Fork)
+Congrega Mystica
+ThaumicTweaker
+OpenBlocks Reopened
+Quantum Things
+Antique Armory
+BloomTech
+Expanded Events
+AE2FluidCraft-Rework-Unofficial
+XaeroLib
+Fancy Outlines
+ForkedEnderTweaker
+XNet: Additions
+Recurrent Complex Volts
+Ender Core CEu
+EnderIO CEu
+ThaumicAPI
+Warp-O-Mania
+Tinker's Planner Antique
+KAMI: Reborn
+Possibly (Actually) Baubles
+Requious Frakto Unofficial
+Thaumic Information

@@ -1,0 +1,1154 @@
+ Invisible Item Frames
+(Bee's) Serified Font
+/dank/null
+3D Sugar Cane
+3D crops Revamped
+A Dark Mode
+A Lib
+AE Additions - ExtraCells2 Fork
+AE2 Crafting Tree - Legacy
+AE2 Network Visualiser
+AE2 Stuff
+AE2 Unofficial Extended Life
+AE2 Wireless Terminal Library
+AE2FluidCraft-Rework-Unofficial
+AE2WTLib
+AI Improvements
+ARLib
+AbyssalCraft
+AbyssalCraft Integration
+Actually Additions
+Actually Additions V2 Coffee Edition
+Actually Baubles
+ActuallyAdditions
+Additional Banners
+Additional Compression
+Additional Enchanted Miner
+Additional Lanterns
+Additional Structures
+Advanced Alchemical Furnace
+Advanced Backups
+Advanced Generators
+Advanced Rocketry
+Advanced Rocketry - Reworked
+Advanced Tweakery
+Advancement Locator
+Advancement Plaques
+Advancements Fullscreen
+Advent Of Ascension
+Aether: Lost Content Addon
+Age of Weapons - Reforged
+Ageing Spawners
+AgriCraft
+AgriCraft-2.12.0-1.12.0-a6
+Akashic Tome
+AkashicTome-1.2-12
+Alchemistry
+Alfheim
+Alfheim Lighting Engine
+Alternate Current
+Alternative Rain Sounds
+Ambient Environment
+AmbientSounds
+Anger Management
+Animus
+AnotherTips
+Antique Armory
+Apotheosis
+AppleCore
+AppleCore-mc1.12.2-3.2.0
+AppleSkin
+AppleSkin-mc1.12-1.0.9
+Applied Energistics 2
+Aqua Acrobatics [Forge]
+ArchitectureCraft - TridentMC Version
+Armor Points ++
+Armor Toughness Bar
+ArmoreableMobs
+Armored Arms
+Armory Expansion
+Aroma1997Core
+Aroma1997s-Dimensional-World
+ArtemisLib
+AssetMover
+Astral Sorcery
+Async Logger
+Athenaeum
+Atlas Lib
+AttributeFix
+Atum 2: Return to the Sands
+Aures - Create Style for Refined Storage
+Authentic Shadows
+Auto Third Person
+AutoInput-1.12.1-3.0.0-universal
+AutoRegLib
+AutoRegLib-1.3-32
+AutoRun
+Avaritia
+Avaritia 1.1x
+Avaritia 1.1x Unofficial Extended Life
+Avaritia IO
+Avaritia's Complement
+Avaritiaddons
+B.A.S.E
+BNBGamingLib
+Backpack Display
+Backpack Opener
+Backpacks
+Bad Mobs
+Bad Wither No Cookie - Reloaded
+Balkon's WeaponMod: Legacy
+Barebones Bossbars
+Basic Nether Ores
+Baubles
+Baubley Elytra
+Baubley Heart Canisters
+BdLib
+Bedrock Ores
+Bedspreads
+BehindYouV3
+Better 3D Beds
+Better Advancements
+Better Animals Plus Plus
+Better Biome Blend
+Better Builder's Wands
+Better Burning
+Better Dogs
+Better Furnaces Reforged
+Better Gendustry
+Better Night Vision
+Better Questing
+Better Questing - Quest Book
+Better Questing - Standard Expansion
+Better Questing Tweaker
+BetterAdvancements
+BetterBuildersWands
+BetterFps
+BetterFps-1.4.8
+BetterNether
+BetterQuesting-3.5.323
+BetterQuestingTriggerer-1.0
+BetterWaterSplashPotions
+Bewitchment (Legacy)
+Beyond Dimensions
+BiblioCraft
+Bigger Crafting Tables
+BilingualName
+Biome Border Viewer
+BiomeInfo
+BiomeTweaker
+BiomeTweakerCore
+Biomes O' Plenty
+Blinking Ender Eyes
+Blockcraftery
+Blood Magic
+Blood Magic: Alchemical Wizardry
+Blood Smeltery
+BloodMagic
+BloomTech
+Blue's Better Cats
+BnBGamingCore
+BnnWidget
+Body Camera
+Bookshelf
+Borderless Mining
+Born in a Barn
+Botania
+Botania CEU
+Botania Tweaks
+Botania r1.10-363
+Brandon's Core
+Brandons Core
+BrandonsCore
+Bring Me The Rings!
+Broken Wings
+Building Gadgets
+BuildingGadgets-2.8.1
+CB Multipart
+CC: Tweaked
+CTM-MC1.12.2-1.0.1.30
+CTR VCR
+Cake Chomps
+CalcMod
+Capsule
+Carbon Config
+Carry On
+Cases
+Cassette Music Disc
+Cathedral
+Ceramics
+Chameleon
+Chance Cubes
+ChanceCubes
+Cherished Worlds
+Chibi
+Chicken Chunks
+ChickenASM
+ChickenChunks
+Chisel
+Chisel-MC1.12.2-1.0.1.44
+Chisels & Bits
+Chisels & Bits - For Forge
+Chococraft
+Chunk Loaders
+Clarity
+Classic 3D
+Clay Bucket
+Cleanroom Relauncher
+Clear Water
+Client Tweaks
+ClientTweaks_1.12.2-3.1.11
+Cloche Profit Peripheral
+Clumps
+Clumps-3.1.2
+CoFH Core
+CoFH World
+CoFHCore
+CoFHWorld
+CocoaInput-[1.9-1.12.2]-3.1.5
+CodeChicken Lib 1.8.+
+CodeChicken Lib CRE
+CodeChickenLib
+Colossal Chests
+Colourful containers Dark Mode GUI
+Colourful containers GUI
+Colytra (Fabric/Forge/Quilt)
+Comforts
+Comforts Modernized
+Comics Bubbles Chat
+Common Capabilities
+Compact Machines
+Compact Solars
+Condition Overload
+ConfigAnytime
+Congrega Mystica
+Connected Glass
+ConnectedTexturesMod
+Conquest Reforged
+Console Filter
+ContentTweaker
+ContentTweaker Registry Orderer
+Controlling
+Controlling-3.0.8
+Converting Industrial Wires
+Cooking for Blockheads
+CookingForBlockheads_1.12.2-6.5.0
+Cosmetic Armor Reworked
+CraftPresence
+CraftStudio API
+CraftTweaker
+CraftTweaker2
+Craftify
+Crafting Tweaks
+Crafting Tweaks Unofficial
+CraftingTweaks_1.12.2-8.1.9
+Crash Assistant
+CrazyCrates
+CrazyEnchantments
+CreativeCore
+CreativeCore_v1.9.90_mc1.12.2
+Ctrl Q
+Cucumber
+Cucumber Library
+Culinary Construct
+Cursed Fog
+Curvy Pipes
+Custom Backgrounds
+Custom FOV
+Custom Loading Screen
+Custom Main Menu
+Custom Window Title
+CustomMainMenu-MC1.12.2-2.0.9.1
+Customizable Player Models
+Cyclic
+Cyclops Core
+CyclopsCore
+DankNull
+Dark Utilities
+DarkUtils
+DarknessLib
+Dawn of Time
+Decocraft
+Deep Blood Evolution
+Deep Mob Evolution
+Default Dark Mode
+Default Dark Mode: Expansion
+Default Options
+DefaultOptions_1.12.2-9.2.8
+Demagnetize
+Diet Hoppers
+Dimensional Doors
+DimensionalEdibles
+Ding (Forge)
+Dirt2Path [FORGE]
+DiscordSuite
+DiscordSuite-2.2.4
+Divine Journey 2 Addons
+DivineRPG (Official)
+Don't Clear Chat History
+Draconic Additions
+Draconic Evolution
+Draconic-Evolution
+Dramatic Skys
+Dropt
+Durability Tooltip
+Dynamic View and Simulation Distances
+Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More)
+EasyLAN
+ElecCore
+ElevatorMod
+EmberRoot Zoo
+EmbersRekindled-1.13-hotfix2
+Emojicord
+Emojiful
+Enchanting Plus
+Enchantment Descriptions
+Enchantment Level Language Patch
+Ender Core CEu
+Ender IO
+Ender IO Endergy
+Ender Modpack Tweaks
+Ender Storage 1.8.+
+Ender Tweaker
+Ender Utilities
+Ender's Modpack Tweaks
+EnderCore
+EnderIO
+EnderIO CEu
+EnderIO-endergy
+EnderStorage
+EnderTweaker
+EndermanEvolution
+Endorium (Forge)
+Engineer's Decor
+Engineer's Doors
+Enhanced Audio (Sound Pack)
+Enhanced P2P
+Enigmatica 2: Expert - E2E
+Entangled
+Entity Culling
+Environmental Materials
+Environmental Tech
+Epic Fight
+Epic Knights: Shields Armor and Weapons
+EpicSiegeMod-13.167
+Equipment Compare
+EquivalentIntegrations-0.4.6
+Erebus-1.0.31
+Euphoria Patches
+EvergreenHUD
+EverlastingAbilities
+EvilCraft
+Ex Compressum
+Ex Nihilo: Creatio
+Excalibur
+Expanded Events
+ExpandedEquivalence
+Extended Crafting
+Extended Crafting Terminals for Applied Energistics 2
+Extended Crafting: Nomifactory Edition
+Extended illumina (3D lantern and torch)
+ExtendedCrafting
+Extra Bit Manipulation
+Extra CPUs
+Extra Utilities
+ExtraCells
+ExtraCells2 - SamLam140330's Fork
+ExtraPlanets
+Extreme Reactors
+ExtremeReactors
+Eye of Dragons
+FPS Reducer
+FTB Backups
+FTB Backups (Forge)
+FTB Library
+FTB Library (Forge) (Legacy)
+FTB Quests (NeoForge)
+FTB Utilities
+FTB Utilities (Forge)
+FTBBackups-1.1.0.1
+FTBLib-5.4.7.0
+FTBUtilities-5.4.0.124
+Fancy End | End Aesthetic Overhaul
+Fancy Outlines
+FancyMenu
+Fantasy 3D Weapons CIT
+Farming for Blockheads
+FarmingForBlockheads_1.12.2-3.1.28
+FastFurnace
+FastQuit-Forge
+FastWorkbench
+Fence Jumper
+FermiumASM
+FermiumBooter
+File Director
+FindMeAnyDurability
+Finite Gas
+Finite Water
+Firmalife
+FirstAid
+Fix Experience Bug
+Fixeroo
+Flare (Spark for 1.12.2)
+Flat Colored Blocks - For Forge
+Flopper
+Floralchemy
+Fluid Drawers
+Fluid Interaction Tweaker
+Fluidlogged API
+Flux Networks
+Foam​Fix
+Forestry
+ForgeMultipart
+Forgelin-1.8.4
+Forgelin-Continuous
+Forked Proxy
+ForkedEnderTweaker
+Fossils and Archeology: Revival
+Framed Compacting Drawers
+Friendly Fire
+Fugue
+Full Brightness
+FurnaceOverhaul
+Fusion (Connected Textures)
+Future MC
+Galacticraft Legacy
+Galacticraft Tweaker
+Galacticraft-Legacy
+Galacticraft-Planets
+GalacticraftCore
+GalacticraftTweaker
+Gambling Style [Archived]
+Game Stages
+GardenOfGlass
+Gas Conduits
+Geckolib
+Gendustry
+Gendustry JEI Addon
+Get It Together, Drops!
+Give Me Back My HP
+Glowing
+Glowing Ores! - Borderful Edition
+Glowy Nether Portals
+Gnetum
+Graphene
+Grappling Hook Mod
+Grid
+Grimoire of Gaia
+GroovyScript
+GrowableOres
+Grue
+Guide-API
+Guidebook
+GunpowderLib
+HT's TreeChop
+Had Enough Items
+Hammer Lib
+HammerCore
+HammerLib
+Hardcore Hearts
+Harder Branch Mining
+Hit Indication
+Hole Filler Mod
+Horse Tweaks
+Human Era: Villagers & Illagers X Fresh Animations
+Hunger Overhaul
+HuntingDimension
+Hwyla
+Hwyla-1.8.26-B41_1.12.2
+I Know What I'm Doing
+I Like Vanilla
+I18nUpdateMod
+IC2 Crop-Breeding Plugin
+IC2 Patcher
+IC2 Tweaker
+ID Squeezer Tweak
+IFPatcher
+Ice and Fire: Dragons
+Icon Xaero's
+Icons Removed ADS
+Idle Tweaks
+Immersive Cables
+Immersive Engineering
+Immersive Interfaces - Mod Support Unofficial
+Immersive Petroleum
+Immersive Posts
+Immersive Technology
+Immersive Vehicles
+Immersive Vehicles - Official Content Pack [OCP] - Planes & Cars
+ImmersiveEngineering-0.12-92
+Improvable Skills
+In Control!
+In-Game Account Switcher
+InGameInfoXML
+InWorldCrafting
+Industrial Craft
+Industrial Foregoing
+Infinite Night Vision
+InfinityLib
+Initial Inventory
+Integrated Crafting
+Integrated Derivative
+Integrated Dynamics
+Integrated NBT
+Integrated Terminals
+Integrated Tunnels
+Integration Foregoing
+IntegrationForegoing
+InvSee++
+Inventory Bogo Sorter
+Inventory Pets
+Inventory Tweaks
+Inventory Tweaks [1.12 only]
+InventoryHUD+
+InventoryTweaks-1.63
+Invisible Armor Model
+Iron Backpacks
+Iron Chests
+Iron Jetpacks
+Item Borders [Neo/Forge]
+Item Collectors
+Item Filters
+Item Highlighter
+Item Scroller
+ItemPhysic_Full_1.4.28_mc1.12.2
+IvToolkit
+JAOPCA
+JAOPCACustom
+JEI Area Fixer
+JEI Bees
+JEI Utilities
+JEI Villagers
+JSON Paintings
+JourneyMap
+Joy of Painting
+Jump Over Fences
+Just Enough Calculation
+Just Enough Dimensions
+Just Enough Drags
+Just Enough Energistics (JEE)
+Just Enough HarvestCraft (JEHC)
+Just Enough Items
+Just Enough Items (JEI)
+Just Enough Magiculture
+Just Enough Pattern Banners
+Just Enough Petroleum
+Just Enough Reactors
+Just Enough Resources
+Just Enough Resources (JER)
+Just Enough Throwing In Fluids
+Just Enough Throwing In Fluids (JETIF)
+Just Sleep
+JustEnoughCharacters
+JustEnoughEnergistics
+JustEnoughPetroleum-0.1
+JustTheTips
+KAMI: Reborn
+KaratGarden-0.1.4-[1.12.2]
+Key Binding Patch
+Keybind Unconflict
+Keyboard Wizard
+KleeSlabs
+KleeSlabs_1.12.2-5.4.12
+Knowledge Sharer
+Konkrete
+Ksyxis
+LLibrary
+LagGoggles
+Lapis Stays in the Enchanting Table
+Lazy AE2
+LemonSkin (AppleSkin Fork)
+Let Me Despawn
+Let Me Sleep
+LibNine
+LibVulpes
+LibraryEx
+LightningCraft
+Link's 3D Rails
+Litematica
+LittleTiles
+Load My Resources
+Loot Capacitor Tooltips
+LootBags
+LootTableTweaker
+LootTweaker
+Lootr (Forge & NeoForge)
+Lord Craft 2.10.1
+Low On Fire
+Lumenized
+LunatriusCore
+Lux V1
+MCMultiPart
+MCMultiPart-2.5.3
+ME Capability Adapter
+MEDIEVAL CRAFT
+MJRLegends Lib
+MJRLegendsLib
+MPUtils
+MTLib
+MTLib-3.0.6
+MTS/Immersive Vehicles - New Cars
+MaLiLib
+Macaw's Lights and Lamps
+Macaw's Paintings
+Magiculture Integrations
+Magneticraft_1.12-2.8.2-dev
+Mahou Tsukai
+MakeUp - Ultra Fast
+Malek's Infinity Gauntlet
+ManaVisualizer-r1.0-1
+Mandala's GUI - Dark mode
+Mantle
+Map Tooltip
+Mapmaker's Gadgets-1.2_for_1.12.x
+McJtyLib
+McMouser
+Mechanics - Crafting Ways
+Mekanism
+Mekanism Community Edition
+Mekanism Community Edition: Generators
+Mekanism Generators
+MekanismGenerators
+MekanismTools
+Mellow
+MemoryTester
+Metals Ultra
+MicdoodleCore
+Midnighttigger's Default Connected Textures
+MikesModsLib-1.0.2
+MineMenu
+MineTraps
+MiniEffects-Legacy Extended Life
+MiniHUD
+MiniMOTD
+Minor Integrations and Additions (MIA)
+MixinBooter
+MixinBootstrap
+Mixmetica
+MmmMmmMmmMmm
+MmmMmmMmmMmm (Target Dummy)
+Moar Tinkers
+Mob Grinding Utils
+Mob Sunscreen
+MobGrindingUtils-0.3.13
+Mod Name Tooltip
+ModTweaker
+Modern Warfare Cubed
+Modular Diversity
+Modular Diversity-1.9
+Modular Machinery
+Modular Magic
+ModularUI
+MooFluids
+More Bows: Restrung!
+More Default Options
+More Overlays
+MoreTweaker
+Morph-o-Tool
+Morph-o-Tool-1.2-21
+MorphOverlay
+Morpheus
+Mouse Tweaks
+Mouse Tweaks Unofficial
+MouseTweaks-2.10-mc1.12.2
+Moving Elevators
+MrTJPCore
+Music Player
+Music Triggers
+My Minimal Armor
+My Precious Tool
+MystAgrad Cloche Compat
+Mysterious Mountain Lib
+Mystical Agradditions
+Mystical Agriculture
+Mystical Agriculture Tiered Crystals
+Mystical Creations
+Mystical World
+MysticalAgradditions
+MysticalAgriculture
+MysticalLib
+NBT-API
+NCO Java Legacy Lib
+Name Pain
+Natura Legacy
+Nature's Compass
+Neat
+Neat 1.4-17
+Neeve's AE2: Extended Life Additions
+Net Music
+Nether API
+NetherEx
+NetherPortalFix
+Netherending Ores
+Netherending-Ores
+Nimble (Forge)
+No Block Break Particles
+No Cave Ambience
+No Mob Spawning on Trees
+No More Poison with Regeneration
+No Night Vision Flashing
+No Pumpkin Blur
+NoExpensive
+NoFog-1.12.2b3
+NoMobSpawningOnTrees-1.2.2-mc1.12.2
+NoRecipeBook
+NoiseThreader
+NonConflictKeys
+Not Enough Items
+Not So Essential
+NotEnoughIDs
+NotEnoughIDs-1.5.4.4
+NuclearCraft
+NuclearCraft Reactor Builder
+NuclearCraft-2.18o-1.12.2
+NuclearCraft: Overhauled
+OAuth
+OC Sensors
+OME Tweaks
+Obscure Tooltips
+OldJavaWarning
+Omniwand
+One Key Miner
+OneBlock
+OneConfig
+OneKeyMiner
+Open Terrain Generator (OTG)
+OpenBlocks
+OpenBlocks Reopened
+OpenComputers
+OpenComputers Drivers for Tinkers Construct
+OpenComputers-MC1.12.2-1.7.5.192
+OpenModsLib
+OpenScreens
+Optimization
+Ore Excavation
+Ore Excavation Integration
+OreExcavation-1.4.143
+Outlined Ores
+Overgrown Flowery GUI
+Overloaded
+Overloaded Armor Bar
+Overworld Quartz
+PSICaster
+PTRLib
+PackagedAstral
+PackagedAuto
+PackagedDraconic
+PackagedExCrafting
+Packet Fixer
+Pam's HarvestCraft
+Pam's HarvestCraft 1.12.2zf
+Pams HarvestCraft
+Parasites: Reloaded
+Particle Culling
+Patchouli
+Patchouli Books
+Patchouli ROFL Edition
+Patchouli-1.0-20
+Perspective Mod Redux
+Phosphor (Forge)
+Ping
+Pixelmon
+Placebo
+PlaceholderAPI
+PlaneFix
+Planet Progression
+PlayerKits 2
+Plethora Peripherals
+Pointer
+PolyBlur
+PolyPatcher
+PolySprint
+PolyTime
+PolyWeather
+Portable Drill for Immersive Engineering
+Possibly (Actually) Baubles
+Potion Core
+Potion Descriptions (Forge)
+Precision Mining
+Prefab
+Pretty Beaches
+ProgressiveBosses-1.5.4-mc1.12.x
+Project Intelligence
+Project Red - Core
+Project Red - Integration
+Project: Vibrant Journeys
+ProjectE
+ProjectEX-1.2.0.39
+ProjectIntelligence
+ProjectRed
+Proportional Destruction Particles
+Psi
+Psio
+PvP Swords
+QBitHop
+QMD
+Quantum Things
+QuantumFlux
+QuantumStorage
+Quark
+Quark Oddities
+Quark-r1.6-178
+Quark: RotN Edition
+Quick Leaf Decay
+RFTools
+RFTools Control
+RFTools Dimension Tweaker
+RFTools Dimensions
+RLMixins
+RLTweaker2
+Random Things
+RandomComplement
+RandomPatches (Forge)
+RandomThings-MC1.12.2-4.2.7.3
+RandomTweaker
+RandomTweaks
+Rapid Optimization
+Rare Ice
+Rather Enough Immersive Multiblocks
+Rats: RatN Edition
+Raw Input
+ReAuth
+Reach Fix
+Realistic Torches
+Reborn Core
+RebornCore
+Recurrent Complex
+Recurrent Complex Volts
+Red Core
+Redstone Arsenal
+Redstone Flux
+Redstone Repository Revolved
+RedstoneArsenal
+RedstoneFlux
+Refined Storage
+Refined Storage Addons
+Refined Storage: Requestify
+Reliquary
+ReplayMod
+Requious Frakto
+Requious Frakto Unofficial
+Resource Loader
+ResourceLoader-MC1.12.1-1.5.3
+Resourcify
+Responsive Shields
+Restricted Portals
+Roid's Tweaker
+Roots
+Roughly Enough IDs
+Ruins (Structure Spawning System)
+Rustic
+STONEBORN UI Overhaul
+Scalar Legacy
+Scaling Health
+ScalingGUIs
+Scannable
+Scape and Run: Parasites
+Schematica
+Screenshot Viewer
+Screenshot to Clipboard
+Search on MCMOD
+SecurityCraft
+Serene Seasons
+SerializationIsBad
+Server Tab Info
+ServerObserver
+ServerRedirect-Forge-MC1.12.2-1.3.7
+Shadowfacts' Forgelin
+Shoulder Surfing Reloaded
+SideShieldTexturePack
+SignPicture
+Silent Gear
+Silent Lib (silentlib)
+Simple Hotbar
+Simple Magnets
+Simple Storage Network
+Simple Trophies
+Simple Void World
+Simple-Void-World
+SimpleSponge
+Simply Backpacks
+Simply Jetpacks 2
+SimplyJetpacks2
+SkBee
+SkyLandsForge
+SlashBladeJapaneseAddonPack
+Slashblade Murasame
+Sledgehammer
+Small Held Items
+Small Shield & Totem
+Smaller Totem
+Smart Particles
+Smeltery IO
+Smooth Font
+SmoothFont-mc1.12.2-2.0
+Solar Flux Reborn
+SolarFluxReborn_1.12.2-12.3.8
+Sonar Core
+Sonomagy
+Soot-1.6
+Spartan Shields
+Spartan Weaponry
+SpeedRunIGT
+Spice of Life: Carrot Edition
+Spooklementary
+Stackie
+Stained Glass Ultra
+StandardExpansion-3.4.173
+StellarCore
+Storage Drawers
+StorageDrawers
+Super Sound Muffler: Revived
+SuperHeroes
+SuperMartijn642's Config Lib
+SuperMartijn642's Core Lib
+Surge
+SwingThroughGrass
+TCT Core
+TConstruct
+TESLA
+TS2K16-1.2.10
+TT20 (TPS Fixer)
+TabTPS
+Tears & Cheers - Ghast Revamp
+Teddy Totems
+TerraFirmaCraft
+Terracart Reloaded
+Tesla
+Tesla Core Lib
+Thaumcraft
+Thaumcraft Aspect Creator
+Thaumcraft Fix
+Thaumcraft Research Patcher
+Thaumic Additions: Reconstructed
+Thaumic Augmentation
+Thaumic Computers
+Thaumic Energistics Extended Life
+Thaumic Information
+Thaumic Inventory Scanning
+Thaumic Inventory Scanning (Thaumcraft Addon)
+Thaumic JEI
+Thaumic Tinkerer: Reborn
+Thaumic Wonders Unofficial
+ThaumicAPI
+ThaumicTweaker
+The Aether
+The Erebus
+The Hordes
+The Impossible Library
+The Lost Cities
+The Midnight
+The One Probe Community Edition
+The Rename Compat Project
+The Spice of Life
+The Twilight Forest
+The Twilight Forest - Deforestation Edition
+Thermal Cultivation
+Thermal Dynamics
+Thermal Expansion
+Thermal Foundation
+Thermal Innovation
+ThermalDynamics
+ThermalExpansion
+ThermalFoundation
+ThermalInnovation
+ThermalLogistics
+TickCentral
+Time Control
+Tinker I/O
+Tinker's JEI
+Tinker's Planner Antique
+TinkerToolLeveling
+Tinkers Construct
+Tinkers Extras
+Tinkers' Addons
+Tinkers' Addons(Fork) with Mod Support
+Tinkers' Aether: DMAN Edition
+Tinkers' Antique
+Tinkers' Complement
+Tinkers' Construct
+Tinkers' Evolution
+Tinkers' Modifier Modifier
+Tinkers' Tool Leveling
+TinkersComplement
+TipTheScales
+Tips
+Toast Control
+Tomb Many Graves 2
+Too Many Efficiency Losses
+Tool Progression
+TopAllDependents
+Torchmaster
+ToroHealth Damage Indicators
+Totemic
+TouchController
+Tough As Nails
+Translocators
+Transparent GUI and HUD
+Trash Cans
+Traveler's Backpack
+Traverse Reforged
+Tree Tweaker
+Trinity
+Triumph
+Tropicraft
+Tweaked Excavation
+Tweaked Lib
+Tweaked Petroleum
+Tweaked Petroleum: Gas Addon
+Tweakeroo
+Tweakers Construct
+Twerk Sim 2K16
+Twilight Forest Fixes (Doors & Misc)
+U Team Core
+Uber Conduit Probe
+Underground Biomes
+Underlay
+UniDict
+UniLib
+Universal Tweaks
+Unlimited Chisel Works
+Unloader
+Useful Railroads
+Useful Slime
+ValkyrieLib
+Valkyrien Skies
+Vampires Need Umbrellas
+Vampirism
+Vampirism Integrations
+VanillaFix-1.0.10-99
+VanillaIcecreamFix
+Vaultopic - Early Inventory Management
+Village Names
+Villager Contracts
+Villager Market
+Villager Market - NBT Fix
+Villager Trade Tables - Emerald Edition
+VintageFix
+VisualClaiming
+VisualOres
+Vocal Villagers
+Void Fog
+Void Island Control
+WI Zoom
+Waila Harvestability
+WailaHarvestability-mc1.12-1.1.12
+WaitingTime-1.0.1
+WanionLib
+Warp Apocalypse
+Warp-O-Mania
+Wasaila
+Wasaila-1.0
+Wawla
+Wawla - What Are We Looking At
+Waystones_1.12.2-4.1.0
+Winter Zombies
+Wireless Chargers
+Wireless Crafting Terminal
+Wireless Redstone CBE
+WirelessCraftingTerminal
+WitherSkeletonTweaks
+Wool Simple
+WrapUp
+XNet
+XNet: Additions
+XP Tome
+XU2-Patcher
+Xaero's Minimap
+Xaero's Vanilla GUI
+Xaero's World Map
+XaeroLib
+XaeroPlus
+YABBA-1.1.2.54
+YDM's Weapon Master
+YNot
+YNot-0.2.4
+YUNG's Better Caves
+YUNG's Better Caves (Forge/NeoForge)
+YUNG's Better Mineshafts (Forge/NeoForge)
+Yet Another Recipe Conflict Fixer (YARCF)
+You Dropped This
+ZNet
+Zen Toolforge
+Zen Utils
+ZeroCore 2
+Zume
+additionalresources-1.9.4-0.2.0.28+47cd0bd_signed
+ae2stuff-0.7.0.4-mc1.12.2
+appliedenergistics2-rv6-stable-7
+armorplus
+astralsorcery
+audiodeath-1.9-0.7.0.50+87aeca7
+base
+baubley-heart-canisters
+bdlib-1.14.3.12-mc1.12.2
+blockcraftery
+bonsaitrees-1.1.4-b170
+brokenwings-2.1.1
+chiselsandbits-14.33
+compacter-1.3.0.3-mc1.12.2
+diethopper-1.1
+e4mc Retro
+exnihilocreatio
+extrautils2
+fencejumper
+foamfix-0.10.10-1.12.2
+immersivepetroleum
+industrialforegoing
+infinitylib-1.12.0
+instantunify
+ironchest
+jei_1.12.2-4.15.0.293
+journeymap
+knobcontrol
+landcore-1.5.0.1
+landcraft-2.3.0.2
+lostcities
+matc-1.0.1-hotfix
+mcjtylib
+mclo.gs
+modelloader-1.1.7
+modnametooltip_1.12.2-1.10.1
+modtweaker-4.0.18
+modularmachinery
+moreoverlays-1.15.1-mc1.12.2
+mpbasic
+mysticallib
+natura
+omlib
+ompd
+openmodularturrets
+overloadedarmorbar-1.0.4g
+p455w0rd's Library
+p455w0rdslib
+packmode
+phosphor
+plustic-7.1.6.1
+pneumaticcraft-repressurized
+portality
+quantumflux
+randompatches
+reauth-3.6.0
+rftools
+rftoolsctrl
+rftoolsdim
+riteclicker
+rockcandy
+simpletrophies-1.2.2.1
+spark
+stacksize
+tesla-core-lib
+teslafied
+thedragonlib
+thermalsolars
+tinyprogressions
+tombstone-3.6.8-1.12.2
+tweakersconstruct
+twilightforest
+woot
+xXx_MoreToolMats_xXx
+xXx_MoreToolMats_xXx (a PlusTiC fork without the evil, and apparently some new bugs idk)
+xnet
+zerocore
+籁/Sound Physics Remixin
+红石辅助RedstoneAuxiliary
