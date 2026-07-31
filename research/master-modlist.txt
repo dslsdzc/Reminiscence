@@ -6,13 +6,18 @@ A Dark Mode
 A Lib
 AE Additions - ExtraCells2 Fork
 AE2 Crafting Tree - Legacy
+AE2 Fluid Crafting
 AE2 Network Visualiser
 AE2 Stuff
+AE2 Unofficial Extended
 AE2 Unofficial Extended Life
+AE2 Wireless Fluid Terminal
+AE2 Wireless Interface Terminal
 AE2 Wireless Terminal Library
 AE2FluidCraft-Rework-Unofficial
 AE2UEL Wireless Universal Terminal
 AE2WTLib
+AEble
 AI Improvements
 ARLib
 AbyssalCraft
@@ -20,6 +25,7 @@ AbyssalCraft Integration
 Actually Additions
 Actually Additions V2 Coffee Edition
 Actually Baubles
+Actually Subtractions
 ActuallyAdditions
 Additional Banners
 Additional Compression
@@ -29,6 +35,7 @@ Additional Structures
 Additions Mod
 Advanced Alchemical Furnace
 Advanced Backups
+Advanced Fishing
 Advanced Generators
 Advanced Rocketry
 Advanced Rocketry - Reworked
@@ -37,6 +44,7 @@ Advancement Locator
 Advancement Plaques
 Advancements Fullscreen
 Advent Of Ascension
+Aether Continuation
 Aether: Lost Content Addon
 Age of Weapons - Reforged
 Ageing Spawners
@@ -49,6 +57,8 @@ Alfheim
 Alfheim Lighting Engine
 Alternate Current
 Alternative Rain Sounds
+AlwaysEat
+Ambience
 Ambient Environment
 AmbientSounds
 Ancient Spellcraft
@@ -56,14 +66,17 @@ Anger Management
 Animus
 AnotherTips
 Antique Armory
+Anvil Patch
 Apotheosis
 AppleCore
 AppleCore-mc1.12.2-3.2.0
 AppleSkin
 AppleSkin-mc1.12-1.0.9
 Applied Energistics 2
+Aqua Acrobatics
 Aqua Acrobatics [Forge]
 ArchitectureCraft - TridentMC Version
+Armor Curve
 Armor Points ++
 Armor Toughness Bar
 ArmoreableMobs
@@ -72,6 +85,7 @@ Armory Expansion
 Armourer's Workshop
 Aroma1997Core
 Aroma1997s-Dimensional-World
+AromaBackup
 ArtemisLib
 Artisan Worktables 1.12
 AssetMover
@@ -80,12 +94,14 @@ Astral Sorcery
 Async Logger
 Athenaeum
 Atlas Lib
+Attribute Fix
 AttributeFix
 Atum 2: Return to the Sands
 Aures - Create Style for Refined Storage
 Authentic Shadows
 Auto Third Person
 AutoInput-1.12.1-3.0.0-universal
+AutoPlant
 AutoRegLib
 AutoRegLib-1.3-32
 AutoRun
@@ -98,10 +114,12 @@ Avaritia Tweaks
 Avaritia's Complement
 Avaritiaddons
 B.A.S.E
+BDLib
 BNBGamingLib
 Backpack Display
 Backpack Opener
 Backpacks
+BacoDifficulty
 Bad Mobs
 Bad Wither No Cookie - Reloaded
 Balkon's WeaponMod: Legacy
@@ -117,19 +135,27 @@ BehindYouV3
 Better 3D Beds
 Better Advancements
 Better Animals Plus Plus
+Better Battle Towers
 Better Biome Blend
 Better Builder's Wands
 Better Burning
+Better Caves
 Better Chat
 Better Dogs
+Better Foliage
 Better Furnaces Reforged
 Better Gendustry
+Better Hurt Timer
 Better Night Vision
+Better Placement
 Better Questing
 Better Questing - Quest Book
 Better Questing - Standard Expansion
 Better Questing Tweaker
+Better Signs
+Better Slimes
 Better Title Screen
+Better mobGriefing
 BetterAdvancements
 BetterBuildersWands
 BetterBuildersWandsFix
@@ -143,15 +169,20 @@ BetterWaterSplashPotions
 Bewitchment (Legacy)
 Beyond Dimensions
 BiblioCraft
+Bigger Chat History
 Bigger Crafting Tables
+Bigger Packets Please
 BilingualName
+Binnie's Mods
 Biome Border Viewer
 BiomeInfo
 BiomeTweaker
 BiomeTweakerCore
 Biomes O' Plenty
+Bird's Foods
 Blinking Ender Eyes
 Blockcraftery
+Blood Arsenal
 Blood Magic
 Blood Magic: Alchemical Wizardry
 Blood Smeltery
@@ -160,29 +191,39 @@ BloomTech
 Blue's Better Cats
 Blur
 BnBGamingCore
+BnBGamingLib
 BnnWidget
 Body Camera
+Bonsai Trees
 Bookshelf
 Borderless Mining
 Born in a Barn
 Botania
 Botania CEU
+Botania Needs These Things
 Botania Needs These Things!
 Botania Tweaks
 Botania r1.10-363
+Botanic Additions
+Botanic Bonsai
+Bountiful
+Bountiful Baubles
 Brandon's Core
 Brandons Core
 BrandonsCore
+Bring Me The Rings
 Bring Me The Rings!
 Broken Wings
 Building Gadgets
 BuildingGadgets-2.8.1
 CB Multipart
 CC: Tweaked
+CTM
 CTM-MC1.12.2-1.0.1.30
 CTR VCR
 Cake Chomps
 CalcMod
+Calm Down Zombie Guy
 Capsule
 Carbon Config
 Carry On
@@ -195,7 +236,10 @@ Chameleon
 Champions
 Chance Cubes
 ChanceCubes
+Charm
+ChatFlow
 Cherished Worlds
+Chest Transporter
 Chibi
 Chicken Chunks
 ChickenASM
@@ -206,10 +250,13 @@ ChiseledAdditions
 Chisels & Bits
 Chisels & Bits - For Forge
 Chococraft
+Chocolate Quest
 Chunk Loaders
 Chunk-Pregenerator
+ChunkGenLimiter
 Clarity
 Classic 3D
+Classic Bar Legacy
 Classic Bars
 Clay Bucket
 Cleanroom Relauncher
@@ -224,19 +271,26 @@ CoFH World
 CoFHCore
 CoFHWorld
 CocoaInput-[1.9-1.12.2]-3.1.5
+CodeChicken Lib
 CodeChicken Lib 1.8.+
 CodeChicken Lib CRE
 CodeChickenLib
+ColorUtility
 Colossal Chests
+Coloured Tooltips
 Colourful containers Dark Mode GUI
 Colourful containers GUI
+Colytra
 Colytra (Fabric/Forge/Quilt)
+Combined Potions
 Comforts
 Comforts Modernized
 Comics Bubbles Chat
 Common Capabilities
+Compact Drawers
 Compact Machines
 Compact Solars
+CompatSkills
 Condition Overload
 ConfigAnytime
 Congrega Mystica
@@ -250,13 +304,17 @@ ContentTweaker Registry Orderer
 Controlling
 Controlling-3.0.8
 Converting Industrial Wires
+Cookie Core
 Cooking for Blockheads
 CookingForBlockheads_1.12.2-6.5.0
+CoroUtil
+Corpse Complex
 Cosmetic Armor Reworked
 CraftPresence
 CraftStudio API
 CraftTweaker
 CraftTweaker Integration
+CraftTweaker Sixik Utils
 CraftTweaker2
 Craftify
 Crafting Tweaks
@@ -290,15 +348,20 @@ Dark Utilities
 DarkUtils
 DarknessLib
 Dawn of Time
+Death Counter
+Debark
 Decocraft
 Deep Blood Evolution
 Deep Mob Evolution
 Default Dark Mode
 Default Dark Mode: Expansion
 Default Options
+Default World Generator
 DefaultOptions_1.12.2-9.2.8
+Defiled Lands
 Demagnetize
 Diet Hoppers
+Dimension Stages
 Dimensional Doors
 DimensionalEdibles
 Ding (Forge)
@@ -308,13 +371,23 @@ DiscordSuite-2.2.4
 Divine Journey 2 Addons
 DivineRPG (Official)
 Don't Clear Chat History
+Doomlike Dungeons
 Draconic Additions
+Draconic Energy
 Draconic Evolution
 Draconic-Evolution
 Dramatic Skys
 Dropt
+Dungeons 2
+DupeFix Project
+Duplicate Entity UUID Fix
 Durability Tooltip
+Dynamic Dynamos
+Dynamic Surroundings
+Dynamic View
 Dynamic View and Simulation Distances
+Dynamistics
+EBlib
 Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More)
 EasyLAN
 ElecCore
@@ -331,6 +404,7 @@ Ender Core CEu
 Ender IO
 Ender IO Endergy
 Ender Modpack Tweaks
+Ender Storage
 Ender Storage 1.8.+
 Ender Tweaker
 Ender Utilities
@@ -343,6 +417,7 @@ EnderStorage
 EnderTweaker
 EndermanEvolution
 Endorium (Forge)
+EnergeticSheep
 Engineer's Decor
 Engineer's Doors
 Enhanced Audio (Sound Pack)
@@ -350,12 +425,14 @@ Enhanced P2P
 Enigmatica 2: Expert - E2E
 Entangled
 Entity Culling
+Entity NaN Health Fix
 Environmental Materials
 Environmental Tech
 Epic Fight
 Epic Knights: Shields Armor and Weapons
 EpicSiegeMod-13.167
 Equipment Compare
+Equivalent Integrations
 EquivalentIntegrations-0.4.6
 Erebus-1.0.31
 Eternal Singularity
@@ -366,6 +443,8 @@ EvilCraft
 Ex Compressum
 Ex Nihilo: Creatio
 Excalibur
+Exline's Candy Mod
+Expanded Equivalence
 Expanded Events
 ExpandedEquivalence
 Extended Crafting
@@ -376,6 +455,8 @@ ExtendedAE
 ExtendedCrafting
 Extra Bit Manipulation
 Extra CPUs
+Extra Cells 2
+Extra Trees
 Extra Utilities
 ExtraBotany
 ExtraCells
@@ -387,8 +468,11 @@ Eye of Dragons
 FPS Reducer
 FTB Backups
 FTB Backups (Forge)
+FTB Guides
 FTB Library
 FTB Library (Forge) (Legacy)
+FTB Project EX
+FTB Quests
 FTB Quests (NeoForge)
 FTB Utilities
 FTB Utilities (Forge)
@@ -401,6 +485,9 @@ FancyMenu
 Fantasy 3D Weapons CIT
 Farming for Blockheads
 FarmingForBlockheads_1.12.2-3.1.28
+Fast Furnace
+Fast Leaf Decay
+FastFlyBlockBreaking
 FastFurnace
 FastQuit-Forge
 FastWorkbench
@@ -408,6 +495,7 @@ Fence Jumper
 FermiumASM
 FermiumBooter
 File Director
+Find My Items And Fluids
 FindMeAnyDurability
 Finite Gas
 Finite Water
@@ -419,12 +507,16 @@ Flare (Spark for 1.12.2)
 Flat Colored Blocks - For Forge
 Flopper
 Floralchemy
+FluiDict
 Fluid Drawers
 Fluid Interaction Tweaker
 Fluidlogged API
 Flux Networks
+FoamFix
 Foam​Fix
+Food Expansion
 Forestry
+ForgeEndertech
 ForgeMultipart
 Forgelin-1.8.4
 Forgelin-Continuous
@@ -438,6 +530,7 @@ Full Brightness
 FurnaceOverhaul
 Fusion (Connected Textures)
 Future MC
+GTNH's Forgelin
 Galacticraft Legacy
 Galacticraft Tweaker
 Galacticraft-Legacy
@@ -455,12 +548,15 @@ Gendustry JEI Addon
 Get It Together, Drops!
 Give Me Back My HP
 Global GameRules
+Global XP
 Glowing
 Glowing Ores! - Borderful Edition
 Glowy Nether Portals
 Gnetum
+GottschCore
 Graphene
 Grappling Hook Mod
+Gravestone mod
 Grid
 Grimoire of Gaia
 GroovyScript
@@ -478,11 +574,16 @@ HammerCore
 HammerLib
 Hardcore Hearts
 Harder Branch Mining
+Headcrumbs
+Hesperus
 Hit Indication
 Hole Filler Mod
+Homing Exp Orbs
+Hooked
 Horse Tweaks
 Human Era: Villagers & Illagers X Fresh Animations
 Hunger Overhaul
+HungerTweaker
 HuntingDimension
 Hwyla
 Hwyla-1.8.26-B41_1.12.2
@@ -501,7 +602,9 @@ Icon Xaero's
 Icons Removed ADS
 Idle Tweaks
 Immersive Cables
+Immersive Combat
 Immersive Engineering
+Immersive Fx
 Immersive Interfaces - Mod Support Unofficial
 Immersive Petroleum
 Immersive Posts
@@ -529,8 +632,10 @@ Integrated Terminals
 Integrated Tunnels
 Integration Foregoing
 IntegrationForegoing
+InvMove
 InvSee++
 Inventory Bogo Sorter
+Inventory HUD+
 Inventory Pets
 Inventory Tweaks
 Inventory Tweaks [1.12 only]
@@ -541,30 +646,40 @@ Invisible Item Frames
 Iron Backpacks
 Iron Chests
 Iron Jetpacks
+Iron chest SL
+It's The Little Things
 Item Borders [Neo/Forge]
 Item Collectors
 Item Filters
 Item Highlighter
 Item Scroller
+Item Stages Plus
+ItemPhysic
 ItemPhysic_Full_1.4.28_mc1.12.2
 ItemZoom
 IvToolkit
 JAOPCA
+JAOPCA Singularities
 JAOPCAAdditions
 JAOPCACustom
 JEI Area Fixer
 JEI Bees
+JEI Integration
 JEI Utilities
 JEI Villagers
+JER Ore Integration
 JSON Paintings
 JourneyMap
 Joy of Painting
 Jump Over Fences
+Just A Resource Generation
 Just Enough Calculation
 Just Enough Characters
 Just Enough Dimensions
 Just Enough Drags
+Just Enough Energistics
 Just Enough Energistics (JEE)
+Just Enough HarvestCraft
 Just Enough HarvestCraft (JEHC)
 Just Enough Items
 Just Enough Items (JEI)
@@ -595,13 +710,17 @@ Konkrete [Forge/NeoForge]
 Ksyxis
 LLibrary
 LagGoggles
+Lapis Stays
 Lapis Stays in the Enchanting Table
+Large Ore Deposits
+Lava Waders Bauble
 Lazy AE2
 Lazy AE2 Patch
 Legendary Tooltips [Neo/Forge]
 LemonSkin (AppleSkin Fork)
 Let Me Despawn
 Let Me Sleep
+LetsEncryptCraft
 LibNine
 LibVulpes
 LibrarianLib
@@ -611,6 +730,9 @@ Link's 3D Rails
 Litematica
 LittleTiles
 Load My Resources
+Loading Screens
+Loading Tips
+Logistics Pipes
 Loot Capacitor Tooltips
 Loot Overhaul
 LootBags
@@ -618,10 +740,12 @@ LootTableTweaker
 LootTweaker
 Lootr (Forge & NeoForge)
 Lord Craft 2.10.1
+Lost Cities
 Low On Fire
 Lumenized
 LunatriusCore
 Lux V1
+MCA
 MCMultiPart
 MCMultiPart-2.5.3
 ME Capability Adapter
@@ -635,9 +759,12 @@ MTS/Immersive Vehicles - New Cars
 MaLiLib
 Macaw's Lights and Lamps
 Macaw's Paintings
+Magic Bees
+Magic Feather
 Magiculture Integrations
 Magneticraft_1.12-2.8.2-dev
 Mahou Tsukai
+Main Menu Scale
 MakeUp - Ultra Fast
 Malek's Infinity Gauntlet
 ManaVisualizer-r1.0-1
@@ -645,6 +772,7 @@ Mandala's GUI - Dark mode
 Mantle
 Map Tooltip
 Mapmaker's Gadgets-1.2_for_1.12.x
+Material Changer
 McJtyLib
 McMouser
 Mechanics - Crafting Ways
@@ -655,15 +783,19 @@ Mekanism Energistics
 Mekanism Generators
 Mekanism-CE-Unofficial
 MekanismGenerators
+MekanismOres
 MekanismTools
 Mellow
+Memory Cleaner Mod
 MemoryTester
 Metals Ultra
 MicdoodleCore
 Midnighttigger's Default Connected Textures
+Mike's Mods Lib
 MikesModsLib-1.0.2
 MineMenu
 MineTraps
+Minecraft Forge
 MiniEffects-Legacy Extended Life
 MiniHUD
 MiniMOTD
@@ -673,13 +805,18 @@ MixinBootstrap
 Mixmetica
 MmmMmmMmmMmm
 MmmMmmMmmMmm (Target Dummy)
+Mo' Bends
 Moar Tinkers
+Mob Dismemberment
 Mob Grinding Utils
+Mob Spawner Control
+Mob Stages
 Mob Sunscreen
 MobGrindingUtils-0.3.13
 Mod Name Tooltip
 ModTweaker
 Modern Warfare Cubed
+Modpack Configuration Checker
 Modular Diversity
 Modular Diversity-1.9
 Modular Machinery
@@ -687,10 +824,12 @@ Modular Magic
 Modular Routers
 ModularUI
 MooFluids
+More Bees
 More Bows: Restrung!
 More Default Options
 More Electric Tools
 More Libs
+More Loot Tables
 More Overlays
 More Plates
 MoreTweaker
@@ -702,7 +841,10 @@ Mouse Tweaks
 Mouse Tweaks Unofficial
 MouseTweaks-2.10-mc1.12.2
 Moving Elevators
+Mowzie's Mobs
+MrCrayfish's Furniture Mod
 MrTJPCore
+Multithreaded Noise
 Music Player
 Music Triggers
 My Minimal Armor
@@ -720,6 +862,7 @@ MysticalLib
 NBT-API
 NCO Java Legacy Lib
 Name Pain
+Natura
 Natura Legacy
 Nature's Compass
 Neat
@@ -727,6 +870,7 @@ Neat 1.4-17
 Neeve's AE2: Extended Life Additions
 Net Music
 Nether API
+NetherEX
 NetherEx
 NetherPortalFix
 Netherending Ores
@@ -741,6 +885,7 @@ No Pumpkin Blur
 NoExpensive
 NoFog-1.12.2b3
 NoMobSpawningOnTrees-1.2.2-mc1.12.2
+NoMoreRecipeConflict
 NoRecipeBook
 NoiseThreader
 NonConflictKeys
@@ -752,6 +897,7 @@ NuclearCraft
 NuclearCraft Reactor Builder
 NuclearCraft-2.18o-1.12.2
 NuclearCraft: Overhauled
+Nyx
 OAuth
 OC Sensors
 OME Tweaks
@@ -763,6 +909,7 @@ One Key Miner
 OneBlock
 OneConfig
 OneKeyMiner
+Open Modular Passive Defense
 Open Modular Turrets
 Open Terrain Generator (OTG)
 OpenBlocks
@@ -772,13 +919,17 @@ OpenComputers
 OpenComputers Drivers for Tinkers Construct
 OpenComputers-MC1.12.2-1.7.5.192
 OpenModsLib
+OpenModularTurrets
 OpenScreens
 Optifine Check
 Optimization
 Ore Excavation
 Ore Excavation Integration
+Ore Stages
 Ore Visual Detector
 OreExcavation-1.4.143
+OreLib
+Orechid Endium
 Outlined Ores
 Overgrown Flowery GUI
 Overloaded
@@ -786,21 +937,27 @@ Overloaded Armor Bar
 Overworld Quartz
 PSICaster
 PTRLib
+PackMode Reborn
+PackModeMenu
 PackagedAstral
 PackagedAuto
 PackagedAvaritia
 PackagedDraconic
 PackagedExCrafting
 Packet Fixer
+Pam's Cookables
 Pam's HarvestCraft
 Pam's HarvestCraft 1.12.2zf
+Pam's Weee! Flowers
 Pams HarvestCraft
 Parasites: Reloaded
 Particle Culling
+Passable Leaves
 Patchouli
 Patchouli Books
 Patchouli ROFL Edition
 Patchouli-1.0-20
+Performant
 Perspective Mod Redux
 Phosphor (Forge)
 Pick Up Notifier [Forge &amp; Fabric]
@@ -813,6 +970,8 @@ Planet Progression
 PlayerKits 2
 PlayersDropHeads
 Plethora Peripherals
+Plummet
+PlusTiC
 Pointer
 PolyBlur
 PolyPatcher
@@ -822,7 +981,9 @@ PolyWeather
 Portable Drill for Immersive Engineering
 Possibly (Actually) Baubles
 Potion Core
+Potion Descriptions
 Potion Descriptions (Forge)
+Pouch of Unknown
 Precision Mining
 Prefab
 Pretty Beaches
@@ -854,12 +1015,14 @@ RFTools
 RFTools Control
 RFTools Dimension Tweaker
 RFTools Dimensions
+RFTools Power
 RGB Chat
 RLMixins
 RLTweaker2
 Random PSIdeas
 Random Things
 RandomComplement
+RandomPatches
 RandomPatches (Forge)
 RandomThings-MC1.12.2-4.2.7.3
 RandomTweaker
@@ -871,15 +1034,20 @@ Rats: RatN Edition
 Raw Input
 ReAuth
 Reach Fix
+Real First Person
 Realistic Terrain Generation Unofficial
 Realistic Torches
 Reborn Core
 RebornCore
+Recipe Stages
+Recipes for All
 Recurrent Complex
 Recurrent Complex Volts
 Red Core
 Redstone Arsenal
 Redstone Flux
+Redstone Flux API
+Redstone Paste
 Redstone Repository Revolved
 RedstoneArsenal
 RedstoneFlux
@@ -891,42 +1059,56 @@ ReplayMod
 Requious Frakto
 Requious Frakto Unofficial
 Resizing Potion
+Reskillable
 Resource Loader
 ResourceLoader-MC1.12.1-1.5.3
 Resourcify
 Responsive Shields
 Restricted Portals
+Revolt of the Mobs
+Rex's Additional Structures
+Roguelike Dungeons
 Roid's Tweaker
 Roots
 Roughly Enough IDs
+Ruins
 Ruins (Structure Spawning System)
 Rustic
+Rustic BOP Woods
+Rustic Thaumaturgy
 STONEBORN UI Overhaul
+Sakura
+Save My Stronghold
 Scalar Legacy
 Scaling Health
 ScalingGUIs
 Scannable
 Scape and Run: Parasites
+Scavenge
 Schematica
 Screenshot Viewer
 Screenshot to Clipboard
 Search on MCMOD
 SecurityCraft
 Serene Seasons
+Serene Tweaks
 SerializationIsBad
 Server Tab Info
 Server.Properties for LAN
 ServerObserver
 ServerRedirect-Forge-MC1.12.2-1.3.7
 Shadowfacts' Forgelin
+Shoulder Surfing
 Shoulder Surfing Reloaded
 Shut Up, Model Loader!
 SideShieldTexturePack
 SignPicture
 Silent Gear
+Silent Lib
 Silent Lib (silentlib)
 Simple Hotbar
 Simple Magnets
+Simple Smeltery Accelerator
 Simple Storage Network
 Simple Trophies
 Simple Void World
@@ -948,23 +1130,34 @@ Smart Particles
 Smeltery IO
 Smooth Font
 SmoothFont-mc1.12.2-2.0
+Snad
+Snow! Real Magic
+Solar Flux
 Solar Flux Reborn
 SolarFluxReborn_1.12.2-12.3.8
 Sonar Core
 Sonomagy
 Soot-1.6
+Sound Physics
 Sound Reloader
 Spartan Shields
 Spartan Weaponry
+SpatialCompat
 SpeedRunIGT
+Spice of Life
 Spice of Life: Carrot Edition
+SplashAnimation
 Spooklementary
 Stackie
 Stained Glass Ultra
 StandardExpansion-3.4.173
+Stellar Fluid Conduits
 StellarCore
 Storage Drawers
+Storage Drawers Extras
 StorageDrawers
+Stuff A Sock In It
+Stygian End
 Super Sound Muffler: Revived
 SuperHeroes
 SuperMartijn642's Config Lib
@@ -982,6 +1175,7 @@ TabTPS
 Tears & Cheers - Ghast Revamp
 Techguns
 Teddy Totems
+TellMe
 TerraFirmaCraft
 Terracart Reloaded
 Tesla
@@ -989,16 +1183,22 @@ Tesla Core Lib
 Thaumcraft
 Thaumcraft Aspect Creator
 Thaumcraft Fix
+Thaumcraft Inventory Scanning
 Thaumcraft Research Patcher
+Thaumic Additions
 Thaumic Additions: Reconstructed
 Thaumic Augmentation
 Thaumic Computers
+Thaumic Energistics
 Thaumic Energistics Extended Life
 Thaumic Information
 Thaumic Inventory Scanning
 Thaumic Inventory Scanning (Thaumcraft Addon)
 Thaumic JEI
+Thaumic Speedup
+Thaumic Tinkerer
 Thaumic Tinkerer: Reborn
+Thaumic Wonders
 Thaumic Wonders Unofficial
 ThaumicAPI
 ThaumicTweaker
@@ -1017,19 +1217,26 @@ The Twilight Forest - Deforestation Edition
 Thermal Cultivation
 Thermal Dynamics
 Thermal Expansion
+Thermal Expansion 5
 Thermal Foundation
 Thermal Innovation
+Thermal Logistics
+Thermal Tinkering
 ThermalDynamics
 ThermalExpansion
 ThermalFoundation
 ThermalInnovation
 ThermalLogistics
 TickCentral
+Tiered Tooltips
 Time Control
 Tinker I/O
 Tinker's JEI
 Tinker's Planner Antique
+TinkerStages
 TinkerToolLeveling
+Tinkers Aether
+Tinkers Alloying Addon
 Tinkers Construct
 Tinkers Extras
 Tinkers' Addons
@@ -1046,10 +1253,13 @@ Tiny Mob Farm
 TipTheScales
 Tips
 Toast Control
+TofuCraft
+Together Forever
 Tomb Many Graves 2
 Too Many Efficiency Losses
 Tool Progression
 TopAllDependents
+Torch Slabs Mod
 Torchmaster
 ToroHealth Damage Indicators
 Totemic
@@ -1059,12 +1269,15 @@ Touhou Little Maid
 Translocators
 Transparent GUI and HUD
 Trash Cans
+TrashSlot
 Traveler's Backpack
 Traverse Reforged
+Treasure2
 Tree Tweaker
 Trinity
 Triumph
 Tropicraft
+Tumbleweed Wasteland
 Tweaked Excavation
 Tweaked Lib
 Tweaked Petroleum
@@ -1077,8 +1290,10 @@ U Team Core
 Uber Conduit Probe
 Underground Biomes
 Underlay
+Unforgiving Void
 UniDict
 UniLib
+Unifine
 Universal Tweaks
 Unlimited Chisel Works
 Unloader
@@ -1089,9 +1304,13 @@ Valkyrien Skies
 Vampires Need Umbrellas
 Vampirism
 Vampirism Integrations
+VanillaFix
 VanillaFix-1.0.10-99
 VanillaIcecreamFix
+Variegated
 Vaultopic - Early Inventory Management
+Versioner
+Vials
 Village Names
 Villager Contracts
 Villager Market
@@ -1104,9 +1323,11 @@ Vocal Villagers
 Void Fog
 Void Island Control
 WI Zoom
+Waddles
 Waila Harvestability
 WailaHarvestability-mc1.12-1.1.12
 WaitingTime-1.0.1
+Wanion Lib
 WanionLib
 Warp Apocalypse
 Warp-O-Mania
@@ -1114,15 +1335,20 @@ Wasaila
 Wasaila-1.0
 Wawla
 Wawla - What Are We Looking At
+Waystones
+Waystones2Waypoints
 Waystones_1.12.2-4.1.0
+What-meme
 Winter Zombies
 Wireless Chargers
 Wireless Crafting Terminal
+Wireless Pattern Terminal
 Wireless Redstone CBE
 WirelessCraftingTerminal
 WitherSkeletonTweaks
 Wool Simple
 WrapUp
+XL Food Mod
 XNet
 XNet: Additions
 XP Tome
@@ -1140,16 +1366,22 @@ YNot
 YNot-0.2.4
 YUNG's Better Caves
 YUNG's Better Caves (Forge/NeoForge)
+YUNG's Better Mineshafts
 YUNG's Better Mineshafts (Forge/NeoForge)
+YUNG's Law
 Yet Another Recipe Conflict Fixer (YARCF)
 You Dropped This
 ZNet
+Zen Summoning
 Zen Toolforge
 Zen Utils
 ZenRecipeReload
+ZenStages
+ZeroCore
 ZeroCore 2
 Zettai Grimoires
 Zettai Psi
+Zombie Awareness
 Zume
 additionalresources-1.9.4-0.2.0.28+47cd0bd_signed
 ae2stuff-0.7.0.4-mc1.12.2
@@ -1165,12 +1397,14 @@ bonsaitrees-1.1.4-b170
 brokenwings-2.1.1
 chiselsandbits-14.33
 compacter-1.3.0.3-mc1.12.2
+dank/null
 diethopper-1.1
 e4mc Retro
 exnihilocreatio
 extrautils2
 fencejumper
 foamfix-0.10.10-1.12.2
+iChunUtil
 immersivepetroleum
 industrialforegoing
 infinitylib-1.12.0
