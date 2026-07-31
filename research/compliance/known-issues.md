@@ -97,3 +97,15 @@
 **已排除 4**：Barebones Bossbars（查无资料）· Better 3D Beds/Better Dogs（资源包，移入 resourcepacks）· Better Gendustry（查无条目 + 与 Gendustry 功能重叠）
 
 **评论级关键**：Avaritia Tweaks 半成品实证（Botania 花未实现/忘写魔力代码——与 Complement fork 二选一保留 Complement）· Avaritiaddons 与 EIO 接口卡服（TPS 下降）· **BiblioCraft × Botania 不兼容**（本包含 Botania——实测或换 1.12.2 fork "Reshelved"）· **Better Battle Towers × RLTweaker 配置互斥**（本包含 RLTweaker2——配置 397 须落实）· BetterWaterSplashPotions 1.12.2 未证实 · Baubles 批量许可误匹配（本体未标协议，建议 Baubles-LTS 分支）
+
+## Batch-07 核查发现（第 849-975 行，47 个）
+
+**已排除 9**：CustomMainMenu/CyclopsCore/DarkUtils/DefaultOptions/DiscordSuite×2/Draconic-Evolution（重复条目）· Don't Clear Chat History（无 1.12.2 Forge 版，仅 Fabric）· Draconic Energy（仅 1.16.5 + 与 DE 功能重复）
+
+**功能重复二选一**：DiscordSuite（停更闭源）vs CraftPresence → 保留 CraftPresence；Custom Starter Gear × Initial Inventory；Doomlike Dungeons × Dungeons 2（同作者，可共存注意重叠）
+
+**OptiFine 冲突**：Custom FOV 官方声明与 OptiFine 不兼容（包内 OptiFine 状态须确认——二选一）
+
+**维度 ID 构建期必查**：DivineRPG 8 维度 · Dimensional Doors 4 维度 · Defiled Lands 1 维度
+
+**批量误匹配校正**：Cyclic 实为 MIT（GitHub 核实）· Default Options/Ding/DivineRPG 批量匹配不可信
