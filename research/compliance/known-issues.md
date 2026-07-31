@@ -331,3 +331,8 @@
 - **Natura → 保留 Natura Legacy**（1.12.2 活跃维护分支，Elite Modding Team/ACGaming；原版 mDiyo 停更）——删原版条目
 - **Patchouli → 保留 Patchouli ROFL Edition**（1.12.2 适配分支，Mets；141 包在用验证兼容 Patchouli API）——删官方条目
 - 二选一决策全部闭环（21 组）
+
+## 无法核实条目专项核对（8/8 全部确认收录）
+
+- Advanced Alchemical Furnace（ARR，需授权/官方链接分发）· AutoInput（MIT，宏工具，多人封禁风险提示）· Find My Items And Fluids（MIT，保留）· FindMeAnyDurability（MIT，与前者重叠——已删）· Finite Gas（BSD，有消费方 Advanced Generators）· Forked Proxy（MIT，Integrated Dynamics 附属，前置齐）· NuclearCraft Reactor Builder（MIT，适配 NC Overhauled）· Overloaded（BSD-3，PO3 jar 确认 1.12.2）
+- 结论：无法核实清单清零——人工核对无需进行

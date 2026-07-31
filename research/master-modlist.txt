@@ -373,7 +373,6 @@ FermiumASM
 FermiumBooter
 File Director
 Find My Items And Fluids
-FindMeAnyDurability
 Finite Gas
 Finite Water
 Firmalife
