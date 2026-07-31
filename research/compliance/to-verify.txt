@@ -1,0 +1,8 @@
+Advanced Alchemical Furnace
+AutoInput-1.12.1-3.0.0-universal
+Find My Items And Fluids
+FindMeAnyDurability
+Finite Gas
+Forked Proxy
+NuclearCraft Reactor Builder
+Overloaded
