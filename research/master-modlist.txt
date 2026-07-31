@@ -2,21 +2,17 @@
 /dank/null
 3D Sugar Cane
 3D crops Revamped
-A Dark Mode
 A Lib
 AE Additions - ExtraCells2 Fork
 AE2 Crafting Tree - Legacy
 AE2 Fluid Crafting
 AE2 Network Visualiser
 AE2 Stuff
-AE2 Unofficial Extended
 AE2 Unofficial Extended Life
 AE2 Wireless Fluid Terminal
 AE2 Wireless Interface Terminal
 AE2 Wireless Terminal Library
-AE2FluidCraft-Rework-Unofficial
 AE2UEL Wireless Universal Terminal
-AE2WTLib
 AEble
 AI Improvements
 ARLib
@@ -40,16 +36,12 @@ Advanced Generators
 Advanced Rocketry
 Advanced Rocketry - Reworked
 Advanced Tweakery
-Advancement Locator
-Advancement Plaques
-Advancements Fullscreen
 Advent Of Ascension
 Aether Continuation
 Aether: Lost Content Addon
 Age of Weapons - Reforged
 Ageing Spawners
 AgriCraft
-AgriCraft-2.12.0-1.12.0-a6
 Akashic Tome
 AkashicTome-1.2-12
 Alchemistry
@@ -97,7 +89,6 @@ Atlas Lib
 Attribute Fix
 AttributeFix
 Atum 2: Return to the Sands
-Aures - Create Style for Refined Storage
 Authentic Shadows
 Auto Third Person
 AutoInput-1.12.1-3.0.0-universal
@@ -118,7 +109,6 @@ BDLib
 BNBGamingLib
 Backpack Display
 Backpack Opener
-Backpacks
 BacoDifficulty
 Bad Mobs
 Bad Wither No Cookie - Reloaded
@@ -133,11 +123,9 @@ Bedrock Ores
 Bedspreads
 BehindYouV3
 Better 3D Beds
-Better Advancements
 Better Animals Plus Plus
 Better Battle Towers
 Better Biome Blend
-Better Builder's Wands
 Better Burning
 Better Caves
 Better Chat
@@ -148,23 +136,16 @@ Better Gendustry
 Better Hurt Timer
 Better Night Vision
 Better Placement
-Better Questing
-Better Questing - Quest Book
-Better Questing - Standard Expansion
-Better Questing Tweaker
 Better Signs
 Better Slimes
 Better Title Screen
 Better mobGriefing
-BetterAdvancements
 BetterBuildersWands
 BetterBuildersWandsFix
 BetterEndForge Backport
 BetterFps
 BetterFps-1.4.8
 BetterNether
-BetterQuesting-3.5.323
-BetterQuestingTriggerer-1.0
 BetterWaterSplashPotions
 Bewitchment (Legacy)
 Beyond Dimensions
@@ -179,12 +160,10 @@ BiomeInfo
 BiomeTweaker
 BiomeTweakerCore
 Biomes O' Plenty
-Bird's Foods
 Blinking Ender Eyes
 Blockcraftery
 Blood Arsenal
 Blood Magic
-Blood Magic: Alchemical Wizardry
 Blood Smeltery
 BloodMagic
 BloomTech
@@ -194,16 +173,12 @@ BnBGamingCore
 BnBGamingLib
 BnnWidget
 Body Camera
-Bonsai Trees
 Bookshelf
 Borderless Mining
 Born in a Barn
 Botania
-Botania CEU
 Botania Needs These Things
-Botania Needs These Things!
 Botania Tweaks
-Botania r1.10-363
 Botanic Additions
 Botanic Bonsai
 Bountiful
@@ -245,10 +220,8 @@ Chicken Chunks
 ChickenASM
 ChickenChunks
 Chisel
-Chisel-MC1.12.2-1.0.1.44
 ChiseledAdditions
 Chisels & Bits
-Chisels & Bits - For Forge
 Chococraft
 Chocolate Quest
 Chunk Loaders
@@ -278,7 +251,6 @@ CodeChickenLib
 ColorUtility
 Colossal Chests
 Coloured Tooltips
-Colourful containers Dark Mode GUI
 Colourful containers GUI
 Colytra
 Colytra (Fabric/Forge/Quilt)
@@ -287,7 +259,6 @@ Comforts
 Comforts Modernized
 Comics Bubbles Chat
 Common Capabilities
-Compact Drawers
 Compact Machines
 Compact Solars
 CompatSkills
@@ -321,8 +292,6 @@ Crafting Tweaks
 Crafting Tweaks Unofficial
 CraftingTweaks_1.12.2-8.1.9
 Crash Assistant
-CrazyCrates
-CrazyEnchantments
 CreativeCore
 CreativeCore_v1.9.90_mc1.12.2
 Ctrl Q
@@ -353,8 +322,6 @@ Debark
 Decocraft
 Deep Blood Evolution
 Deep Mob Evolution
-Default Dark Mode
-Default Dark Mode: Expansion
 Default Options
 Default World Generator
 DefaultOptions_1.12.2-9.2.8
@@ -405,7 +372,6 @@ Ender IO
 Ender IO Endergy
 Ender Modpack Tweaks
 Ender Storage
-Ender Storage 1.8.+
 Ender Tweaker
 Ender Utilities
 Ender's Modpack Tweaks
@@ -413,7 +379,6 @@ EnderCore
 EnderIO
 EnderIO CEu
 EnderIO-endergy
-EnderStorage
 EnderTweaker
 EndermanEvolution
 Endorium (Forge)
@@ -436,14 +401,12 @@ Equivalent Integrations
 EquivalentIntegrations-0.4.6
 Erebus-1.0.31
 Eternal Singularity
-Euphoria Patches
 EvergreenHUD
 EverlastingAbilities
 EvilCraft
 Ex Compressum
 Ex Nihilo: Creatio
 Excalibur
-Exline's Candy Mod
 Expanded Equivalence
 Expanded Events
 ExpandedEquivalence
@@ -455,12 +418,10 @@ ExtendedAE
 ExtendedCrafting
 Extra Bit Manipulation
 Extra CPUs
-Extra Cells 2
 Extra Trees
 Extra Utilities
 ExtraBotany
-ExtraCells
-ExtraCells2 - SamLam140330's Fork
+ExtraCells2
 ExtraPlanets
 Extreme Reactors
 ExtremeReactors
@@ -468,12 +429,9 @@ Eye of Dragons
 FPS Reducer
 FTB Backups
 FTB Backups (Forge)
-FTB Guides
 FTB Library
 FTB Library (Forge) (Legacy)
 FTB Project EX
-FTB Quests
-FTB Quests (NeoForge)
 FTB Utilities
 FTB Utilities (Forge)
 FTBBackups-1.1.0.1
@@ -484,11 +442,9 @@ Fancy Outlines
 FancyMenu
 Fantasy 3D Weapons CIT
 Farming for Blockheads
-FarmingForBlockheads_1.12.2-3.1.28
 Fast Furnace
 Fast Leaf Decay
 FastFlyBlockBreaking
-FastFurnace
 FastQuit-Forge
 FastWorkbench
 Fence Jumper
@@ -514,7 +470,6 @@ Fluidlogged API
 Flux Networks
 FoamFix
 Foam​Fix
-Food Expansion
 Forestry
 ForgeEndertech
 ForgeMultipart
@@ -527,15 +482,12 @@ Framed Compacting Drawers
 Friendly Fire
 Fugue
 Full Brightness
-FurnaceOverhaul
 Fusion (Connected Textures)
 Future MC
 GTNH's Forgelin
 Galacticraft Legacy
 Galacticraft Tweaker
 Galacticraft-Legacy
-Galacticraft-Planets
-GalacticraftCore
 GalacticraftTweaker
 Gambling Style [Archived]
 Game Stages
@@ -554,7 +506,6 @@ Glowing Ores! - Borderful Edition
 Glowy Nether Portals
 Gnetum
 GottschCore
-Graphene
 Grappling Hook Mod
 Gravestone mod
 Grid
@@ -633,7 +584,6 @@ Integrated Tunnels
 Integration Foregoing
 IntegrationForegoing
 InvMove
-InvSee++
 Inventory Bogo Sorter
 Inventory HUD+
 Inventory Pets
@@ -646,7 +596,6 @@ Invisible Item Frames
 Iron Backpacks
 Iron Chests
 Iron Jetpacks
-Iron chest SL
 It's The Little Things
 Item Borders [Neo/Forge]
 Item Collectors
@@ -669,7 +618,6 @@ JEI Utilities
 JEI Villagers
 JER Ore Integration
 JSON Paintings
-JourneyMap
 Joy of Painting
 Jump Over Fences
 Just A Resource Generation
@@ -680,7 +628,6 @@ Just Enough Drags
 Just Enough Energistics
 Just Enough Energistics (JEE)
 Just Enough HarvestCraft
-Just Enough HarvestCraft (JEHC)
 Just Enough Items
 Just Enough Items (JEI)
 Just Enough Magiculture
@@ -727,7 +674,6 @@ LibrarianLib
 LibraryEx
 LightningCraft
 Link's 3D Rails
-Litematica
 LittleTiles
 Load My Resources
 Loading Screens
@@ -744,7 +690,6 @@ Lost Cities
 Low On Fire
 Lumenized
 LunatriusCore
-Lux V1
 MCA
 MCMultiPart
 MCMultiPart-2.5.3
@@ -765,10 +710,8 @@ Magiculture Integrations
 Magneticraft_1.12-2.8.2-dev
 Mahou Tsukai
 Main Menu Scale
-MakeUp - Ultra Fast
 Malek's Infinity Gauntlet
 ManaVisualizer-r1.0-1
-Mandala's GUI - Dark mode
 Mantle
 Map Tooltip
 Mapmaker's Gadgets-1.2_for_1.12.x
@@ -776,16 +719,13 @@ Material Changer
 McJtyLib
 McMouser
 Mechanics - Crafting Ways
-Mekanism
 Mekanism Community Edition
 Mekanism Community Edition: Generators
+Mekanism Community Edition: Tools
 Mekanism Energistics
 Mekanism Generators
 Mekanism-CE-Unofficial
-MekanismGenerators
 MekanismOres
-MekanismTools
-Mellow
 Memory Cleaner Mod
 MemoryTester
 Metals Ultra
@@ -798,7 +738,6 @@ MineTraps
 Minecraft Forge
 MiniEffects-Legacy Extended Life
 MiniHUD
-MiniMOTD
 Minor Integrations and Additions (MIA)
 MixinBooter
 MixinBootstrap
@@ -840,7 +779,6 @@ Morpheus
 Mouse Tweaks
 Mouse Tweaks Unofficial
 MouseTweaks-2.10-mc1.12.2
-Moving Elevators
 Mowzie's Mobs
 MrCrayfish's Furniture Mod
 MrTJPCore
@@ -857,7 +795,6 @@ Mystical Agriculture Tiered Crystals
 Mystical Creations
 Mystical World
 MysticalAgradditions
-MysticalAgriculture
 MysticalLib
 NBT-API
 NCO Java Legacy Lib
@@ -893,9 +830,7 @@ Not Enough Items
 Not So Essential
 NotEnoughIDs
 NotEnoughIDs-1.5.4.4
-NuclearCraft
 NuclearCraft Reactor Builder
-NuclearCraft-2.18o-1.12.2
 NuclearCraft: Overhauled
 Nyx
 OAuth
@@ -912,14 +847,11 @@ OneKeyMiner
 Open Modular Passive Defense
 Open Modular Turrets
 Open Terrain Generator (OTG)
-OpenBlocks
-OpenBlocks Elevator
 OpenBlocks Reopened
 OpenComputers
 OpenComputers Drivers for Tinkers Construct
 OpenComputers-MC1.12.2-1.7.5.192
 OpenModsLib
-OpenModularTurrets
 OpenScreens
 Optifine Check
 Optimization
@@ -945,11 +877,8 @@ PackagedAvaritia
 PackagedDraconic
 PackagedExCrafting
 Packet Fixer
-Pam's Cookables
 Pam's HarvestCraft
-Pam's HarvestCraft 1.12.2zf
 Pam's Weee! Flowers
-Pams HarvestCraft
 Parasites: Reloaded
 Particle Culling
 Passable Leaves
@@ -964,10 +893,8 @@ Pick Up Notifier [Forge &amp; Fabric]
 Ping
 Pixelmon
 Placebo
-PlaceholderAPI
 PlaneFix
 Planet Progression
-PlayerKits 2
 PlayersDropHeads
 Plethora Peripherals
 Plummet
@@ -983,7 +910,6 @@ Possibly (Actually) Baubles
 Potion Core
 Potion Descriptions
 Potion Descriptions (Forge)
-Pouch of Unknown
 Precision Mining
 Prefab
 Pretty Beaches
@@ -1004,7 +930,6 @@ PvP Swords
 QBitHop
 QMD
 Quantum Things
-QuantumFlux
 QuantumStorage
 Quark
 Quark Oddities
@@ -1042,18 +967,12 @@ RebornCore
 Recipe Stages
 Recipes for All
 Recurrent Complex
-Recurrent Complex Volts
 Red Core
 Redstone Arsenal
-Redstone Flux
 Redstone Flux API
 Redstone Paste
 Redstone Repository Revolved
 RedstoneArsenal
-RedstoneFlux
-Refined Storage
-Refined Storage Addons
-Refined Storage: Requestify
 Reliquary
 ReplayMod
 Requious Frakto
@@ -1096,7 +1015,6 @@ SerializationIsBad
 Server Tab Info
 Server.Properties for LAN
 ServerObserver
-ServerRedirect-Forge-MC1.12.2-1.3.7
 Shadowfacts' Forgelin
 Shoulder Surfing
 Shoulder Surfing Reloaded
@@ -1114,11 +1032,8 @@ Simple Trophies
 Simple Void World
 Simple-Void-World
 SimpleSponge
-Simply Backpacks
 Simply Jetpacks 2
 SimplyJetpacks2
-SkBee
-Skin Layers 3D (Fabric/Forge)
 SkyLandsForge
 SlashBladeJapaneseAddonPack
 Slashblade Murasame
@@ -1132,9 +1047,7 @@ Smooth Font
 SmoothFont-mc1.12.2-2.0
 Snad
 Snow! Real Magic
-Solar Flux
 Solar Flux Reborn
-SolarFluxReborn_1.12.2-12.3.8
 Sonar Core
 Sonomagy
 Soot-1.6
@@ -1171,7 +1084,6 @@ TESLA
 TOP Addons
 TS2K16-1.2.10
 TT20 (TPS Fixer)
-TabTPS
 Tears & Cheers - Ghast Revamp
 Techguns
 Teddy Totems
@@ -1192,14 +1104,10 @@ Thaumic Computers
 Thaumic Energistics
 Thaumic Energistics Extended Life
 Thaumic Information
-Thaumic Inventory Scanning
-Thaumic Inventory Scanning (Thaumcraft Addon)
 Thaumic JEI
 Thaumic Speedup
 Thaumic Tinkerer
-Thaumic Tinkerer: Reborn
 Thaumic Wonders
-Thaumic Wonders Unofficial
 ThaumicAPI
 ThaumicTweaker
 The Aether
@@ -1213,11 +1121,9 @@ The One Probe Community Edition
 The Rename Compat Project
 The Spice of Life
 The Twilight Forest
-The Twilight Forest - Deforestation Edition
 Thermal Cultivation
 Thermal Dynamics
 Thermal Expansion
-Thermal Expansion 5
 Thermal Foundation
 Thermal Innovation
 Thermal Logistics
@@ -1234,28 +1140,24 @@ Tinker I/O
 Tinker's JEI
 Tinker's Planner Antique
 TinkerStages
-TinkerToolLeveling
 Tinkers Aether
 Tinkers Alloying Addon
 Tinkers Construct
 Tinkers Extras
 Tinkers' Addons
-Tinkers' Addons(Fork) with Mod Support
-Tinkers' Aether: DMAN Edition
+Tinkers' Aether
 Tinkers' Antique
 Tinkers' Complement
 Tinkers' Construct
 Tinkers' Evolution
 Tinkers' Modifier Modifier
 Tinkers' Tool Leveling
-TinkersComplement
 Tiny Mob Farm
 TipTheScales
 Tips
 Toast Control
 TofuCraft
 Together Forever
-Tomb Many Graves 2
 Too Many Efficiency Losses
 Tool Progression
 TopAllDependents
@@ -1275,7 +1177,6 @@ Traverse Reforged
 Treasure2
 Tree Tweaker
 Trinity
-Triumph
 Tropicraft
 Tumbleweed Wasteland
 Tweaked Excavation
@@ -1295,7 +1196,6 @@ UniDict
 UniLib
 Unifine
 Universal Tweaks
-Unlimited Chisel Works
 Unloader
 Useful Railroads
 Useful Slime
@@ -1315,7 +1215,6 @@ Village Names
 Villager Contracts
 Villager Market
 Villager Market - NBT Fix
-Villager Trade Tables - Emerald Edition
 VintageFix
 VisualClaiming
 VisualOres
@@ -1337,7 +1236,6 @@ Wawla
 Wawla - What Are We Looking At
 Waystones
 Waystones2Waypoints
-Waystones_1.12.2-4.1.0
 What-meme
 Winter Zombies
 Wireless Chargers
@@ -1359,7 +1257,6 @@ Xaero's World Map
 XaeroLib
 XaeroPlus
 YABBA
-YABBA-1.1.2.54
 YDM's Weapon Master
 YM-Additions
 YNot
@@ -1384,10 +1281,8 @@ Zettai Psi
 Zombie Awareness
 Zume
 additionalresources-1.9.4-0.2.0.28+47cd0bd_signed
-ae2stuff-0.7.0.4-mc1.12.2
 appliedenergistics2-rv6-stable-7
 armorplus
-astralsorcery
 audiodeath-1.9-0.7.0.50+87aeca7
 base
 baubley-heart-canisters
@@ -1395,11 +1290,9 @@ bdlib-1.14.3.12-mc1.12.2
 blockcraftery
 bonsaitrees-1.1.4-b170
 brokenwings-2.1.1
-chiselsandbits-14.33
 compacter-1.3.0.3-mc1.12.2
 dank/null
 diethopper-1.1
-e4mc Retro
 exnihilocreatio
 extrautils2
 fencejumper
@@ -1409,9 +1302,7 @@ immersivepetroleum
 industrialforegoing
 infinitylib-1.12.0
 instantunify
-ironchest
 jei_1.12.2-4.15.0.293
-journeymap
 knobcontrol
 landcore-1.5.0.1
 landcraft-2.3.0.2
@@ -1429,7 +1320,6 @@ mysticallib
 natura
 omlib
 ompd
-openmodularturrets
 overloadedarmorbar-1.0.4g
 p455w0rd's Library
 p455w0rdslib
@@ -1445,7 +1335,6 @@ rftools
 rftoolsctrl
 rftoolsdim
 riteclicker
-rockcandy
 simpletrophies-1.2.2.1
 spark
 stacksize
@@ -1456,10 +1345,8 @@ thermalsolars
 tinyprogressions
 tombstone-3.6.8-1.12.2
 tweakersconstruct
-twilightforest
 woot
 xXx_MoreToolMats_xXx
-xXx_MoreToolMats_xXx (a PlusTiC fork without the evil, and apparently some new bugs idk)
 xnet
 zerocore
 籁/Sound Physics Remixin
