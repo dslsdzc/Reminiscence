@@ -712,7 +712,6 @@ NoiseThreader
 NonConflictKeys
 Not Enough Items
 Not So Essential
-NotEnoughIDs
 NotEnoughIDs-1.5.4.4
 NuclearCraft Reactor Builder
 NuclearCraft: Overhauled
@@ -744,7 +743,6 @@ Ore Visual Detector
 OreExcavation-1.4.143
 OreLib
 Orechid Endium
-Outlined Ores
 Overgrown Flowery GUI
 Overloaded
 Overloaded Armor Bar

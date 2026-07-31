@@ -241,3 +241,13 @@
 **高风险**：Performant 闭源口碑两极（红黑 19:19，72% 认为不稳定）
 
 **待核对 3**：Pointer · Portable Drill for IE · Patchouli Books
+
+## Batch-18 核查发现（第 2231-2358 行，47 条）
+
+**已删**：Outlined Ores（无 1.12.2，仅 1.16+）· NotEnoughIDs（作者弃坑仓库已删——改用 JustEnoughIDs）
+
+**二选一**：OAuth × ReAuth（登录刷新重复）· OneKeyMiner × Ore Excavation（连锁挖掘重叠）
+
+**许可更正**：Ore Excavation = ARR（Modrinth 官方标 ARR，GitHub 无 LICENSE）· OMPD = GPL-3.0 · Overloaded Armor Bar = Apache-2.0
+
+**未证实 7（待人工核对）**：NuclearCraft Reactor Builder · Optifine Check · Optimization · Ore Excavation Integration · Ore Visual Detector · Overloaded · （同批）
