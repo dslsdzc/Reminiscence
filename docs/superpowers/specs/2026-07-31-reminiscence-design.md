@@ -84,8 +84,10 @@
 
 ## 5. 模组清单（第一层）
 
-- 主清单：`modlist.md`（1154 候选：内容 ~700 + 库/辅助 ~400），分类统计在文件头部
-- 来源：E2E-Extended / Project Ozone 3 / Divine Journey 2 / Modrinth Top500(1.12.2) / 经典补漏
+- 主清单：`modlist.md`（**1232** 候选：内容 ~700 + 库/辅助 ~500），分类统计在文件头部
+- 来源：E2E-Extended / Project Ozone 3 / Divine Journey 2 / Modrinth Top500(1.12.2) / **新星工程（NovaEng-Cleanroom，+78）** / 经典补漏
+- **Cleanroom 兼容参考**：新星工程为 Cleanroom 1.12.2 实测运行包（242 模组全兼容，星核驱动 TPS 19+）——`research/novaeng-names.txt` 即现成兼容清单
+- 参考包：贪婪整合包（GreedyCraft，530+ 模组；modlist 被 CF 反爬拦截，其 GitHub 仓库的 config/scripts/structures 可作魔改参考）、新星工程（模组 + Cleanroom 双参考）
 - 星系全家：Galacticraft-Legacy + ExtraPlanets + Planet Progression + Warp Drive + GalacticraftTweaker + Advanced Rocketry
 - 重大补充：AOA / 群峦传说 / SRP寄生虫 / 吸血鬼 / 失落的城市 / 精致存储 / Conquest Reforged / 瓦尔基里 / Pixelmon / 拔刀剑本体+日式附属
 - 中国生态：CustomSkinLoader / I18n汉化 / 拼音搜索 / 一键挖掘 / InputFix

@@ -1,21 +1,22 @@
-# 《回忆》模组主清单 v2
+# 《回忆》模组主清单 v3
 
 > 状态：候选池（非最终收录清单）。收录前需逐项过 compliance 许可证核查与 Cleanroom 兼容性验证。
-> 总量 1154（含库与辅助）。来源：E2E-Extended / Project Ozone 3 / Divine Journey 2 / Modrinth Top500(1.12.2) / 经典补漏。
+> 总量 1232（含库与辅助）。来源：E2E-Extended / Project Ozone 3 / Divine Journey 2 / Modrinth Top500(1.12.2) / 新星工程(NovaEng-Cleanroom) / 经典补漏。
+> 新星工程为 Cleanroom 1.12.2 实测兼容参考（242 模组全兼容清单）。
 
 | 分类 | 数量 |
 |---|---|
-| 世界生成 | 19 |
-| 农业 | 26 |
-| 存储物流 | 30 |
-| 工具武器 | 52 |
-| 未分类 | 491 |
-| 生物 | 27 |
-| 科技 | 141 |
-| 维度探索 | 74 |
-| 装饰 | 37 |
-| 辅助优化 | 201 |
-| 魔法 | 56 |
+| 世界生成 | 20 |
+| 农业 | 21 |
+| 存储物流 | 31 |
+| 工具武器 | 55 |
+| 未分类 | 501 |
+| 生物 | 30 |
+| 科技 | 163 |
+| 维度探索 | 64 |
+| 装饰 | 40 |
+| 辅助优化 | 245 |
+| 魔法 | 62 |
 
 ## 模组清单（按分类）
 
@@ -49,6 +50,7 @@
 - [ ] AE2 Unofficial Extended Life  `定制:待定` `许可:待核查`
 - [ ] AE2 Wireless Terminal Library  `定制:待定` `许可:待核查`
 - [ ] AE2FluidCraft-Rework-Unofficial  `定制:待定` `许可:待核查`
+- [ ] AE2UEL Wireless Universal Terminal  `定制:待定` `许可:待核查`
 - [ ] AE2WTLib  `定制:待定` `许可:待核查`
 
 ### 未分类
@@ -84,6 +86,7 @@
 
 ### 未分类
 
+- [ ] Additions Mod  `定制:待定` `许可:待核查`
 - [ ] Advanced Alchemical Furnace  `定制:待定` `许可:待核查`
 
 ### 辅助优化
@@ -148,6 +151,10 @@
 
 - [ ] AmbientSounds  `定制:待定` `许可:待核查`
 
+### 魔法
+
+- [ ] Ancient Spellcraft  `定制:待定` `许可:待核查`
+
 ### 未分类
 
 - [ ] Anger Management  `定制:待定` `许可:待核查`
@@ -161,11 +168,11 @@
 ### 未分类
 
 - [ ] Apotheosis  `定制:待定` `许可:待核查`
-
-### 农业
-
 - [ ] AppleCore  `定制:待定` `许可:待核查`
 - [ ] AppleCore-mc1.12.2-3.2.0  `定制:待定` `许可:待核查`
+
+### 辅助优化
+
 - [ ] AppleSkin  `定制:待定` `许可:待核查`
 - [ ] AppleSkin-mc1.12-1.0.9  `定制:待定` `许可:待核查`
 
@@ -188,6 +195,7 @@
 - [ ] ArmoreableMobs  `定制:待定` `许可:待核查`
 - [ ] Armored Arms  `定制:待定` `许可:待核查`
 - [ ] Armory Expansion  `定制:待定` `许可:待核查`
+- [ ] Armourer's Workshop  `定制:待定` `许可:待核查`
 
 ### 维度探索
 
@@ -198,12 +206,17 @@
 
 - [ ] ArtemisLib  `定制:待定` `许可:待核查`
 
-### 存储物流
+### 工具武器
+
+- [ ] Artisan Worktables 1.12  `定制:待定` `许可:待核查`
+
+### 未分类
 
 - [ ] AssetMover  `定制:待定` `许可:待核查`
 
 ### 魔法
 
+- [ ] Astral Additions  `定制:待定` `许可:待核查`
 - [ ] Astral Sorcery  `定制:待定` `许可:待核查`
 
 ### 辅助优化
@@ -231,7 +244,13 @@
 
 - [ ] Authentic Shadows  `定制:待定` `许可:待核查`
 - [ ] Auto Third Person  `定制:待定` `许可:待核查`
+
+### 辅助优化
+
 - [ ] AutoInput-1.12.1-3.0.0-universal  `定制:待定` `许可:待核查`
+
+### 未分类
+
 - [ ] AutoRegLib  `定制:待定` `许可:待核查`
 - [ ] AutoRegLib-1.3-32  `定制:待定` `许可:待核查`
 - [ ] AutoRun  `定制:待定` `许可:待核查`
@@ -245,6 +264,14 @@
 ### 未分类
 
 - [ ] Avaritia IO  `定制:待定` `许可:待核查`
+- [ ] Avaritia Recipe Generator  `定制:待定` `许可:待核查`
+
+### 辅助优化
+
+- [ ] Avaritia Tweaks  `定制:待定` `许可:待核查`
+
+### 未分类
+
 - [ ] Avaritia's Complement  `定制:待定` `许可:待核查`
 - [ ] Avaritiaddons  `定制:待定` `许可:待核查`
 - [ ] B.A.S.E  `定制:待定` `许可:待核查`
@@ -315,6 +342,13 @@
 
 - [ ] Better Builder's Wands  `定制:待定` `许可:待核查`
 - [ ] Better Burning  `定制:待定` `许可:待核查`
+
+### 辅助优化
+
+- [ ] Better Chat  `定制:待定` `许可:待核查`
+
+### 未分类
+
 - [ ] Better Dogs  `定制:待定` `许可:待核查`
 - [ ] Better Furnaces Reforged  `定制:待定` `许可:待核查`
 
@@ -332,11 +366,20 @@
 - [ ] Better Questing - Quest Book  `定制:待定` `许可:待核查`
 - [ ] Better Questing - Standard Expansion  `定制:待定` `许可:待核查`
 - [ ] Better Questing Tweaker  `定制:待定` `许可:待核查`
+- [ ] Better Title Screen  `定制:待定` `许可:待核查`
 - [ ] BetterAdvancements  `定制:待定` `许可:待核查`
 
 ### 未分类
 
 - [ ] BetterBuildersWands  `定制:待定` `许可:待核查`
+
+### 辅助优化
+
+- [ ] BetterBuildersWandsFix  `定制:待定` `许可:待核查`
+
+### 科技
+
+- [ ] BetterEndForge Backport  `定制:待定` `许可:待核查`
 
 ### 辅助优化
 
@@ -392,6 +435,9 @@
 ### 魔法
 
 - [ ] Blood Magic  `定制:待定` `许可:待核查`
+
+### 科技
+
 - [ ] Blood Magic: Alchemical Wizardry  `定制:待定` `许可:待核查`
 
 ### 未分类
@@ -406,6 +452,7 @@
 
 - [ ] BloomTech  `定制:待定` `许可:待核查`
 - [ ] Blue's Better Cats  `定制:待定` `许可:待核查`
+- [ ] Blur  `定制:待定` `许可:待核查`
 - [ ] BnBGamingCore  `定制:待定` `许可:待核查`
 - [ ] BnnWidget  `定制:待定` `许可:待核查`
 
@@ -423,6 +470,7 @@
 
 - [ ] Botania  `定制:待定` `许可:待核查`
 - [ ] Botania CEU  `定制:待定` `许可:待核查`
+- [ ] Botania Needs These Things!  `定制:待定` `许可:待核查`
 - [ ] Botania Tweaks  `定制:待定` `许可:待核查`
 - [ ] Botania r1.10-363  `定制:待定` `许可:待核查`
 
@@ -471,11 +519,22 @@
 
 - [ ] Cassette Music Disc  `定制:待定` `许可:待核查`
 
-### 未分类
+### 装饰
 
 - [ ] Cathedral  `定制:待定` `许可:待核查`
+
+### 辅助优化
+
+- [ ] CensoredASM  `定制:待定` `许可:待核查`
+
+### 未分类
+
 - [ ] Ceramics  `定制:待定` `许可:待核查`
 - [ ] Chameleon  `定制:待定` `许可:待核查`
+
+### 生物
+
+- [ ] Champions  `定制:待定` `许可:待核查`
 
 ### 科技
 
@@ -484,13 +543,7 @@
 ### 未分类
 
 - [ ] ChanceCubes  `定制:待定` `许可:待核查`
-
-### 维度探索
-
 - [ ] Cherished Worlds  `定制:待定` `许可:待核查`
-
-### 未分类
-
 - [ ] Chibi  `定制:待定` `许可:待核查`
 
 ### 科技
@@ -506,6 +559,7 @@
 
 - [ ] Chisel  `定制:待定` `许可:待核查`
 - [ ] Chisel-MC1.12.2-1.0.1.44  `定制:待定` `许可:待核查`
+- [ ] ChiseledAdditions  `定制:待定` `许可:待核查`
 - [ ] Chisels & Bits  `定制:待定` `许可:待核查`
 - [ ] Chisels & Bits - For Forge  `定制:待定` `许可:待核查`
 
@@ -519,8 +573,10 @@
 
 ### 未分类
 
+- [ ] Chunk-Pregenerator  `定制:待定` `许可:待核查`
 - [ ] Clarity  `定制:待定` `许可:待核查`
 - [ ] Classic 3D  `定制:待定` `许可:待核查`
+- [ ] Classic Bars  `定制:待定` `许可:待核查`
 - [ ] Clay Bucket  `定制:待定` `许可:待核查`
 - [ ] Cleanroom Relauncher  `定制:待定` `许可:待核查`
 - [ ] Clear Water  `定制:待定` `许可:待核查`
@@ -533,25 +589,25 @@
 ### 未分类
 
 - [ ] Cloche Profit Peripheral  `定制:待定` `许可:待核查`
+
+### 辅助优化
+
 - [ ] Clumps  `定制:待定` `许可:待核查`
 - [ ] Clumps-3.1.2  `定制:待定` `许可:待核查`
-- [ ] CoFH Core  `定制:待定` `许可:待核查`
-
-### 维度探索
-
-- [ ] CoFH World  `定制:待定` `许可:待核查`
 
 ### 未分类
 
+- [ ] CoFH Core  `定制:待定` `许可:待核查`
+- [ ] CoFH World  `定制:待定` `许可:待核查`
 - [ ] CoFHCore  `定制:待定` `许可:待核查`
-
-### 维度探索
-
 - [ ] CoFHWorld  `定制:待定` `许可:待核查`
 
-### 未分类
+### 辅助优化
 
 - [ ] CocoaInput-[1.9-1.12.2]-3.1.5  `定制:待定` `许可:待核查`
+
+### 未分类
+
 - [ ] CodeChicken Lib 1.8.+  `定制:待定` `许可:待核查`
 - [ ] CodeChicken Lib CRE  `定制:待定` `许可:待核查`
 - [ ] CodeChickenLib  `定制:待定` `许可:待核查`
@@ -605,6 +661,13 @@
 - [ ] ConnectedTexturesMod  `定制:待定` `许可:待核查`
 - [ ] Conquest Reforged  `定制:待定` `许可:待核查`
 - [ ] Console Filter  `定制:待定` `许可:待核查`
+
+### 工具武器
+
+- [ ] Construct's Armory  `定制:待定` `许可:待核查`
+
+### 辅助优化
+
 - [ ] ContentTweaker  `定制:待定` `许可:待核查`
 - [ ] ContentTweaker Registry Orderer  `定制:待定` `许可:待核查`
 
@@ -634,6 +697,7 @@
 ### 辅助优化
 
 - [ ] CraftTweaker  `定制:待定` `许可:待核查`
+- [ ] CraftTweaker Integration  `定制:待定` `许可:待核查`
 - [ ] CraftTweaker2  `定制:待定` `许可:待核查`
 
 ### 未分类
@@ -651,9 +715,12 @@
 
 - [ ] CrazyCrates  `定制:待定` `许可:待核查`
 
-### 未分类
+### 辅助优化
 
 - [ ] CrazyEnchantments  `定制:待定` `许可:待核查`
+
+### 未分类
+
 - [ ] CreativeCore  `定制:待定` `许可:待核查`
 - [ ] CreativeCore_v1.9.90_mc1.12.2  `定制:待定` `许可:待核查`
 - [ ] Ctrl Q  `定制:待定` `许可:待核查`
@@ -666,15 +733,13 @@
 
 - [ ] Curvy Pipes  `定制:待定` `许可:待核查`
 
-### 未分类
+### 辅助优化
 
 - [ ] Custom Backgrounds  `定制:待定` `许可:待核查`
 - [ ] Custom FOV  `定制:待定` `许可:待核查`
-
-### 辅助优化
-
 - [ ] Custom Loading Screen  `定制:待定` `许可:待核查`
 - [ ] Custom Main Menu  `定制:待定` `许可:待核查`
+- [ ] Custom Starter Gear  `定制:待定` `许可:待核查`
 
 ### 装饰
 
@@ -683,6 +748,7 @@
 ### 辅助优化
 
 - [ ] CustomMainMenu-MC1.12.2-2.0.9.1  `定制:待定` `许可:待核查`
+- [ ] CustomSkinLoader  `定制:待定` `许可:待核查`
 - [ ] Customizable Player Models  `定制:待定` `许可:待核查`
 
 ### 科技
@@ -706,21 +772,15 @@
 
 - [ ] DarkUtils  `定制:待定` `许可:待核查`
 - [ ] DarknessLib  `定制:待定` `许可:待核查`
-
-### 辅助优化
-
 - [ ] Dawn of Time  `定制:待定` `许可:待核查`
 
 ### 装饰
 
 - [ ] Decocraft  `定制:待定` `许可:待核查`
 
-### 未分类
-
-- [ ] Deep Blood Evolution  `定制:待定` `许可:待核查`
-
 ### 生物
 
+- [ ] Deep Blood Evolution  `定制:待定` `许可:待核查`
 - [ ] Deep Mob Evolution  `定制:待定` `许可:待核查`
 
 ### 未分类
@@ -783,6 +843,13 @@
 - [ ] Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More)  `定制:待定` `许可:待核查`
 - [ ] EasyLAN  `定制:待定` `许可:待核查`
 - [ ] ElecCore  `定制:待定` `许可:待核查`
+
+### 科技
+
+- [ ] Electroblob's Wizardry  `定制:待定` `许可:待核查`
+
+### 未分类
+
 - [ ] ElevatorMod  `定制:待定` `许可:待核查`
 
 ### 魔法
@@ -799,12 +866,9 @@
 
 - [ ] Enchanting Plus  `定制:待定` `许可:待核查`
 
-### 未分类
-
-- [ ] Enchantment Descriptions  `定制:待定` `许可:待核查`
-
 ### 辅助优化
 
+- [ ] Enchantment Descriptions  `定制:待定` `许可:待核查`
 - [ ] Enchantment Level Language Patch  `定制:待定` `许可:待核查`
 
 ### 维度探索
@@ -876,18 +940,19 @@
 - [ ] Epic Fight  `定制:待定` `许可:待核查`
 - [ ] Epic Knights: Shields Armor and Weapons  `定制:待定` `许可:待核查`
 
-### 生物
-
-- [ ] EpicSiegeMod-13.167  `定制:待定` `许可:待核查`
-
 ### 未分类
 
+- [ ] EpicSiegeMod-13.167  `定制:待定` `许可:待核查`
 - [ ] Equipment Compare  `定制:待定` `许可:待核查`
 - [ ] EquivalentIntegrations-0.4.6  `定制:待定` `许可:待核查`
 
 ### 维度探索
 
 - [ ] Erebus-1.0.31  `定制:待定` `许可:待核查`
+
+### 科技
+
+- [ ] Eternal Singularity  `定制:待定` `许可:待核查`
 
 ### 辅助优化
 
@@ -928,6 +993,7 @@
 
 - [ ] Extended Crafting: Nomifactory Edition  `定制:待定` `许可:待核查`
 - [ ] Extended illumina (3D lantern and torch)  `定制:待定` `许可:待核查`
+- [ ] ExtendedAE  `定制:待定` `许可:待核查`
 - [ ] ExtendedCrafting  `定制:待定` `许可:待核查`
 
 ### 未分类
@@ -939,6 +1005,10 @@
 
 - [ ] Extra Utilities  `定制:待定` `许可:待核查`
 
+### 魔法
+
+- [ ] ExtraBotany  `定制:待定` `许可:待核查`
+
 ### 未分类
 
 - [ ] ExtraCells  `定制:待定` `许可:待核查`
@@ -947,6 +1017,9 @@
 ### 科技
 
 - [ ] ExtraPlanets  `定制:待定` `许可:待核查`
+
+### 未分类
+
 - [ ] Extreme Reactors  `定制:待定` `许可:待核查`
 - [ ] ExtremeReactors  `定制:待定` `许可:待核查`
 
@@ -1023,6 +1096,9 @@
 ### 辅助优化
 
 - [ ] Fluid Interaction Tweaker  `定制:待定` `许可:待核查`
+
+### 未分类
+
 - [ ] Fluidlogged API  `定制:待定` `许可:待核查`
 
 ### 科技
@@ -1086,6 +1162,9 @@
 ### 未分类
 
 - [ ] Gambling Style [Archived]  `定制:待定` `许可:待核查`
+
+### 辅助优化
+
 - [ ] Game Stages  `定制:待定` `许可:待核查`
 
 ### 农业
@@ -1095,6 +1174,7 @@
 ### 未分类
 
 - [ ] Gas Conduits  `定制:待定` `许可:待核查`
+- [ ] GeckoLib  `定制:待定` `许可:待核查`
 - [ ] Geckolib  `定制:待定` `许可:待核查`
 
 ### 维度探索
@@ -1106,6 +1186,7 @@
 
 - [ ] Get It Together, Drops!  `定制:待定` `许可:待核查`
 - [ ] Give Me Back My HP  `定制:待定` `许可:待核查`
+- [ ] Global GameRules  `定制:待定` `许可:待核查`
 - [ ] Glowing  `定制:待定` `许可:待核查`
 - [ ] Glowing Ores! - Borderful Edition  `定制:待定` `许可:待核查`
 
@@ -1141,6 +1222,7 @@
 ### 未分类
 
 - [ ] Grue  `定制:待定` `许可:待核查`
+- [ ] GuGu Utils  `定制:待定` `许可:待核查`
 
 ### 辅助优化
 
@@ -1151,11 +1233,24 @@
 
 - [ ] GunpowderLib  `定制:待定` `许可:待核查`
 - [ ] HT's TreeChop  `定制:待定` `许可:待核查`
+
+### 辅助优化
+
+- [ ] Had Enough Characters  `定制:待定` `许可:待核查`
 - [ ] Had Enough Items  `定制:待定` `许可:待核查`
+
+### 未分类
+
 - [ ] Hammer Lib  `定制:待定` `许可:待核查`
 - [ ] HammerCore  `定制:待定` `许可:待核查`
 - [ ] HammerLib  `定制:待定` `许可:待核查`
+
+### 辅助优化
+
 - [ ] Hardcore Hearts  `定制:待定` `许可:待核查`
+
+### 未分类
+
 - [ ] Harder Branch Mining  `定制:待定` `许可:待核查`
 - [ ] Hit Indication  `定制:待定` `许可:待核查`
 - [ ] Hole Filler Mod  `定制:待定` `许可:待核查`
@@ -1198,6 +1293,14 @@
 - [ ] ID Squeezer Tweak  `定制:待定` `许可:待核查`
 - [ ] IFPatcher  `定制:待定` `许可:待核查`
 
+### 未分类
+
+- [ ] IGIExteneded  `定制:待定` `许可:待核查`
+
+### 辅助优化
+
+- [ ] Iblis Headshots  `定制:待定` `许可:待核查`
+
 ### 生物
 
 - [ ] Ice and Fire: Dragons  `定制:待定` `许可:待核查`
@@ -1206,7 +1309,7 @@
 
 - [ ] Icon Xaero's  `定制:待定` `许可:待核查`
 
-### 存储物流
+### 未分类
 
 - [ ] Icons Removed ADS  `定制:待定` `许可:待核查`
 
@@ -1235,12 +1338,17 @@
 
 - [ ] In-Game Account Switcher  `定制:待定` `许可:待核查`
 
+### 辅助优化
+
+- [ ] InGame Info XML  `定制:待定` `许可:待核查`
+
+### 魔法
+
+- [ ] InGame Info XML Addon - Blood Magic  `定制:待定` `许可:待核查`
+
 ### 未分类
 
 - [ ] InGameInfoXML  `定制:待定` `许可:待核查`
-
-### 维度探索
-
 - [ ] InWorldCrafting  `定制:待定` `许可:待核查`
 
 ### 科技
@@ -1324,15 +1432,17 @@
 
 - [ ] Item Scroller  `定制:待定` `许可:待核查`
 - [ ] ItemPhysic_Full_1.4.28_mc1.12.2  `定制:待定` `许可:待核查`
+- [ ] ItemZoom  `定制:待定` `许可:待核查`
 
 ### 未分类
 
 - [ ] IvToolkit  `定制:待定` `许可:待核查`
 - [ ] JAOPCA  `定制:待定` `许可:待核查`
-- [ ] JAOPCACustom  `定制:待定` `许可:待核查`
+- [ ] JAOPCAAdditions  `定制:待定` `许可:待核查`
 
 ### 辅助优化
 
+- [ ] JAOPCACustom  `定制:待定` `许可:待核查`
 - [ ] JEI Area Fixer  `定制:待定` `许可:待核查`
 
 ### 科技
@@ -1363,6 +1473,7 @@
 ### 辅助优化
 
 - [ ] Just Enough Calculation  `定制:待定` `许可:待核查`
+- [ ] Just Enough Characters  `定制:待定` `许可:待核查`
 
 ### 维度探索
 
@@ -1371,6 +1482,9 @@
 ### 辅助优化
 
 - [ ] Just Enough Drags  `定制:待定` `许可:待核查`
+
+### 科技
+
 - [ ] Just Enough Energistics (JEE)  `定制:待定` `许可:待核查`
 
 ### 农业
@@ -1405,7 +1519,13 @@
 ### 未分类
 
 - [ ] Just Sleep  `定制:待定` `许可:待核查`
+
+### 辅助优化
+
 - [ ] JustEnoughCharacters  `定制:待定` `许可:待核查`
+
+### 科技
+
 - [ ] JustEnoughEnergistics  `定制:待定` `许可:待核查`
 
 ### 生物
@@ -1415,24 +1535,32 @@
 ### 未分类
 
 - [ ] JustTheTips  `定制:待定` `许可:待核查`
+
+### 科技
+
 - [ ] KAMI: Reborn  `定制:待定` `许可:待核查`
 
 ### 农业
 
 - [ ] KaratGarden-0.1.4-[1.12.2]  `定制:待定` `许可:待核查`
 
+### 存储物流
+
+- [ ] Keeping Inventory  `定制:待定` `许可:待核查`
+
 ### 辅助优化
 
 - [ ] Key Binding Patch  `定制:待定` `许可:待核查`
 - [ ] Keybind Unconflict  `定制:待定` `许可:待核查`
+- [ ] Keyboard Wizard  `定制:待定` `许可:待核查`
 
 ### 未分类
 
-- [ ] Keyboard Wizard  `定制:待定` `许可:待核查`
 - [ ] KleeSlabs  `定制:待定` `许可:待核查`
 - [ ] KleeSlabs_1.12.2-5.4.12  `定制:待定` `许可:待核查`
 - [ ] Knowledge Sharer  `定制:待定` `许可:待核查`
 - [ ] Konkrete  `定制:待定` `许可:待核查`
+- [ ] Konkrete [Forge/NeoForge]  `定制:待定` `许可:待核查`
 
 ### 辅助优化
 
@@ -1450,13 +1578,15 @@
 
 - [ ] Lapis Stays in the Enchanting Table  `定制:待定` `许可:待核查`
 - [ ] Lazy AE2  `定制:待定` `许可:待核查`
+- [ ] Lazy AE2 Patch  `定制:待定` `许可:待核查`
 
-### 农业
+### 维度探索
 
-- [ ] LemonSkin (AppleSkin Fork)  `定制:待定` `许可:待核查`
+- [ ] Legendary Tooltips [Neo/Forge]  `定制:待定` `许可:待核查`
 
 ### 辅助优化
 
+- [ ] LemonSkin (AppleSkin Fork)  `定制:待定` `许可:待核查`
 - [ ] Let Me Despawn  `定制:待定` `许可:待核查`
 
 ### 未分类
@@ -1464,6 +1594,7 @@
 - [ ] Let Me Sleep  `定制:待定` `许可:待核查`
 - [ ] LibNine  `定制:待定` `许可:待核查`
 - [ ] LibVulpes  `定制:待定` `许可:待核查`
+- [ ] LibrarianLib  `定制:待定` `许可:待核查`
 - [ ] LibraryEx  `定制:待定` `许可:待核查`
 
 ### 装饰
@@ -1489,6 +1620,7 @@
 
 ### 未分类
 
+- [ ] Loot Overhaul  `定制:待定` `许可:待核查`
 - [ ] LootBags  `定制:待定` `许可:待核查`
 
 ### 辅助优化
@@ -1581,7 +1713,9 @@
 - [ ] Mekanism  `定制:待定` `许可:待核查`
 - [ ] Mekanism Community Edition  `定制:待定` `许可:待核查`
 - [ ] Mekanism Community Edition: Generators  `定制:待定` `许可:待核查`
+- [ ] Mekanism Energistics  `定制:待定` `许可:待核查`
 - [ ] Mekanism Generators  `定制:待定` `许可:待核查`
+- [ ] Mekanism-CE-Unofficial  `定制:待定` `许可:待核查`
 - [ ] MekanismGenerators  `定制:待定` `许可:待核查`
 - [ ] MekanismTools  `定制:待定` `许可:待核查`
 
@@ -1655,6 +1789,10 @@
 
 - [ ] Modular Magic  `定制:待定` `许可:待核查`
 
+### 科技
+
+- [ ] Modular Routers  `定制:待定` `许可:待核查`
+
 ### 未分类
 
 - [ ] ModularUI  `定制:待定` `许可:待核查`
@@ -1668,9 +1806,24 @@
 
 - [ ] More Default Options  `定制:待定` `许可:待核查`
 
+### 科技
+
+- [ ] More Electric Tools  `定制:待定` `许可:待核查`
+
+### 未分类
+
+- [ ] More Libs  `定制:待定` `许可:待核查`
+
 ### 辅助优化
 
 - [ ] More Overlays  `定制:待定` `许可:待核查`
+
+### 科技
+
+- [ ] More Plates  `定制:待定` `许可:待核查`
+
+### 辅助优化
+
 - [ ] MoreTweaker  `定制:待定` `许可:待核查`
 
 ### 未分类
@@ -1811,6 +1964,13 @@
 ### 辅助优化
 
 - [ ] OME Tweaks  `定制:待定` `许可:待核查`
+
+### 未分类
+
+- [ ] OMLib  `定制:待定` `许可:待核查`
+
+### 辅助优化
+
 - [ ] Obscure Tooltips  `定制:待定` `许可:待核查`
 
 ### 未分类
@@ -1831,6 +1991,10 @@
 - [ ] OneConfig  `定制:待定` `许可:待核查`
 - [ ] OneKeyMiner  `定制:待定` `许可:待核查`
 
+### 科技
+
+- [ ] Open Modular Turrets  `定制:待定` `许可:待核查`
+
 ### 世界生成
 
 - [ ] Open Terrain Generator (OTG)  `定制:待定` `许可:待核查`
@@ -1838,6 +2002,7 @@
 ### 科技
 
 - [ ] OpenBlocks  `定制:待定` `许可:待核查`
+- [ ] OpenBlocks Elevator  `定制:待定` `许可:待核查`
 - [ ] OpenBlocks Reopened  `定制:待定` `许可:待核查`
 - [ ] OpenComputers  `定制:待定` `许可:待核查`
 - [ ] OpenComputers Drivers for Tinkers Construct  `定制:待定` `许可:待核查`
@@ -1850,22 +2015,33 @@
 ### 辅助优化
 
 - [ ] OpenScreens  `定制:待定` `许可:待核查`
+- [ ] Optifine Check  `定制:待定` `许可:待核查`
 
 ### 未分类
 
 - [ ] Optimization  `定制:待定` `许可:待核查`
 - [ ] Ore Excavation  `定制:待定` `许可:待核查`
 - [ ] Ore Excavation Integration  `定制:待定` `许可:待核查`
+
+### 装饰
+
+- [ ] Ore Visual Detector  `定制:待定` `许可:待核查`
+
+### 未分类
+
 - [ ] OreExcavation-1.4.143  `定制:待定` `许可:待核查`
 - [ ] Outlined Ores  `定制:待定` `许可:待核查`
 - [ ] Overgrown Flowery GUI  `定制:待定` `许可:待核查`
+
+### 辅助优化
+
 - [ ] Overloaded  `定制:待定` `许可:待核查`
 
 ### 工具武器
 
 - [ ] Overloaded Armor Bar  `定制:待定` `许可:待核查`
 
-### 维度探索
+### 未分类
 
 - [ ] Overworld Quartz  `定制:待定` `许可:待核查`
 
@@ -1884,6 +2060,7 @@
 ### 未分类
 
 - [ ] PackagedAuto  `定制:待定` `许可:待核查`
+- [ ] PackagedAvaritia  `定制:待定` `许可:待核查`
 
 ### 科技
 
@@ -1925,6 +2102,7 @@
 ### 辅助优化
 
 - [ ] Phosphor (Forge)  `定制:待定` `许可:待核查`
+- [ ] Pick Up Notifier [Forge &amp; Fabric]  `定制:待定` `许可:待核查`
 
 ### 未分类
 
@@ -1944,6 +2122,13 @@
 ### 未分类
 
 - [ ] PlayerKits 2  `定制:待定` `许可:待核查`
+
+### 辅助优化
+
+- [ ] PlayersDropHeads  `定制:待定` `许可:待核查`
+
+### 未分类
+
 - [ ] Plethora Peripherals  `定制:待定` `许可:待核查`
 - [ ] Pointer  `定制:待定` `许可:待核查`
 - [ ] PolyBlur  `定制:待定` `许可:待核查`
@@ -1955,12 +2140,9 @@
 ### 未分类
 
 - [ ] PolySprint  `定制:待定` `许可:待核查`
-
-### 辅助优化
-
 - [ ] PolyTime  `定制:待定` `许可:待核查`
 
-### 世界生成
+### 辅助优化
 
 - [ ] PolyWeather  `定制:待定` `许可:待核查`
 
@@ -1985,9 +2167,10 @@
 
 ### 生物
 
+- [ ] Progressive Bosses  `定制:待定` `许可:待核查`
 - [ ] ProgressiveBosses-1.5.4-mc1.12.x  `定制:待定` `许可:待核查`
 
-### 未分类
+### 辅助优化
 
 - [ ] Project Intelligence  `定制:待定` `许可:待核查`
 - [ ] Project Red - Core  `定制:待定` `许可:待核查`
@@ -1997,12 +2180,15 @@
 
 - [ ] Project: Vibrant Journeys  `定制:待定` `许可:待核查`
 
-### 未分类
+### 辅助优化
 
 - [ ] ProjectE  `定制:待定` `许可:待核查`
 - [ ] ProjectEX-1.2.0.39  `定制:待定` `许可:待核查`
 - [ ] ProjectIntelligence  `定制:待定` `许可:待核查`
 - [ ] ProjectRed  `定制:待定` `许可:待核查`
+
+### 未分类
+
 - [ ] Proportional Destruction Particles  `定制:待定` `许可:待核查`
 
 ### 魔法
@@ -2046,6 +2232,10 @@
 - [ ] RFTools Dimension Tweaker  `定制:待定` `许可:待核查`
 - [ ] RFTools Dimensions  `定制:待定` `许可:待核查`
 
+### 辅助优化
+
+- [ ] RGB Chat  `定制:待定` `许可:待核查`
+
 ### 未分类
 
 - [ ] RLMixins  `定制:待定` `许可:待核查`
@@ -2053,6 +2243,10 @@
 ### 辅助优化
 
 - [ ] RLTweaker2  `定制:待定` `许可:待核查`
+
+### 魔法
+
+- [ ] Random PSIdeas  `定制:待定` `许可:待核查`
 
 ### 未分类
 
@@ -2084,16 +2278,29 @@
 ### 未分类
 
 - [ ] Rats: RatN Edition  `定制:待定` `许可:待核查`
+
+### 辅助优化
+
 - [ ] Raw Input  `定制:待定` `许可:待核查`
+
+### 未分类
+
 - [ ] ReAuth  `定制:待定` `许可:待核查`
 
 ### 辅助优化
 
 - [ ] Reach Fix  `定制:待定` `许可:待核查`
 
+### 世界生成
+
+- [ ] Realistic Terrain Generation Unofficial  `定制:待定` `许可:待核查`
+
 ### 未分类
 
 - [ ] Realistic Torches  `定制:待定` `许可:待核查`
+
+### 科技
+
 - [ ] Reborn Core  `定制:待定` `许可:待核查`
 - [ ] RebornCore  `定制:待定` `许可:待核查`
 
@@ -2135,6 +2342,7 @@
 
 - [ ] Requious Frakto  `定制:待定` `许可:待核查`
 - [ ] Requious Frakto Unofficial  `定制:待定` `许可:待核查`
+- [ ] Resizing Potion  `定制:待定` `许可:待核查`
 
 ### 辅助优化
 
@@ -2207,10 +2415,15 @@
 
 - [ ] SerializationIsBad  `定制:待定` `许可:待核查`
 - [ ] Server Tab Info  `定制:待定` `许可:待核查`
+- [ ] Server.Properties for LAN  `定制:待定` `许可:待核查`
 - [ ] ServerObserver  `定制:待定` `许可:待核查`
 - [ ] ServerRedirect-Forge-MC1.12.2-1.3.7  `定制:待定` `许可:待核查`
 - [ ] Shadowfacts' Forgelin  `定制:待定` `许可:待核查`
 - [ ] Shoulder Surfing Reloaded  `定制:待定` `许可:待核查`
+
+### 辅助优化
+
+- [ ] Shut Up, Model Loader!  `定制:待定` `许可:待核查`
 
 ### 工具武器
 
@@ -2237,14 +2450,8 @@
 ### 未分类
 
 - [ ] Simple Trophies  `定制:待定` `许可:待核查`
-
-### 维度探索
-
 - [ ] Simple Void World  `定制:待定` `许可:待核查`
 - [ ] Simple-Void-World  `定制:待定` `许可:待核查`
-
-### 未分类
-
 - [ ] SimpleSponge  `定制:待定` `许可:待核查`
 
 ### 存储物流
@@ -2259,9 +2466,7 @@
 ### 未分类
 
 - [ ] SkBee  `定制:待定` `许可:待核查`
-
-### 维度探索
-
+- [ ] Skin Layers 3D (Fabric/Forge)  `定制:待定` `许可:待核查`
 - [ ] SkyLandsForge  `定制:待定` `许可:待核查`
 
 ### 工具武器
@@ -2299,6 +2504,10 @@
 - [ ] Sonar Core  `定制:待定` `许可:待核查`
 - [ ] Sonomagy  `定制:待定` `许可:待核查`
 - [ ] Soot-1.6  `定制:待定` `许可:待核查`
+
+### 辅助优化
+
+- [ ] Sound Reloader  `定制:待定` `许可:待核查`
 
 ### 工具武器
 
@@ -2355,9 +2564,17 @@
 ### 未分类
 
 - [ ] SwingThroughGrass  `定制:待定` `许可:待核查`
+- [ ] TATW  `定制:待定` `许可:待核查`
 - [ ] TCT Core  `定制:待定` `许可:待核查`
 - [ ] TConstruct  `定制:待定` `许可:待核查`
 - [ ] TESLA  `定制:待定` `许可:待核查`
+
+### 辅助优化
+
+- [ ] TOP Addons  `定制:待定` `许可:待核查`
+
+### 未分类
+
 - [ ] TS2K16-1.2.10  `定制:待定` `许可:待核查`
 
 ### 辅助优化
@@ -2368,6 +2585,13 @@
 ### 未分类
 
 - [ ] Tears & Cheers - Ghast Revamp  `定制:待定` `许可:待核查`
+
+### 科技
+
+- [ ] Techguns  `定制:待定` `许可:待核查`
+
+### 未分类
+
 - [ ] Teddy Totems  `定制:待定` `许可:待核查`
 
 ### 世界生成
@@ -2389,12 +2613,24 @@
 - [ ] Thaumic Additions: Reconstructed  `定制:待定` `许可:待核查`
 - [ ] Thaumic Augmentation  `定制:待定` `许可:待核查`
 - [ ] Thaumic Computers  `定制:待定` `许可:待核查`
+
+### 科技
+
 - [ ] Thaumic Energistics Extended Life  `定制:待定` `许可:待核查`
+
+### 魔法
+
 - [ ] Thaumic Information  `定制:待定` `许可:待核查`
 - [ ] Thaumic Inventory Scanning  `定制:待定` `许可:待核查`
 - [ ] Thaumic Inventory Scanning (Thaumcraft Addon)  `定制:待定` `许可:待核查`
 - [ ] Thaumic JEI  `定制:待定` `许可:待核查`
+
+### 科技
+
 - [ ] Thaumic Tinkerer: Reborn  `定制:待定` `许可:待核查`
+
+### 魔法
+
 - [ ] Thaumic Wonders Unofficial  `定制:待定` `许可:待核查`
 - [ ] ThaumicAPI  `定制:待定` `许可:待核查`
 - [ ] ThaumicTweaker  `定制:待定` `许可:待核查`
@@ -2419,7 +2655,11 @@
 
 ### 未分类
 
+- [ ] The One Probe  `定制:待定` `许可:待核查`
 - [ ] The One Probe Community Edition  `定制:待定` `许可:待核查`
+
+### 辅助优化
+
 - [ ] The Rename Compat Project  `定制:待定` `许可:待核查`
 
 ### 农业
@@ -2471,6 +2711,10 @@
 - [ ] Tinkers' Tool Leveling  `定制:待定` `许可:待核查`
 - [ ] TinkersComplement  `定制:待定` `许可:待核查`
 
+### 生物
+
+- [ ] Tiny Mob Farm  `定制:待定` `许可:待核查`
+
 ### 未分类
 
 - [ ] TipTheScales  `定制:待定` `许可:待核查`
@@ -2507,6 +2751,10 @@
 
 - [ ] Tough As Nails  `定制:待定` `许可:待核查`
 
+### 魔法
+
+- [ ] Touhou Little Maid  `定制:待定` `许可:待核查`
+
 ### 未分类
 
 - [ ] Translocators  `定制:待定` `许可:待核查`
@@ -2520,7 +2768,7 @@
 - [ ] Trash Cans  `定制:待定` `许可:待核查`
 - [ ] Traveler's Backpack  `定制:待定` `许可:待核查`
 
-### 未分类
+### 世界生成
 
 - [ ] Traverse Reforged  `定制:待定` `许可:待核查`
 
@@ -2633,9 +2881,6 @@
 ### 未分类
 
 - [ ] Void Fog  `定制:待定` `许可:待核查`
-
-### 维度探索
-
 - [ ] Void Island Control  `定制:待定` `许可:待核查`
 
 ### 辅助优化
@@ -2647,12 +2892,9 @@
 - [ ] Waila Harvestability  `定制:待定` `许可:待核查`
 - [ ] WailaHarvestability-mc1.12-1.1.12  `定制:待定` `许可:待核查`
 
-### 辅助优化
-
-- [ ] WaitingTime-1.0.1  `定制:待定` `许可:待核查`
-
 ### 未分类
 
+- [ ] WaitingTime-1.0.1  `定制:待定` `许可:待核查`
 - [ ] WanionLib  `定制:待定` `许可:待核查`
 - [ ] Warp Apocalypse  `定制:待定` `许可:待核查`
 - [ ] Warp-O-Mania  `定制:待定` `许可:待核查`
@@ -2699,23 +2941,22 @@
 - [ ] XU2-Patcher  `定制:待定` `许可:待核查`
 - [ ] Xaero's Minimap  `定制:待定` `许可:待核查`
 - [ ] Xaero's Vanilla GUI  `定制:待定` `许可:待核查`
-
-### 维度探索
-
 - [ ] Xaero's World Map  `定制:待定` `许可:待核查`
-
-### 辅助优化
-
 - [ ] XaeroLib  `定制:待定` `许可:待核查`
 - [ ] XaeroPlus  `定制:待定` `许可:待核查`
 
-### 未分类
+### 存储物流
 
+- [ ] YABBA  `定制:待定` `许可:待核查`
 - [ ] YABBA-1.1.2.54  `定制:待定` `许可:待核查`
 
 ### 工具武器
 
 - [ ] YDM's Weapon Master  `定制:待定` `许可:待核查`
+
+### 科技
+
+- [ ] YM-Additions  `定制:待定` `许可:待核查`
 
 ### 未分类
 
@@ -2741,7 +2982,16 @@
 - [ ] ZNet  `定制:待定` `许可:待核查`
 - [ ] Zen Toolforge  `定制:待定` `许可:待核查`
 - [ ] Zen Utils  `定制:待定` `许可:待核查`
+- [ ] ZenRecipeReload  `定制:待定` `许可:待核查`
 - [ ] ZeroCore 2  `定制:待定` `许可:待核查`
+
+### 魔法
+
+- [ ] Zettai Grimoires  `定制:待定` `许可:待核查`
+- [ ] Zettai Psi  `定制:待定` `许可:待核查`
+
+### 未分类
+
 - [ ] Zume  `定制:待定` `许可:待核查`
 
 ### 装饰
@@ -2751,9 +3001,6 @@
 ### 科技
 
 - [ ] ae2stuff-0.7.0.4-mc1.12.2  `定制:待定` `许可:待核查`
-
-### 未分类
-
 - [ ] appliedenergistics2-rv6-stable-7  `定制:待定` `许可:待核查`
 
 ### 工具武器
@@ -2828,14 +3075,8 @@
 ### 未分类
 
 - [ ] knobcontrol  `定制:待定` `许可:待核查`
-
-### 维度探索
-
 - [ ] landcore-1.5.0.1  `定制:待定` `许可:待核查`
 - [ ] landcraft-2.3.0.2  `定制:待定` `许可:待核查`
-
-### 未分类
-
 - [ ] lostcities  `定制:待定` `许可:待核查`
 
 ### 辅助优化
@@ -2874,6 +3115,9 @@
 - [ ] natura  `定制:待定` `许可:待核查`
 - [ ] omlib  `定制:待定` `许可:待核查`
 - [ ] ompd  `定制:待定` `许可:待核查`
+
+### 科技
+
 - [ ] openmodularturrets  `定制:待定` `许可:待核查`
 
 ### 工具武器

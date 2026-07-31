@@ -1,0 +1,220 @@
+AE2 Crafting Tree - Legacy
+AE2UEL Wireless Universal Terminal
+Actually Additions
+Additions Mod
+Advanced Rocketry
+Advanced Tweakery
+Alfheim Lighting Engine
+Ancient Spellcraft
+AppleCore
+ArchitectureCraft - TridentMC Version
+Armourer's Workshop
+Aroma1997Core
+ArtemisLib
+Artisan Worktables 1.12
+Astral Additions
+Athenaeum
+AutoRegLib
+Avaritia 1.1x
+Avaritia IO
+Avaritia Recipe Generator
+Avaritia Tweaks
+Avaritiaddons
+B.A.S.E
+Baubles
+Better Builder's Wands
+Better Chat
+Better Title Screen
+BetterBuildersWandsFix
+BetterEndForge Backport
+Biomes O' Plenty
+Blood Magic
+Blur
+Bookshelf
+Botania
+Botania Needs These Things!
+Botania Tweaks
+Brandon's Core
+Carbon Config
+CensoredASM
+Champions
+Chisel
+ChiseledAdditions
+Chunk-Pregenerator
+Classic Bars
+Clumps
+CoFH Core
+CoFH World
+ConnectedTexturesMod
+Construct's Armory
+ContentTweaker
+Cooking for Blockheads
+Cosmetic Armor Reworked
+CraftTweaker Integration
+Cucumber Library
+Custom Loading Screen
+Custom Starter Gear
+CustomSkinLoader
+Deep Blood Evolution
+Deep Mob Evolution
+Draconic Additions
+Draconic Evolution
+Dropt
+Electroblob's Wizardry
+Enchantment Descriptions
+Ender IO
+Ender IO Endergy
+Ender Utilities
+Environmental Materials
+Environmental Tech
+Eternal Singularity
+Extended Crafting Terminals for Applied Energistics 2
+ExtendedAE
+ExtraBotany
+FPS Reducer
+FTB Backups (Forge)
+FancyMenu
+Farming for Blockheads
+Flux Networks
+Foam​Fix
+Future MC
+Gas Conduits
+GeckoLib
+Global GameRules
+GuGu Utils
+Guide-API
+GunpowderLib
+Had Enough Characters
+Had Enough Items
+IC2 Tweaker
+IGIExteneded
+Iblis Headshots
+Immersive Cables
+Immersive Engineering
+Immersive Petroleum
+Immersive Posts
+InGame Info XML
+InGame Info XML Addon - Blood Magic
+Industrial Craft
+Inventory Tweaks [1.12 only]
+Iron Chests
+Item Borders [Neo/Forge]
+Item Filters
+ItemZoom
+JAOPCA
+JAOPCAAdditions
+JEI Utilities
+JourneyMap
+Just Enough Characters
+Just Enough HarvestCraft (JEHC)
+Just Enough Magiculture
+Just Enough Resources (JER)
+Just Enough Throwing In Fluids (JETIF)
+Keeping Inventory
+Keyboard Wizard
+KleeSlabs
+Konkrete [Forge/NeoForge]
+LagGoggles
+Lazy AE2
+Lazy AE2 Patch
+Legendary Tooltips [Neo/Forge]
+LibNine
+LibVulpes
+LibrarianLib
+Loot Capacitor Tooltips
+Loot Overhaul
+LunatriusCore
+MTLib
+Mantle
+McJtyLib
+Mekanism Energistics
+Mekanism-CE-Unofficial
+MixinBooter
+Mod Name Tooltip
+ModTweaker
+Modular Routers
+More Electric Tools
+More Libs
+More Overlays
+More Plates
+MoreTweaker
+Mouse Tweaks Unofficial
+Mysterious Mountain Lib
+NuclearCraft: Overhauled
+OMLib
+Open Modular Turrets
+OpenBlocks Elevator
+Optifine Check
+Ore Excavation
+Ore Visual Detector
+PSICaster
+PackagedAstral
+PackagedAuto
+PackagedAvaritia
+PackagedDraconic
+PackagedExCrafting
+Pam's HarvestCraft
+Patchouli
+Pick Up Notifier [Forge &amp; Fabric]
+Placebo
+PlayersDropHeads
+Progressive Bosses
+Psi
+Psio
+RFTools
+RGB Chat
+Random PSIdeas
+RandomComplement
+RandomPatches (Forge)
+RandomTweaker
+Realistic Terrain Generation Unofficial
+Reborn Core
+Red Core
+Redstone Arsenal
+Redstone Flux
+Redstone Repository Revolved
+Resizing Potion
+Resource Loader
+ScalingGUIs
+Server.Properties for LAN
+Shadowfacts' Forgelin
+Shut Up, Model Loader!
+Skin Layers 3D (Fabric/Forge)
+Smooth Font
+Sound Reloader
+Spice of Life: Carrot Edition
+TATW
+TOP Addons
+Techguns
+The One Probe
+Thermal Dynamics
+Thermal Expansion
+Thermal Foundation
+Thermal Innovation
+TickCentral
+Tinker's JEI
+Tinkers Construct
+Tinkers' Evolution
+Tinkers' Tool Leveling
+Tiny Mob Farm
+Torchmaster
+ToroHealth Damage Indicators
+Touhou Little Maid
+Traverse Reforged
+Tweakers Construct
+UniDict
+Universal Tweaks
+ValkyrieLib
+WanionLib
+WrapUp
+YABBA
+YM-Additions
+YUNG's Better Mineshafts (Forge/NeoForge)
+Yet Another Recipe Conflict Fixer (YARCF)
+Zen Utils
+ZenRecipeReload
+ZeroCore 2
+Zettai Grimoires
+Zettai Psi
+p455w0rd's Library
+spark
