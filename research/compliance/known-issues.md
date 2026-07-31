@@ -219,3 +219,11 @@
 **许可证亮点**：MrCrayfish 家具 = GPL-3.0（非 ARR）· Mowzie's Mobs 自定义 · Natura 代码 CC0+资源 CC-BY-3.0 · NetherPortalFix 自定义（仓库活跃）
 
 **无法验证（待核对）**：Mouse Tweaks Unofficial（误名重复？）· My Precious Tool · No Night Vision Flashing
+
+## Batch-16 核查发现（第 1984-2096 行，49 条）
+
+**已排除/删除 8**：Mob Spawner Control（与包内 In Control! 功能重复——保留 In Control!）· MooFluids（无 1.12.2）· More Default Options（与 Default Options 重复）· Mekanism-CE-Unofficial（与 MCE 同源再分支——保留 CE 线）· **MmmMmmMmmMmm（Supplementaries Team License 禁止公共再分发——不可收录）** · MikesModsLib/MobGrindingUtils/Modular Diversity 变体
+
+**许可纠偏**：Modular Machinery = GPL-3.0（GitHub 实锤）· Minecraft Forge = LGPL-2.1 · More Electric Tools = LR8Soft 中文自定义协议（禁派生再分发——风险标注）· Moar Tinkers 实为 Moar TCon（ARR）
+
+**亮点**：MekanismOres MIT（GitHub build.gradle 实证）· Mixmetica LGPL-3.0 · Mob Sunscreen MIT · MicdoodleCore 随 GC Legacy = MIT

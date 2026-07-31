@@ -623,7 +623,6 @@ Mekanism Community Edition: Generators
 Mekanism Community Edition: Tools
 Mekanism Energistics
 Mekanism Generators
-Mekanism-CE-Unofficial
 MekanismOres
 Memory Cleaner Mod
 MemoryTester
@@ -631,7 +630,6 @@ Metals Ultra
 MicdoodleCore
 Midnighttigger's Default Connected Textures
 Mike's Mods Lib
-MikesModsLib-1.0.2
 MineMenu
 MineTraps
 Minecraft Forge
@@ -642,28 +640,22 @@ MixinBooter
 MixinBootstrap
 Mixmetica
 MmmMmmMmmMmm
-MmmMmmMmmMmm (Target Dummy)
 Mo' Bends
 Moar Tinkers
 Mob Dismemberment
 Mob Grinding Utils
-Mob Spawner Control
 Mob Stages
 Mob Sunscreen
-MobGrindingUtils-0.3.13
 ModTweaker
 Modern Warfare Cubed
 Modpack Configuration Checker
 Modular Diversity
-Modular Diversity-1.9
 Modular Machinery
 Modular Magic
 Modular Routers
 ModularUI
-MooFluids
 More Bees
 More Bows: Restrung!
-More Default Options
 More Electric Tools
 More Libs
 More Loot Tables
