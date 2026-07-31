@@ -669,7 +669,6 @@ MysticalLib
 NBT-API
 NCO Java Legacy Lib
 Name Pain
-Natura
 Natura Legacy
 Nature's Compass
 Neat
@@ -743,7 +742,6 @@ Pam's Weee! Flowers
 Parasites: Reloaded
 Particle Culling
 Passable Leaves
-Patchouli
 Patchouli Books
 Patchouli ROFL Edition
 Performant

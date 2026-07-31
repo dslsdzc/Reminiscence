@@ -325,3 +325,9 @@
 **Quark 选 RotN Edition**（1.12.2 分支适配）——同 modid 冲突需构建期处理（二选一装）
 
 **待定**：Natura vs Natura Legacy（同一模组两版本，难选）· Patchouli vs ROFL（优势信息待补）
+
+## 待定项闭环（信息补查后拍板）
+
+- **Natura → 保留 Natura Legacy**（1.12.2 活跃维护分支，Elite Modding Team/ACGaming；原版 mDiyo 停更）——删原版条目
+- **Patchouli → 保留 Patchouli ROFL Edition**（1.12.2 适配分支，Mets；141 包在用验证兼容 Patchouli API）——删官方条目
+- 二选一决策全部闭环（21 组）
