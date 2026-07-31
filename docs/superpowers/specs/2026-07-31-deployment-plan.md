@@ -22,7 +22,10 @@
                           出网目录 → 同步 → GitHub 公开仓 / 渠道
 ```
 
-- 服务器形态：自建（家庭/机房）或云 VPC 均可——要求：有公网可达 IP（或云弹性 IP）供 WireGuard 端点
+- 服务器形态：**自建台式机（用户现有大电脑，性能一般但够用——Gitea ~200MB 内存，编译慢可错峰）**
+- 网络：家庭 NAT 后 + **DDNS**（路由器端口转发 51820/UDP → 电脑内网 IP）；WireGuard Endpoint 用 DDNS 域名
+- **CGNAT 验证（关键前置）**：国内家庭宽带部分为运营商大内网（CGNAT），DDNS 解析的"公网 IP"实际不可达。验证：电脑上 `curl ifconfig.me` 的 IP 与路由器 WAN 口 IP 对比——相同 = 真公网可用；不同 = CGNAT，端口转发失效 → 需加一台廉价 VPS 做 WireGuard 中继（见 §3.2）
+- 电脑 7×24 常开；功耗/散热注意（长期跑 Gitea+runner 负载不高，可关显示器）
 - 个人电脑只是"显示器"：所有私有代码操作发生在服务器上（SSH/VS Code Remote/Web IDE）
 
 ## 2. 服务器准备
@@ -61,12 +64,25 @@ PrivateKey = <设备私钥>
 
 [Peer]
 PublicKey = <服务器公钥>
-Endpoint = <服务器公网IP>:51820
+Endpoint = <DDNS域名>:51820        # 家庭 NAT：用 DDNS 域名，不用 IP
 AllowedIPs = 10.66.0.0/24
-PersistentKeepalive = 25
+PersistentKeepalive = 25            # 保活——NAT 映射不超时
 ```
 
 验证：`ping 10.66.0.1` 通即接入。
+
+### 3.1 路由器设置（家庭 NAT）
+
+- DDNS：路由器内置 DDNS（或设备上跑 ddclient）指向一个域名
+- 端口转发：51820/UDP → 服务器内网 IP（如 192.168.1.100）
+- 22/TCP 也可转发（公网 SSH 备用入口；仅密钥登录）——可选，VPN 通了之后用 VPN 更安全
+
+### 3.2 CGNAT 兜底（DDNS 不可达时）
+
+- 验证方法见 §1 的 CGNAT 检查
+- 兜底：廉价 VPS（~10 元/月，香港/国内）跑 WireGuard 中继：
+  - VPS 上 `wg0` 服务端（公网 Endpoint），服务器与开发设备都是 Peer（点对点由 VPS 中转）
+  - 或 frp 反向隧道（VPS 暴露 51820 → 转发内网服务器）
 
 ## 4. Gitea 部署（Docker Compose）
 
