@@ -83,3 +83,11 @@
 **非模组混入**：CTR VCR 是光影包（移出 mods 清单 → shaderpacks）
 
 **批量表 4 处误匹配已校正**：Blur/CC:Tweaked/Botania Tweaks/Body Camera 的批量许可证匹配不可信（同名不同模组）
+
+## Batch-05 核查发现（第 579-721 行，48 个）
+
+**已排除 13**：Cathedral/ChatFlow/Chibi/Clarity（无法核实）· Chunk Loaders（与 Chicken Chunks 功能重复）· ChickenChunks 重复条目 · ClientTweaks/Clumps/CoFHCore/CoFHWorld/CodeChickenLib 系重复条目（版本残留）
+
+**批量表误匹配校正（重要）**：Charm/Chisel/Chisels & Bits 的批量许可证匹配均为**误匹配**（匹配到同名不同模组）——真实许可是 ARR；CoFH 系是自定义许可（"Don't Be a Jerk"）——CoFH 全家许可需单独确认
+
+**待补 mcmod 评论核验 17 项**（WebSearch 额度耗尽时标未知）：Chococraft/ChiseledAdditions/CensoredASM 等——额度恢复后补查

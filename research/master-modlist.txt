@@ -187,29 +187,23 @@ Carbon Config
 Carry On
 Cases
 Cassette Music Disc
-Cathedral
 CensoredASM
 Ceramics
 Chameleon
 Champions
 ChanceCubes
 Charm
-ChatFlow
 Cherished Worlds
 Chest Transporter
-Chibi
 Chicken Chunks
 ChickenASM
-ChickenChunks
 Chisel
 ChiseledAdditions
 Chisels & Bits
 Chococraft
 Chocolate Quest
-Chunk Loaders
 Chunk-Pregenerator
 ChunkGenLimiter
-Clarity
 Classic 3D
 Classic Bar Legacy
 Classic Bars
@@ -217,19 +211,12 @@ Clay Bucket
 Cleanroom Relauncher
 Clear Water
 Client Tweaks
-ClientTweaks_1.12.2-3.1.11
 Cloche Profit Peripheral
 Clumps
-Clumps-3.1.2
 CoFH Core
 CoFH World
-CoFHCore
-CoFHWorld
 CocoaInput-[1.9-1.12.2]-3.1.5
 CodeChicken Lib
-CodeChicken Lib 1.8.+
-CodeChicken Lib CRE
-CodeChickenLib
 ColorUtility
 Colossal Chests
 Coloured Tooltips
