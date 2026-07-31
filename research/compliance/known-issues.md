@@ -71,3 +71,15 @@
 **无法核实 3 个（待人工核对 jar 来源）**：3D Sugar Cane · Advanced Alchemical Furnace · Alternative Rain Sounds
 
 **神秘时代联动注意**：AbyssalCraft Integration 的 TC6 联动引入永久扭曲负面机制；前置须 AC 稳定版
+
+## Batch-04 核查发现（第 445-575 行，50 个）
+
+**已排除 8**：BloodMagic/Brandons Core×2/Bring Me The Rings!/BuildingGadgets-2.8.1/CTM-版本残留（重复条目）· BloomTech/Body Camera（无法核实——mcmod/CF/Modrinth 均无 1.12.2 条目，待人工核对 jar 来源）
+
+**待决策（功能重复二选一）**：CC: Tweaked × OpenComputers（电脑模组双雄，本包两者都收——保留 CC:Tweaked(活跃)+OpenComputers(经典) 或二选一）；CTM × Fusion（连接纹理——本包两者都收）
+
+**评论级**：Blockcraftery 萤石 bug 未修（用 Refurbished 分支）· Binnie's Mods 须 Patched 分支 · Botania Tweaks 官方声明不支持 ExtraBotany（本包含 ExtraBotany——注意）· Botanic Bonsai 隐藏前置 Bonsai Trees
+
+**非模组混入**：CTR VCR 是光影包（移出 mods 清单 → shaderpacks）
+
+**批量表 4 处误匹配已校正**：Blur/CC:Tweaked/Botania Tweaks/Body Camera 的批量许可证匹配不可信（同名不同模组）
