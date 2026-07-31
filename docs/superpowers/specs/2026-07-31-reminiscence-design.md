@@ -238,13 +238,15 @@ reminiscence-core (C)
 - 示例：Herobrine ← 幽灵碎片(暮色星)→幽魂传送；303 ← 红石核心(小行星带)→方块操控；Slenderman ← 暗影结晶(深渊星)→精神干扰
 - 信任系统：成功任务 +、被伤害 -；低于阈值回归野性需重新遭遇
 
-## 8. 护城河策略
+## 8. 护城河策略（方案 C：源码全公开 + CC BY-NC-ND 4.0）
 
-### 8.1 仓库结构（已确认方案 A：双仓库）
+### 8.1 仓库与许可（2026-07-31 修订：由双仓库闭源改为全公开）
 
-- **公开仓库 `Reminiscence`**：pack/(config/scripts/mods清单/manifest) · patches/(开源模组定制 diff) · docs/(玩家) · docs-dev/(公开开发) · build/ · EULA.md
-- **私有仓库 `Reminiscence-Core`**：core-native(C引擎) · core-mixin(Mixin注入层) · core-bridge(JVM桥接) · ai-dispatcher(调度内核) · docs/(JNI契约/注入清单/AI设计)
-- 对齐：公开仓 manifest.json 声明核心版本号 → 发布流水线注入二进制
+- **单仓库公开** `Reminiscence`（全部源码：C 引擎/Mixin 层/注册窗口/AI 集成/脚本/配置/文档）
+- **许可证：CC BY-NC-ND 4.0**（贪婪整合包同款，官方法律文本存 `LICENSE-CC-BY-NC-ND-4.0.txt`）——禁止商业使用、禁止演绎（改后分发）；配合 EULA 禁搬运/禁嵌入其他整合包
+- 开发期：私有仓开发（现有 Reminiscence-Core 保留），**发布时转公开**——开发期保护未完成内容，发布即开源
+- 无混淆（源码公开混淆无意义）· 无 NDA/CLA（贡献走 DCO：`Signed-off-by` 声明 + inbound=outbound，贡献提交即视为接受项目许可证）· 签名保留（防投毒可选）· 渠道指纹保留（防搬运溯源）· 强依赖保留（拆核心=机制消失，配置/脚本在 CC 下同样不可提取）
+- 防线映射：防代码级搬运/洗包 = 强（CC + EULA）；防"思路级借鉴" = 弱（机制/玩法不受版权保护，重写合法——闭源同样防不了法律层面，只是隐藏了实现难度）
 
 ### 8.2 三层防线
 
