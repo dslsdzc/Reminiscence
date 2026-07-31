@@ -175,3 +175,11 @@
 **TSV 误匹配纠正**：Integrated Dynamics = MIT · InvMove = LGPL-3.0 · IvToolkit 未标注（作者弃坑）
 
 **构建期实测**：Just Enough Energistics × AE2UEL · JEI Bees × Forestry CE
+
+## Batch-12 核查发现（第 1504-1612 行，41 条）
+
+**已排除 5**：Immersive Fx（无 1.12.2，仅 1.16.5+）· I Like Vanilla（无 1.12.2 模组——批量表误匹配为着色器）· Hwyla/IE/InGameInfoXML 变体去重
+
+**口碑警示**：Hunger Overhaul 红票 67%（难度大改）· IC2 Patcher 红票 80%（二进制补丁，官方提示备份存档）· IGIExteneded 依赖停更 IGI+LunatriusCore · **InfinityLib 包内无消费方（孤立库——可删）**
+
+**构建期实测**：Immersive Cables × AE2UEL 线缆兼容 · Hwyla+TOP+Wawla（Waila 系共存组合）

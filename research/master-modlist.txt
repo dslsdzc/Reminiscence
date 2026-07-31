@@ -458,9 +458,7 @@ Hunger Overhaul
 HungerTweaker
 HuntingDimension
 Hwyla
-Hwyla-1.8.26-B41_1.12.2
 I Know What I'm Doing
-I Like Vanilla
 I18nUpdateMod
 IC2 Crop-Breeding Plugin
 IC2 Patcher
@@ -476,20 +474,17 @@ Idle Tweaks
 Immersive Cables
 Immersive Combat
 Immersive Engineering
-Immersive Fx
 Immersive Interfaces - Mod Support Unofficial
 Immersive Petroleum
 Immersive Posts
 Immersive Technology
 Immersive Vehicles
 Immersive Vehicles - Official Content Pack [OCP] - Planes & Cars
-ImmersiveEngineering-0.12-92
 Improvable Skills
 In Control!
 In-Game Account Switcher
 InGame Info XML
 InGame Info XML Addon - Blood Magic
-InGameInfoXML
 InWorldCrafting
 Industrial Craft
 Industrial Foregoing
