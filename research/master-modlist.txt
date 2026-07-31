@@ -397,11 +397,9 @@ Fluid Interaction Tweaker
 Fluidlogged API
 Flux Networks
 FoamFix
-Foam​Fix
 Forestry
 ForgeEndertech
 ForgeMultipart
-Forgelin-1.8.4
 Forgelin-Continuous
 Forked Proxy
 ForkedEnderTweaker
@@ -412,10 +410,8 @@ Fugue
 Full Brightness
 Fusion (Connected Textures)
 Future MC
-GTNH's Forgelin
 Galacticraft Legacy
 Galacticraft Tweaker
-Galacticraft-Legacy
 GalacticraftTweaker
 Gambling Style [Archived]
 Game Stages

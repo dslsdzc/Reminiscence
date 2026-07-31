@@ -139,3 +139,15 @@
 **高风险**：FTB Project EX（官方明示 WIP，物品右击可崩溃——风险标注）· Expanded Equivalence（稳定评价 40%）· Fantasy 3D Weapons CIT（依赖 OptiFine）
 
 **功能重复二选一待定**：Extended Crafting vs Nomifactory fork · Extra Trees vs Binnie's Mods · FTB Backups vs AromaBackup · Fast Leaf Decay vs Quick Leaf Decay
+
+## Batch-10 核查发现（第 1242-1370 行，45 个）
+
+**已排除/去重**：FoamFix 零宽空格变体 · Forgelin 三选一（留 Continuous）· Galacticraft Legacy 重复行 · Galacticraft Tweaker 重复行
+
+**二选一待定**：Fixeroo vs Clumps（mcmod 明示 Fixeroo 可替换 Clumps）· ForgeMultipart vs CB Multipart（同一词条）· Fusion vs CTM（遗留）· ForkedEnderTweaker vs EnderTweaker
+
+**星系系**：Galacticraft Tweaker 对 GC-Legacy API 兼容需实测（与 ExtraPlanets 同作者 MJRLegends 生态）· Fugue 与 Cleanroom Relauncher 必需配套（正向）
+
+**无法核实 4（待人工核对 jar）**：Find My Items And Fluids · FindMeAnyDurability · Finite Gas · Forked Proxy
+
+**资源包**：Full Brightness（移入 resourcepacks）
